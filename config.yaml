@@ -1,0 +1,186 @@
+baseURL: /
+languageCode: en-us
+title: Prosper Social Finance
+theme: hugo-fresh
+googleAnalytics: # Put in your tracking code without quotes like this: UA-XXXXXX...
+# Disables warnings
+disableKinds:
+- taxonomy
+- taxonomyTerm
+markup:
+  goldmark:
+    renderer:
+      unsafe: true # Allows you to write raw html in your md files
+
+params:
+  # Open graph allows easy social sharing. If you don't want it you can set it to false or just delete the variable
+  openGraph: true
+  # Used as meta data; describe your site to make Google Bots happy 
+  description: 
+  navbarlogo:
+  # Logo (from static/images/logos/___)
+    image: logo.svg
+    link: /
+  font:
+    name: "Open Sans"
+    sizes: [400,600]
+  hero:
+    # Main hero title
+    title: A STUDENT RUN SOCIALLY RESPONSIBLE INVESTMENT FUND
+    # Hero subtitle (optional)
+    subtitle: THE UK'S FIRST
+    # Button text
+    buttontext: Join us
+    # Where the main hero button links to
+    buttonlink: "#"
+    # Hero image (from static/images/___)
+    image: illustrations/worker.svg
+    # Footer logos (from static/images/logos/clients/___.svg)
+    # clientlogos:
+    # - systek
+    # - tribe
+    # - kromo
+    # - infinite
+    # - gutwork
+  # Customizable navbar. For a dropdown, add a "sublinks" list.
+  navbar:
+  - title: About
+    sublinks:
+    - title: Overview
+      url: /about
+    - title: Mission & Values
+      url: /
+    - title: Our Team
+      url: /
+    - title: Our History
+      url: /
+  - title: Investments
+    sublinks:
+    - title: Our Philosophy
+      url: /
+    - title: Our Strategy
+      url: /
+  - title: Social Impact
+    sublinks:
+    - title: Overview
+      url: /
+    - title: Community Engagemnt
+      url: /
+  - title: Our Programmes
+    url: /
+  - title: Blog
+    url: /blog
+  # - title: Dropdown
+  #   sublinks:
+  #   - title: Dropdown item
+  #     url: /
+  #   - title: Dropdown item
+  #     url: /
+  #   - title: Dropdown item
+  #     url: /
+  # - title: Log in
+  #   url: /
+  - title: Join us
+    url: /
+    button: true
+  section1:
+    title: We empower students
+    subtitle: to make change through finance
+    tiles:
+    - title: Learn ESG Investing
+      icon: mouse-globe
+      text: We train a select group of analysts every semester
+      url: /
+      buttonText: Learn more
+    - title: Support Innovation
+      icon: laptop-cloud
+      text: Make real-world imapct with real investments
+      url: /
+      buttonText: Learn more
+    - title: Finance Change
+      icon: plug-cloud
+      text: All our profits go to charities and community projects
+      url: /
+      buttonText: Learn more
+  section2:
+    title: What even is ESG investing?
+    subtitle: I hear you ask
+    features:
+    - title: Environmental responsability
+      text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
+      # Icon (from /images/illustrations/icons/___.svg)
+      icon: laptop-globe
+    - title: Social impact
+      text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
+      icon: doc-sync
+    - title: Corporate governance
+      text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
+      icon: mobile-feed
+  section3:
+    title: Meet like-minded people
+    subtitle: join the community
+    image: team.jpg
+    buttonText: Meet the team
+    buttonLink: "#"
+  section4:
+    title: Don't just take our word for it
+    subtitle: Here is what some of our former analysts had to say
+    clients:
+    - name: Conan Phimister
+      quote: One of the best things about Prosper was the exposure to people within the finance industry trying to push socially responsible finance forward
+      job: Analyst, 18/19 Sem 1
+      img: 1
+    - name: Melissa Fasol
+      quote: The Prosper community is diverse in culture and academic background – everyone is welcome and equally able to make a valuable contribution
+      job: Analyst, 18/19 Sem 1
+      img: 2
+    - name: Ross Morrison
+      quote: The training team managed to keep the content fun and engaging, whilst constantly developing everyone's presentation and public speaking skills
+      job: Analyst, 18/19 Sem 1
+      img: 3
+  section5: true
+  footer:
+    # Logo (from /images/logos/___)
+    logo: logo-full.svg
+    # Social Media Title
+    socialmediatitle: Follow Us
+    # Social media links (GitHub, Twitter, etc.). All are optional.
+    socialmedia:
+    - link: https://facebook.com/prospersocialfinance/
+      # Icons are from Font Awesome
+      icon: facebook
+    - link: https://instagram.com/prospersocialfinance
+      icon: instagram
+    - link: https://twitter.com/prospersocfin
+      icon: twitter
+    - link: https://www.linkedin.com/company/prospersocialfinance/
+      icon: linkedin
+    - link: https://www.youtube.com/channel/UC3zBvpY_n0QkSxrAatTSPLg/
+      icon: youtube-play
+    bulmalogo: false
+    quicklinks:
+      column1:
+        title: "About"
+        links:
+        - text: Overview
+          link: /about
+        - text: Mission & Values
+          link: /
+        - text: Our Team
+          link: /
+        - text: Our History
+          link: /
+      column2:
+        title: "Investments"
+        links:
+        - text: Our Philosophy
+          link: /
+        - text: Our Strategy
+          link: /
+      column3:
+        title: "Social impact"
+        links:
+        - text: Overview
+          link: /
+        - text: Community Engagemnt
+          link: /
