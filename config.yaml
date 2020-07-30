@@ -75,7 +75,7 @@ params:
     - title: Senior Analysts
       url: /senior-analyst-programme
   - title: Blog
-    url: /blog
+    url: /
   # - title: Dropdown
   #   sublinks:
   #   - title: Dropdown item
@@ -171,22 +171,22 @@ params:
         - text: Overview
           link: /about
         - text: Mission & Values
-          link: /
+          link: /mission
         - text: Our Team
-          link: /
+          link: /team
         - text: Our History
-          link: /
+          link: /history
       column2:
         title: "Investments"
         links:
         - text: Our Philosophy
-          link: /
+          link: /philosophy
         - text: Our Strategy
-          link: /
+          link: /strategy
       column3:
         title: "Social impact"
         links:
         - text: Overview
-          link: /
+          link: /social-impact
         - text: Community Engagemnt
-          link: /
+          link: /community-engagement
