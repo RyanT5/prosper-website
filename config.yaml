@@ -34,7 +34,7 @@ params:
     # Where the main hero button links to
     buttonlink: "#"
     # Hero image (from static/images/___)
-    image: illustrations/worker.svg
+    image: illustrations/graph.png
     # Footer logos (from static/images/logos/clients/___.svg)
     # clientlogos:
     # - systek
@@ -94,19 +94,19 @@ params:
     subtitle: to make change through finance
     tiles:
     - title: Learn ESG Investing
-      icon: mouse-globe
+      icon: school-outline
       text: We train a select group of analysts every semester
-      url: /
+      url: /programmes-overview
       buttonText: Learn more
     - title: Support Innovation
-      icon: laptop-cloud
+      icon: globe
       text: Make real-world imapct with real investments
-      url: /
+      url: /philosophy
       buttonText: Learn more
     - title: Finance Change
-      icon: plug-cloud
+      icon: star-outline
       text: All our profits go to charities and community projects
-      url: /
+      url: /social-impact
       buttonText: Learn more
   section2:
     title: What even is ESG investing?
@@ -144,7 +144,7 @@ params:
       quote: The training team managed to keep the content fun and engaging, whilst constantly developing everyone's presentation and public speaking skills
       job: Analyst, 18/19 Sem 1
       img: 3
-  section5: true
+  section5: false
   footer:
     # Logo (from /images/logos/___)
     logo: logo-full.svg
