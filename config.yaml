@@ -49,25 +49,31 @@ params:
     - title: Overview
       url: /about
     - title: Mission & Values
-      url: /
+      url: /mission
     - title: Our Team
-      url: /
+      url: /team
     - title: Our History
-      url: /
+      url: /history
   - title: Investments
     sublinks:
     - title: Our Philosophy
-      url: /
+      url: /philosophy
     - title: Our Strategy
-      url: /
+      url: /strategy
   - title: Social Impact
     sublinks:
     - title: Overview
-      url: /
+      url: /social-impact
     - title: Community Engagemnt
-      url: /
+      url: /community-engagement
   - title: Our Programmes
-    url: /
+    sublinks:
+    - title: Programmes Overview
+      url: /programmes-overview
+    - title: Analyst Training
+      url: /training
+    - title: Senior Analysts
+      url: /senior-analyst-programme
   - title: Blog
     url: /blog
   # - title: Dropdown
@@ -121,7 +127,7 @@ params:
     subtitle: join the community
     image: team.jpg
     buttonText: Meet the team
-    buttonLink: "#"
+    buttonLink: "/team"
   section4:
     title: Don't just take our word for it
     subtitle: Here is what some of our former analysts had to say
