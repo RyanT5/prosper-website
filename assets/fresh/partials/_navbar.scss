@@ -37,8 +37,13 @@ Navbar
             }
         }
     }
+    #navbar-menu {
+        background-color: $blue-grey;
+        color: $white !important;
+    }
     .navbar-end {
         align-items: center;
+        color: white;
     }
     //Navbar items
     .navbar-item {
@@ -69,6 +74,11 @@ Navbar
                 .navbar-item {
                     padding: 10px 20px;
                     color: $blue-grey;
+                }
+                @media screen and (max-width: $desktop - 1px) {
+                    .navbar-item {
+                        color: $white;
+                    }
                 }
             }
             &:hover {
