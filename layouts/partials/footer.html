@@ -13,22 +13,22 @@
         </div>
       </div>
       {{- range $quickLinks }}
-        <div class="column">
-          <div class="footer-column">
-            <div class="footer-header">
-                <h3>{{ .title }}</h3>
-            </div>
-            <ul class="link-list">
-              {{- range .links }}
-              <li>
-                <a href="{{ .link }}">
-                  {{ .text }}
-                </a>
-              </li>
-              {{- end }}
-            </ul>
+      <div class="column">
+        <div class="footer-column">
+          <div class="footer-header">
+            <h3>{{ .title }}</h3>
           </div>
+          <ul class="link-list">
+            {{- range .links }}
+            <li>
+              <a href="{{ .link }}">
+                {{ .text }}
+              </a>
+            </li>
+            {{- end }}
+          </ul>
         </div>
+      </div>
       {{- end }}
       <div class="column">
         <div class="footer-column">
@@ -43,10 +43,18 @@
                 {{- end }}
               </div>
             </nav>
+            <ul class="link-list">
+              <li>
+                <a href="/">
+                  Contact us
+                </a>
+              </li>
+            </ul>
 
             {{- if $bulmaLogo }}
             <a href="https://bulma.io" target="_blank">
-              <img src="{{ "/images/logos/made-with-bulma.png" | relURL }}" alt="Made with Bulma" width="128" height="24">
+              <img src="{{ "/images/logos/made-with-bulma.png" | relURL }}" alt="Made with Bulma" width="128"
+                height="24">
             </a>
             {{- end }}
           </div>
