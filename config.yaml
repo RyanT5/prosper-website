@@ -52,8 +52,8 @@ params:
       url: /mission
     - title: Our Team
       url: /team
-    - title: Our History
-      url: /history
+    # - title: Our History
+    #   url: /history
   - title: Investments
     sublinks:
     - title: Our Philosophy
@@ -87,7 +87,7 @@ params:
   # - title: Log in
   #   url: /
   - title: Join us
-    url: /
+    url: /join-us
     button: true
   section1:
     title: We empower students
@@ -174,8 +174,8 @@ params:
           link: /mission
         - text: Our Team
           link: /team
-        - text: Our History
-          link: /history
+        # - text: Our History
+        #   link: /history
       column2:
         title: "Programmes"
         links:
