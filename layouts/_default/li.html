@@ -1,0 +1,4 @@
+<li class="blog_entry">
+    <span class="blog_date">{{ .Date.Format (.Site.Params.dateFormat | default "January 2, 2006" ) }}</span>
+    <a class="blog_title" href="{{ .Params.ExternalLink | default .RelPermalink }}">{{ .Title }}</a>
+</li>

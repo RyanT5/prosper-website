@@ -1,6 +1,6 @@
 ---
 title: "Prosper Social Finance: Students Taking Responsibility Through Socially Responsible Investing"
-subtitle: ""
+subtitle: "By Duncan Harris, Executive Director"
 date: 2020-02-14
 draft: false
 include_footer: true
@@ -23,6 +23,3 @@ All of this provides a fantastic basis for education, advocacy and discussion. T
 Through exposing the students to our financial system we also encourage critical discussion of how the system is currently constructed; the inherent flaws and inconsistencies become apparent when taught to those encountering them for the first time. It also exposes how incompatible an economic system built on growth can be with regard to resource consumption and planetary boundaries. Perhaps by working within this system, we ourselves are not being radical enough.
 
 Prosper is still in its infancy, but already we have trained over 80 students. We do not expect them all to go on to become fund managers or even necessarily into the financial industry. Rather we hope we have provided them with a fundamental financial literacy and the critical thinking skills necessary to effect change however they chose to do so. Though our direct financial impact is minimal, we aim to prove that our model can provide financial gains alongside social benefit. Moreover, we hope to inspire the next generation of leaders to go out and effect the change we as a society so desperately need.
-
-\- Duncan Harris  
-Executive Director of Prosper Social Finance and student of Physics and Music at the University of Edinburgh.

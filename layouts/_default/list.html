@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+
+<head>
+    {{ partial "meta.html" . }}
+    <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
+    {{ partial "css.html" . }}
+</head>
+
+<body>
+    <!-- Preloader -->
+    <div id="preloader">
+        <div id="status"></div>
+    </div>
+
+    {{ partial "navbar.html" . }}
+
+    <section class="section is-medium">
+        <div class="container">
+            <div id="wrapper">
+                <div class="columns">
+                    <div class="column is-centered-tablet-portrait">
+                        <h1 class="title section-title" style="margin-bottom: 0.5rem;">Company news</h1>
+                        <div class="divider"></div>
+                    </div>
+                </div>
+
+                <div class="content">
+                    {{ range .Pages }}
+                    {{- .Render "li" -}}
+                    {{ end }}
+                </div>
+            </div>
+        </div>
+    </section>
+
+    {{ partial "footer.html" . }}
+
+    <!-- Back To Top Button -->
+    <div id="backtotop"><a href="#"></a></div>
+
+    {{ if .Params.sidebar }}
+    {{ partial "single/sidebar.html" . }}
+    {{ end }}
+
+    {{ partial "javascript.html" . }}
+</body>
+
+</html>

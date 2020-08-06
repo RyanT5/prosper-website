@@ -1,6 +1,6 @@
 ---
 title: "GEFI Ethical Finance Conference 2019"
-subtitle: ""
+subtitle: "By Rory Sandison, Director of Training"
 date: 2019-11-03
 draft: false
 include_footer: true
@@ -14,5 +14,3 @@ From Prosper’s perspective, it was somewhat comforting that many of our values
 In order to finance a green transition of our society, we must be willing to forgo immediate returns and search for greater, more sustainable profits in the long term. One panellist, Russel Napier, suggested as asset managers, we must demand for changes in the equities market that encourage investors to hold their money in companies for longer periods and act like they really do own these companies. He proposed preferential voting rights and greater dividends for longer-term shareholders of a company. In addition, one would hope this sense of ownership should force investors to engage more with companies and express the concerns or suggestions they may have. At Prosper we feel this act of stewardship is crucial, and as shareholders we believe it is our responsibility to ensure that the companies we invest in act responsibly and sustainably.
 
 All in all, it was a hugely enlightening two days at the conference, and a real pleasure to hear from and meet so many people that believe that finance can be a force for good. We would like to thank GEFI for hosting us and for putting on what was truly a fantastic event.
-
-\- Rory Sandison, Director of Training

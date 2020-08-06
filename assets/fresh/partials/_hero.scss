@@ -103,3 +103,20 @@ iframe {
         margin-bottom: 30px;
     }
 }
+
+.blog {
+    &_entry {
+        margin-top: 20px;
+        margin-bottom: 50px;
+        list-style: none;
+    }
+    &_date {
+        font-size: 20px;
+        display: block;
+    }
+    &_title {
+        font-size: 25px;
+        color: $secondary !important;
+    }
+}
+

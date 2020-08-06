@@ -1,6 +1,6 @@
 ---
 title: "Where Are They Now"
-subtitle: ""
+subtitle: "By Jack Friend, Former Executive Director"
 date: 2019-02-21
 draft: false
 include_footer: true
@@ -13,5 +13,3 @@ My experience at Prosper has been fundamental in shaping my current career as we
 Since leaving University, I have started working for Alpha F.M.C as an analyst consultant. We work with asset and wealth managers to help them with any challenges they might face to deliver the best results for their end investors. Since joining, I have been on several projects at different asset managers and have already started learning a lot. Excitingly, as we have seen the industry begin to react to a demand for the incorporation of sustainability and ESG (Environmental, Social and Governance) factors within investment processes and philosophies, Alpha have started to work with our clients to help them to properly integrate these considerations across their business, from their investment philosophy to which data to use and how best to keep up with the myriad of sustainability regulation. 
 
 In short, Prosper has shaped my interests, enabled me to think critically, but positively, about the future of the asset management industry and given me lifelong skills, memories and friends.’
-
-\- Jack Friend, Former Executive Director

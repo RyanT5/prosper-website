@@ -75,7 +75,7 @@ params:
     - title: Senior Analysts
       url: /senior-analyst-programme
   - title: Blog
-    url: /
+    url: /blog
   # - title: Dropdown
   #   sublinks:
   #   - title: Dropdown item
@@ -141,7 +141,7 @@ params:
       job: Analyst, 18/19 Sem 1
       img: 2
     - name: Ross Morrison
-      quote: The training team managed to keep the content fun and engaging, whilst constantly developing everyone's presentation and public speaking skills
+      quote: The training team managed to keep the content fun and engaging, whilst constantly developing presentation and public speaking skills
       job: Analyst, 18/19 Sem 1
       img: 3
   section5: false
