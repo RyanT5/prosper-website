@@ -16,11 +16,13 @@ The Programme’s content has been carefully designed to be accessible for begin
 
 To complement the theoretical knowledge they gain during the Programme’s weekly sessions, Analysts conduct independent research in teams to prepare and pitch an investment proposal for our Investment Panel.
 
+![](/images/analysts.jpg)
+
 In addition to providing technical skills, our Programme is designed to develop the necessary soft skills for Analyst’s investment proposals delivered at the end of the Programme. Exercises to develop their presentation skills and written skills are embedded throughout the Programme. Hence, by the time Analysts begin writing and planning the pitch for their proposals they are well prepared.
 
 By working in teams, Prosper Analysts interact with like-minded, passionate and driven individuals and become a part of the Prosper community!
 
-<div style="background: #F39200; color: white !important; padding: 30px; border-radius: 20px;">
+<div style="background: #F39200; color: white !important; padding: 30px; border-radius: 20px; margin-top: 30px;">
 
 <h2 style="color: white;">Interested in applying?</h2>
 
