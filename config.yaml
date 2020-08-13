@@ -32,9 +32,9 @@ params:
     # Button text
     buttontext: Join us
     # Where the main hero button links to
-    buttonlink: "#"
+    buttonlink: "/join-us"
     # Hero image (from static/images/___)
-    image: illustrations/graph.png
+    image: illustrations/graph2.png
     # Footer logos (from static/images/logos/clients/___.svg)
     # clientlogos:
     # - systek
