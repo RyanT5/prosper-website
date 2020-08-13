@@ -12,10 +12,14 @@ In the beginning of each semester, before applications for the Programme open, t
 
 Since new projects are announced each semester, Senior Analysts can be part of the Senior Analyst Programme for as many semesters as they wish. The Programme is also designed to allow Senior Analysts to be part of the programme in non-consecutive semesters.
 
-## Interested in applying? 
+<div style="background: #F39200; color: white !important; padding: 30px; border-radius: 20px;">
+
+<h2 style="color: white;">Interested in applying?</h2>
 
 We encourage all of our previous Analysts to join our Senior Analyst Programme! Apply the skills you learned as an Analyst and help us in our mission. If you haven’t already, join our mailing list and follow our social media pages to receive notifications of when applications are open. Keep an eye out on the Prosper Alumni Facebook page for announcements of our next projects.
 
-## Application Process:
+<h2 style="color: white;">Application Process:</h2>
 
 Candidates submit a written application which will be evaluated in addition to their performance in the Analyst Training Programme.
+
+</div>

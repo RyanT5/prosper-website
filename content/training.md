@@ -20,10 +20,14 @@ In addition to providing technical skills, our Programme is designed to develop 
 
 By working in teams, Prosper Analysts interact with like-minded, passionate and driven individuals and become a part of the Prosper community!
 
-## Interested in applying?
+<div style="background: #F39200; color: white !important; padding: 30px; border-radius: 20px;">
+
+<h2 style="color: white;">Interested in applying?</h2>
 
 We welcome and encourage all students from the University of Edinburgh - regardless of year and degree - to apply. We recruit new analysts every September and January. If you are interested in applying sign up to our mailing list and follow our social media pages to be notified when applications open.
 
-## Application Process:
+<h2 style="color: white;">Application Process:</h2>
 
 We carry out a rigorous two-stage recruitment process to ensure we attract analysts who embody our values, are eager to learn and are passionate about delivering a positive social impact through socially responsible investments. In Stage 1, candidates submit a written application which is assessed anonymously. Successful candidates are invited for interviews in Stage 2 of our process. These include individual and group interviews with a case study. Prior knowledge of finance is neither required nor assessed at any stage of our application process.
+
+</div>

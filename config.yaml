@@ -19,7 +19,7 @@ params:
   description: A student run socially responsible investment fund
   navbarlogo:
   # Logo (from static/images/logos/___)
-    image: logo.svg
+    image: logos/logo-full.svg
     link: /
   font:
     name: "Open Sans"
