@@ -1,7 +1,7 @@
 ---
-title: "Where Are They Now"
+title: "Where Are They Now?"
 subtitle: "By Jack Friend, Former Executive Director"
-date: 2019-02-21
+date: 2020-02-21
 draft: false
 include_footer: true
 ---
