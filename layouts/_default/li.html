@@ -1,4 +1,13 @@
 <li class="blog_entry">
-    <span class="blog_date">{{ .Date.Format (.Site.Params.dateFormat | default "January 2, 2006" ) }}</span>
+    <div class='blog_thumb' style='background-color: #3d3d3d;'>
+        <a href="{{ .Params.ExternalLink | default .RelPermalink }}">
+            {{ if .Params.image }}
+            <img class="blog_image" src="/images/blog/{{ .Params.image }}">
+            {{ else }}
+            <img class="blog_image" src="/images/logos/background-icon.png">
+            {{ end }}
+        </a>
+    </div>
     <a class="blog_title" href="{{ .Params.ExternalLink | default .RelPermalink }}">{{ .Title }}</a>
+    <span class="blog_date">{{ .Date.Format (.Site.Params.dateFormat | default "January 2, 2006" ) }}</span>
 </li>

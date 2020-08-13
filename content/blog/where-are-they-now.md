@@ -2,6 +2,7 @@
 title: "Where Are They Now?"
 subtitle: "By Jack Friend, Former Executive Director"
 date: 2020-02-21
+image: "DSC_2734.jpg"
 draft: false
 include_footer: true
 ---

@@ -2,6 +2,7 @@
 title: "Prosper Social Finance Named Finalists in 2018 Green Gown Awards"
 subtitle: ""
 date: 2018-07-09
+image: ""
 draft: false
 include_footer: true
 ---

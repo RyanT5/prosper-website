@@ -8,15 +8,15 @@ Cards and Card content styles
 .feature-card {
     width: 300px;
     height: 320px;
-    background-color: #fff;
-    border-radius: 3px;
+    background-color: #3d3d3d;
+    border-radius: 8px;
     margin: 0 auto;
     .card-title h4 {
         font-family: 'Open Sans', sans-serif;
         padding-top: 25px;
         font-size: 1.2rem;
         font-weight: 600;
-        color: $blue-grey;
+        color: $white;
     }
     .card-icon img {
         height: 120px;
@@ -25,7 +25,7 @@ Cards and Card content styles
     .card-text {
         padding: 0 40px;
         p {
-            color: $muted-grey;
+            color: $white;
         }
     }
     .card-action {

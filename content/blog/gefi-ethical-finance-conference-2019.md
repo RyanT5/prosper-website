@@ -2,6 +2,7 @@
 title: "GEFI Ethical Finance Conference 2019"
 subtitle: "By Rory Sandison, Director of Training"
 date: 2019-11-03
+image: "Ethical_Finance_2019_10.jpg"
 draft: false
 include_footer: true
 ---

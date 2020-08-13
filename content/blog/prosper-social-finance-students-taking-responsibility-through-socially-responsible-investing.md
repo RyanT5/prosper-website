@@ -2,6 +2,7 @@
 title: "Prosper Social Finance: Students Taking Responsibility Through Socially Responsible Investing"
 subtitle: "By Duncan Harris, Executive Director"
 date: 2020-02-14
+image: "IMG_0345.JPG"
 draft: false
 include_footer: true
 ---

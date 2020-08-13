@@ -81,10 +81,11 @@ iframe {
     left: 130px;
     text-align: center;
     font-size: 20px;
+    border: 2px solid $secondary;
 }
 .linkedin-icon {
     position: relative;
-    top: 20%;
+    top: 18%;
 }
 @media screen and (max-width: $tablet - 1px) {
     .team-image-container, .team-info-container {
@@ -111,12 +112,28 @@ iframe {
         list-style: none;
     }
     &_date {
-        font-size: 20px;
+        margin-top: 5px;
+        font-size: 16px;
         display: block;
     }
     &_title {
-        font-size: 25px;
+        font-size: 26px;
+        line-height: 34px;
         color: $secondary !important;
+        &:hover {
+            text-decoration: underline;
+        }
+    }
+    &_thumb {
+        height: 300px;
+        width: 100%;
+        object-fit: cover;
+        margin-bottom: 10px;
+    }
+    &_image {
+        height: 100%;
+        width: 100%;
+        object-fit: cover;
     }
 }
 
