@@ -6,7 +6,11 @@ draft: false
 include_footer: true
 ---
 
-Our eight week Analyst Training Programme is the ideal introduction to socially responsible investments! Successful candidates join Prosper as analysts and receive tuition from our Heads of Training and industry professionals. The Programme’s content has been carefully designed to be accessible for beginners with no previous knowledge of finance but challenging enough for those who come from a financial background.
+Our eight week Analyst Training Programme is the ideal introduction to socially responsible investments! Successful candidates join Prosper as analysts and receive tuition from our Heads of Training and industry professionals.
+
+### No previous knowledge needed
+
+The Programme’s content has been carefully designed to be accessible for beginners with no previous knowledge of finance but challenging enough for those who come from a financial background.
 
 ![](/images/training.png)
 
