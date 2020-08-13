@@ -12,7 +12,21 @@ At the core of what we do are our Programmes. Currently, we run two programmes e
 
 All Prosper Analysts complete an initial eight-week training programme, as well as ongoing training throughout their Prosper careers. We work with students from all academic and social backgrounds who share our values.
 
-<!-- Buttons -->
+<div style="width: wrap; margin: auto; text-align: center; margin: 20px 0px 20px;">
+
+<a href="/training">
+<span class="button signup-button rounded secondary-btn raised" style="width: 250px; margin: auto; margin-top: 5px; margin-bottom: 5px;">
+    Analysts
+</span>
+</a>
+
+<a href="/senior-analyst-programme">
+<span class="button signup-button rounded secondary-btn raised" style="width: 250px; margin: auto; margin-top: 5px; margin-bottom: 5px;">
+    Senior analysts
+</span>
+</a>
+
+</div>
 
 Our Programmes aim to equip Analysts and Senior Analysts with the knowledge and skills to start making socially responsible investments and will prepare them to make a positive impact in the future.
 
