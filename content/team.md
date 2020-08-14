@@ -146,6 +146,6 @@ include_footer: true
 <div class="team-info-container">
 <h3 class="team-member-name">Jai Shah</h3>
 <h5 class="team-member-position">Head of Strategy</h5>
-<p>“I am currently studying for a degree in Chemical Engineering. I got involved with Prosper to improve my understanding of financial metrics and to get a better picture of current industry ESG standards. Looking forward, I hope to implement and development a plan as Head of Strategy to add more value to Prosper.”</p>
+<p>“I am currently studying for a degree in Chemical Engineering. I got involved with Prosper to improve my understanding of financial metrics and to get a better picture of current industry ESG standards. Looking forward, I hope to develop and implement a plan as Head of Strategy to add more value to Prosper.”</p>
 </div>
 </div>

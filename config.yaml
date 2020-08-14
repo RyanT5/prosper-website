@@ -110,7 +110,7 @@ params:
       buttonText: Learn more
   section2:
     title: What is ESG investing?
-    subtitle: I hear you ask
+    subtitle:
     features:
     - title: Environmental
       text: Here we assess to what extent a company’s operations impact the environment. We consider factors such as waste management, carbon footprint and the use of natural resources.
@@ -120,7 +120,7 @@ params:
       text: Here we focus on how a company impacts communities at all levels. Does their business model have negative social externalities? Are they helping to improve the quality of life of people around the world?
       icon: doc-sync
     - title: Governance
-      text: Governance addresses the leadership and management of a business. How does a company address diversity and inclusion? Are they transparent on executive pay and incentives?
+      text: Here we address the leadership and management of a business. How does a company address diversity and inclusion? Are they transparent on executive pay and incentives?
       icon: mobile-feed
   section3:
     title: Meet like-minded people
