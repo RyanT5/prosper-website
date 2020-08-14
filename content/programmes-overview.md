@@ -7,7 +7,7 @@ include_footer: true
 
 At the core of what we do are our Programmes. Currently, we run two programmes each semester: our Analyst Training Programme and Senior Analyst Programme. It is through these programmes that students at the University of Edinburgh can become a part of Prosper, get first-hand experience with socially responsible investments and receive top quality training experiences.
 
-![](/images/programmes-collage.png)
+![Some members on our programmes](/images/programmes-collage.png)
 
 All Prosper Analysts complete an initial eight-week training programme, as well as ongoing training throughout their Prosper careers. We work with students from all academic and social backgrounds who share our values.
 
@@ -29,4 +29,4 @@ All Prosper Analysts complete an initial eight-week training programme, as well 
 
 Our Programmes aim to equip Analysts and Senior Analysts with the knowledge and skills to start making socially responsible investments and will prepare them to make a positive impact in the future.
 
-![](/images/community-structure.png)
+![Our community structure](/images/community-structure.png)

@@ -15,7 +15,7 @@ In addition to our training programme, we have consistently hosted events which 
 
 A highlight of this past year was the hosting of our event ‘Rethinking Capitalism: The Fourth Industrial Revolution’ organised in collaboration with the Buchanan Institute, Freshsight and Economics for Change.
 
-![](/images/event.JPG)
+![Some members at an event](/images/event.JPG)
 
 This event aimed to call students to question and rethink the ways in which technology and capitalism intersect and affect one another and how they might be used for social good. Our four speakers, Chris Speed (Chair of Design Informatics), Lorrell Quinn (CEO of Sustainably), Uzma Khan (Deputy Director of Economic Strategy, Scottish Government) and Stephen Ingledew (CEO of Fintech Scotland) were chosen to reflect a number of perspectives, be it public or private sector, and answer questions from students and members of the public.
 

@@ -9,7 +9,7 @@ Interested in finding out more about what we do or how you can get involved?
 
 Contact us at: operations@prospersocialfinance.co.uk
 
-![](/images/contact.JPG)
+![Some analysts in a workshop](/images/contact.JPG)
 
 You can also sign up to our mailing list for updates.
 

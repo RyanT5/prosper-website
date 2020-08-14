@@ -7,7 +7,7 @@ include_footer: true
 
 Our Senior Analyst Programme is available to Prosper’s Analysts who have undergone the Analyst Training Programme. The Senior Analyst Programme is designed to expand Analyst’s knowledge of Prosper’s investments and its processes as a fund and social enterprise. Rather than working through a syllabus, Senior Analysts work on projects which may relate to all areas of Prosper’s operations. Senior Analysts work closely with the Management Team, with greater independence and have the opportunity to make their own impact on Prosper’s activities.
 
-![](/images/senior-analysts.JPG)
+![Some of our senior analysts](/images/senior-analysts.JPG)
 
 In the beginning of each semester, before applications for the Programme open, the Management Team announces 2-3 projects which the Senior Analysts will complete during the semester. Throughout the semester they are guided by the Management Team but complete the majority of their work independently and submit the final product at the end of the semester.
 

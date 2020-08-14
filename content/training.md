@@ -11,11 +11,11 @@ Our eight week Analyst Training Programme is the ideal introduction to socially 
 
 The Programme’s content has been carefully designed to be accessible for beginners with no previous knowledge of finance but challenging enough for those who come from a financial background.
 
-![](/images/training.png)
+![The analyst curriculum](/images/training.png)
 
 To complement the theoretical knowledge they gain during the Programme’s weekly sessions, Analysts conduct independent research in teams to prepare and pitch an investment proposal for our Investment Panel.
 
-![](/images/analysts.jpg)
+![Some analysts in a workshop](/images/analysts.jpg)
 
 In addition to providing technical skills, our Programme is designed to develop the necessary soft skills for Analyst’s investment proposals delivered at the end of the Programme. Exercises to develop their presentation skills and written skills are embedded throughout the Programme. Hence, by the time Analysts begin writing and planning the pitch for their proposals they are well prepared.
 

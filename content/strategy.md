@@ -11,4 +11,4 @@ We are a value fund; investing in relatively stable companies with a history of 
 
 <div class="white-space"></div>
 
-![](/images/illustrations/strategy.png)
+![Our 5 step strategy](/images/illustrations/strategy.png)
