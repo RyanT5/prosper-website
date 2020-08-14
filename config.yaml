@@ -107,7 +107,7 @@ params:
   section3:
     title: Meet like-minded people
     subtitle: join the community
-    image: team.jpg
+    image: pinboard.png
     buttonText: Meet the team
     buttonLink: "/team"
   section4:
