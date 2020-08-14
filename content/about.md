@@ -1,7 +1,6 @@
 ---
 title: "About us"
 subtitle: ""
-date: 2020-07-23
 draft: false
 include_footer: true
 ---

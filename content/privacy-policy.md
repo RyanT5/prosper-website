@@ -1,7 +1,6 @@
 ---
 title: "Privacy Policy"
 subtitle: ""
-date: 2020-08-04T20:46:17+01:00
 draft: false
 include_footer: true
 ---

@@ -1,7 +1,6 @@
 ---
 title: "Join Us"
 subtitle: ""
-date: 2020-08-05T12:40:16+01:00
 draft: false
 include_footer: true
 ---

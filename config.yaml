@@ -36,12 +36,6 @@ params:
     # Hero image (from static/images/___)
     image: illustrations/graph2.png
     # Footer logos (from static/images/logos/clients/___.svg)
-    # clientlogos:
-    # - systek
-    # - tribe
-    # - kromo
-    # - infinite
-    # - gutwork
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
   - title: About
@@ -52,8 +46,6 @@ params:
       url: /mission
     - title: Our Team
       url: /team
-    # - title: Our History
-    #   url: /history
   - title: Investments
     sublinks:
     - title: Our Philosophy
@@ -76,16 +68,6 @@ params:
       url: /senior-analyst-programme
   - title: Blog
     url: /blog
-  # - title: Dropdown
-  #   sublinks:
-  #   - title: Dropdown item
-  #     url: /
-  #   - title: Dropdown item
-  #     url: /
-  #   - title: Dropdown item
-  #     url: /
-  # - title: Log in
-  #   url: /
   - title: Join us
     url: /join-us
     button: true
@@ -174,8 +156,6 @@ params:
           link: /mission
         - text: Our Team
           link: /team
-        # - text: Our History
-        #   link: /history
       column2:
         title: "Programmes"
         links:
@@ -185,10 +165,3 @@ params:
           link: /training
         - text: Senior Analysts
           link: /senior-analyst-programme
-      # column3:
-      #   title: "Social impact"
-      #   links:
-      #   - text: Overview
-      #     link: /social-impact
-      #   - text: Community Engagemnt
-      #     link: /community-engagement

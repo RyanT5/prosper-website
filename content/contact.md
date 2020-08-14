@@ -1,7 +1,6 @@
 ---
 title: "Contact us"
 subtitle: ""
-date: 2020-08-14T13:23:18+01:00
 draft: false
 include_footer: true
 ---
