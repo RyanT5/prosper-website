@@ -56,7 +56,7 @@ params:
     sublinks:
     - title: Overview
       url: /social-impact
-    - title: Community Engagemnt
+    - title: Community Engagement
       url: /community-engagement
   - title: Our Programmes
     sublinks:
@@ -82,7 +82,7 @@ params:
       buttonText: Learn more
     - title: Support Innovation
       icon: globe
-      text: Make real-world imapct with real investments
+      text: Make real-world impact with real investments
       url: /philosophy
       buttonText: Learn more
     - title: Finance Change
