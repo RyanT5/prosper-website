@@ -1,8 +1,7 @@
 baseURL: /
 languageCode: en-us
-title: Prosper Social Finance
+title: Prosper Social Finance | UK’s first student-led SRI fund
 theme: hugo-fresh
-googleAnalytics: # Put in your tracking code without quotes like this: UA-XXXXXX...
 # Disables warnings
 disableKinds:
 - taxonomy
@@ -26,15 +25,15 @@ params:
     sizes: [400,600]
   hero:
     # Main hero title
-    title: A STUDENT RUN SOCIALLY RESPONSIBLE INVESTMENT FUND
+    title: Challenging perceptions, financing change
     # Hero subtitle (optional)
-    subtitle: THE UK'S FIRST
+    subtitle: The UK’s first student run socially responsible investment fund
     # Button text
     buttontext: Join us
     # Where the main hero button links to
     buttonlink: "/join-us"
     # Hero image (from static/images/___)
-    image: illustrations/graph2.png
+    image: illustrations/graph3.png
     # Footer logos (from static/images/logos/clients/___.svg)
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
@@ -96,14 +95,14 @@ params:
     features:
     - title: Environmental
       text: Here we assess to what extent a company’s operations impact the environment. We consider factors such as waste management, carbon footprint and the use of natural resources.
-      # Icon (from /images/illustrations/icons/___.svg)
-      icon: laptop-globe
+      # Icon (from /images/illustrations/icons/___.png)
+      icon: E
     - title: Social
       text: Here we focus on how a company impacts communities at all levels. Does their business model have negative social externalities? Are they helping to improve the quality of life of people around the world?
-      icon: doc-sync
+      icon: S
     - title: Governance
       text: Here we address the leadership and management of a business. How does a company address diversity and inclusion? Are they transparent on executive pay and incentives?
-      icon: mobile-feed
+      icon: G
   section3:
     title: Meet like-minded people
     subtitle: join the community
@@ -117,15 +116,15 @@ params:
     - name: Conan Phimister
       quote: One of the best things about Prosper was the exposure to people within the finance industry trying to push socially responsible finance forward
       job: Analyst, 18/19 Sem 1
-      img: 1
+      img: Conan.jpg
     - name: Melissa Fasol
       quote: The Prosper community is diverse in culture and academic background – everyone is welcome and equally able to make a valuable contribution
       job: Analyst, 18/19 Sem 1
-      img: 2
-    - name: Ross Morrison
-      quote: The training team managed to keep the content fun and engaging, whilst constantly developing presentation and public speaking skills
-      job: Analyst, 18/19 Sem 1
-      img: 3
+      img: Melissa.jpg
+    - name: Donald Toperesu
+      quote: Working with analysts from different cultural and racial backgrounds was also enlightening as I got to learn new concepts and improve my critical thinking skills
+      job: Analyst, 19/20 Sem 1
+      img: Donald.jpg
   section5: false
   footer:
     # Logo (from /images/logos/___)
