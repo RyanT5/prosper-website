@@ -10,16 +10,17 @@ Select an annual report to download:
 
 <!-- Add a new one at the top here -->
 
-<a href="/Prosper-Annual-Report-2020.pdf">
 <div class="report-card">
-    <i class="report-icon fa fa-file-text fa-2x"></i>
-    <p class="report-title">Prosper Annual Report 2020</p>
+    <a href="/Prosper-Annual-Report-2020.pdf">
+        <i class="report-icon fa fa-file-text fa-2x"></i>
+        <p class="report-title">Prosper Annual Report 2020</p>
+    </a>
 </div>
-</a>
 
-<a href="/Prosper-Annual-Report-2019.pdf">
+
 <div class="report-card">
-    <i class="report-icon fa fa-file-text fa-2x"></i>
-    <p class="report-title">Prosper Annual Report 2019</p>
+    <a href="/Prosper-Annual-Report-2019.pdf">
+        <i class="report-icon fa fa-file-text fa-2x"></i>
+        <p class="report-title">Prosper Annual Report 2019</p>
+    </a>
 </div>
-</a>
