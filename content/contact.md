@@ -1,5 +1,5 @@
 ---
-title: "Contact us"
+title: "Contact Us"
 subtitle: ""
 draft: false
 include_footer: true

@@ -163,10 +163,13 @@ iframe {
   content: "\002B";
   font-size: 2rem;
   position: absolute;
+  display: flex;
   right: 1rem;
+  top: 1rem;
 }
 .accordion-item-header.active::after {
   content: "\2212";
+//   display: block;
 }
 .accordion-item-body {
   max-height: 0;
@@ -177,7 +180,8 @@ iframe {
   padding: 1rem;
   line-height: 1.5rem;
   border-top: 2px solid;
-  border-image: linear-gradient(to right, transparent, #fff, transparent) 1;
+  border-width: 2px 0 0 0;
+  border-image: linear-gradient(to right, rgba(255,255,255,0.001), #fff, rgba(255,255,255,0.001)) 1;
 }
 
 @media(max-width:767px) {
