@@ -30,3 +30,5 @@ At the core of what we do are our Programmes. It is through these programmes tha
 ![Our community structure](/images/community-structure.png)
 
 In this spirit, we have formed a strong community of like-minded individuals who are interested in finance and want to make a difference.
+
+Take a closer look at our company through our [year in reviews](/annual-reports).
