@@ -6,27 +6,28 @@
 {{- $image      := index $hero "image" }}
 <div class="hero-body">
   <div class="container">
-    <div class="columns is-vcentered">
-      <div class="column is-5 is-offset-1 landing-caption">
-        <h1 class="title is-1 is-bold is-spaced" style="color: white; text-shadow: 2px 2px #000;">
+    <div class="columns is-vcentered" style="align-items: center; text-align: center;">
+      <div class="column landing-caption">
+        <h1 class="title is-1 is-bold is-spaced" style="text-shadow: 2px 2px #000;">
           {{ $title }}
         </h1>
         {{ with $subtitle }}
-        <h2 class="subtitle is-5 is-muted" style="color: white;">
+        <h2 class="subtitle is-5 is-muted" style="text-shadow: 1px 1px #000;">
           {{ . }}
         </h2>
         {{ end }}
         <p>
-          <a class="button cta rounded primary-btn raised" href="{{ $buttonLink }}">
+          <a class="button cta rounded primary-btn raised" href="{{ $buttonLink }}"
+            style="padding-left: 60px; padding-right: 60px;">
             {{ $buttonText }}
           </a>
         </p>
       </div>
-      <div class="column is-5 is-offset-1">
+      <!-- <div class="column is-5 is-offset-1">
         <figure class="image is-4by3">
           <img src="{{ printf "/images/%s" $image | relURL }}" alt="Description">
         </figure>
-      </div>
+      </div> -->
     </div>
   </div>
 </div>

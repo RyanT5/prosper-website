@@ -7,11 +7,24 @@ Hero styles
     padding-bottom: 6rem;
     overflow-x: hidden;
     .title, .subtitle {
-        font-family: 'Open Sans', sans-serif;
+        // font-family: 'Open Sans', sans-serif;
+        font-family: 'Spartan', sans-serif;
+        color: white !important;
     }
     .title {
         &.is-bold {
             font-weight: 700;
+            padding-left: 20%;
+            padding-right: 20%;
+            margin-top: 30px;
+
+        }
+        @media screen and (max-width: $tablet - 1px) {
+            &.is-bold {
+                padding-left: 0%;
+                padding-right: 0%;
+    
+            }
         }
     }
     .subtitle {
