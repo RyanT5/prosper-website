@@ -70,26 +70,6 @@ We have formed a strong community of like-minded individuals who are interested 
   </div>
   <div class="accordion-item">
     <div class="accordion-item-header">
-      How long are applications open for the Analyst Training Programme?
-    </div>
-    <div class="accordion-item-body">
-      <div class="accordion-item-body-content">
-        For Semester 1 applications are open for a month up until the first week of classes of the University of Edinburgh. For Semester 2, applications are open over the winter holidays and close during the first week of classes. Keep an eye on our social media and subscribe to our mailing list to receive updates about the recruitment process!
-      </div>
-    </div>
-  </div>
-  <div class="accordion-item">
-    <div class="accordion-item-header">
-      How long are applications open for the Senior Analyst Programme?
-    </div>
-    <div class="accordion-item-body">
-      <div class="accordion-item-body-content">
-        For Semester 1 applications are open for a month up until the first week of classes of the University of Edinburgh. For Semester 2, applications are open over the winter holidays and close during the first week of classes. Keep an eye on our social media and subscribe to our mailing list to receive updates about the recruitment process!
-      </div>
-    </div>
-  </div>
-  <div class="accordion-item">
-    <div class="accordion-item-header">
       How can I join the Management Team?
     </div>
     <div class="accordion-item-body">
