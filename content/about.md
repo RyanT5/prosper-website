@@ -1,5 +1,5 @@
 ---
-title: "About us"
+title: "About Us"
 subtitle: ""
 draft: false
 include_footer: true

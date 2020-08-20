@@ -1,5 +1,5 @@
 ---
-title: "Meet the team"
+title: "Meet The Team"
 subtitle: ""
 draft: false
 include_footer: true
@@ -17,7 +17,7 @@ include_footer: true
 <div class="team-info-container">
 <h3 class="team-member-name">Vicky Grant</h3>
 <h5 class="team-member-position">Executive Director</h5>
-<p>"I am a 4th year Economics and Politics student. Growing up in Greece, I developed mixed feelings about finance but coming to university I knew it was a discipline I wanted to explore. Prosper was the ideal way to do this. It not only challenged my perception of finance, it also taught me how to use technical skills to deliver positive social impact. I am excited to lead Prosper in this new chapter and help expand its reach to students and social enterprises.”</p>
+<p>"I am a fourth year Economics and Politics student. Growing up in Greece, I developed mixed feelings about finance but coming to university I knew it was a discipline I wanted to explore. Prosper was the ideal way to do this. It not only challenged my perception of finance, it also taught me how to use technical skills to deliver positive social impact. I am excited to lead Prosper in this new chapter and help expand its reach to students and social enterprises.”</p>
 </div>
 </div>
 
@@ -71,6 +71,22 @@ include_footer: true
 
 <div class="team-member">
 <div class="team-image-container">
+<img class="team-image" src="/images/team/irem-sari.jpg">
+<a href="https://www.linkedin.com/in/iremsara/">
+<div class="linkedin-holder">
+<i class="linkedin-icon fa fa-linkedin"></i>
+</div>
+</a>
+</div>
+<div class="team-info-container">
+<h3 class="team-member-name">Irem Sara</h3>
+<h5 class="team-member-position">Head of Training</h5>
+<p>“I am a third year Economics and Mathematics student. I have first-hand experienced the mixture of economic development and instability in emerging markets which led me to wonder if finance can be used to achieve long-term sustainable growth. Through delivering Prosper’s training, I am excited to show new analysts how finance has the power to create positive social impact, not forgoing financial returns.”</p>
+</div>
+</div>
+
+<div class="team-member">
+<div class="team-image-container">
 <img class="team-image" src="/images/team/aggeliki-koufali.jpg">
 <a href="https://www.linkedin.com/in/angeliki-koufali-240a0b171/">
 <div class="linkedin-holder">
@@ -79,9 +95,9 @@ include_footer: true
 </a>
 </div>
 <div class="team-info-container">
-<h3 class="team-member-name">Aggeliki Koufali</h3>
+<h3 class="team-member-name">Angeliki Koufali</h3>
 <h5 class="team-member-position">Head of Operations</h5>
-<p>“I am a fourth year Economics student from Greece. I joined Prosper because I wanted to learn more about Finance and how it can be used through socially responsible investing to make a positive social impact. Being the next Head of Operations, I am excited to dive into Prosper’s affairs and ensure the fund’s operations run as smoothly and effectively as possible.”</p>
+<p>“I am a fourth year Economics student from Greece. I joined Prosper because I wanted to learn more about finance and how it can be used through socially responsible investing to make a positive social impact. Being the next Head of Operations, I am excited to dive into Prosper’s affairs and ensure the fund’s operations run as smoothly and effectively as possible.”</p>
 </div>
 </div>
 
@@ -114,22 +130,6 @@ include_footer: true
 <h3 class="team-member-name">Joel Stedman</h3>
 <h5 class="team-member-position">Head of Investment Strategy</h5>
 <p>“I am a post-graduate student on the Carbon Finance MSc, having previously studied Physics for undergraduate here at the University of Edinburgh. After having learned a great deal through the analyst training programme, I would like to see the portfolio widened from North America- and Europe-based holdings to include both more geographical regions and a more diverse set of assets, for instance bonds.”</p>
-</div>
-</div>
-
-<div class="team-member">
-<div class="team-image-container">
-<img class="team-image" src="/images/team/irem-sari.jpg">
-<a href="/">
-<div class="linkedin-holder">
-<i class="linkedin-icon fa fa-linkedin"></i>
-</div>
-</a>
-</div>
-<div class="team-info-container">
-<h3 class="team-member-name">Irem Sari</h3>
-<h5 class="team-member-position">Head of Training</h5>
-<p>“I am a third year Economics and Mathematics student. I have first-hand experienced the mixture of economic development and instability in emerging markets which led me to wonder if finance can be used to achieve long-term sustainable growth. Through delivering Prosper’s training, I am excited to show new analysts how finance has the power to create positive social impact, not forgoing financial returns.”</p>
 </div>
 </div>
 

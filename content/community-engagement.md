@@ -1,5 +1,5 @@
 ---
-title: "Community engagement"
+title: "Community Engagement"
 subtitle: ""
 draft: false
 include_footer: true
@@ -21,8 +21,18 @@ This event aimed to call students to question and rethink the ways in which tech
 
 We welcome all members of the community to listen and contribute to these crucial conversations. Sign up to our mailing list for updates on future events.
 
+<div style="width: wrap; margin: auto; text-align: center; margin: 20px 0px 20px;">
+
 <a href="http://eepurl.com/dEBYnX">
-<span class="button signup-button rounded secondary-btn raised" style="width: 250px; margin: auto; margin-top: 30px; display: flex;">
+<span class="button signup-button rounded secondary-btn raised" style="width: 250px; margin: auto; margin-top: 5px; margin-bottom: 5px;">
     Sign up to our mailing list
 </span>
 </a>
+
+<a href="https://facebook.com/prospersocialfinance/">
+<span class="button signup-button rounded secondary-btn raised" style="background: #0078ff; border: none; width: 250px; margin: auto; margin-top: 5px; margin-bottom: 5px;">
+    Follow us on Facebook
+</span>
+</a>
+
+</div>

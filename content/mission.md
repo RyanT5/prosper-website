@@ -1,6 +1,6 @@
 ---
-title: "Our mission"
-subtitle: ""
+title: "Our Mission & Values"
+subtitle: "The pillars of our organisation"
 draft: false
 include_footer: true
 ---
@@ -9,16 +9,6 @@ include_footer: true
 
 ![Our mission](/images/mission.png)
 
-<div class="white-space"></div>
-
-<div class="columns">
-    <div class="column is-centered-tablet-portrait">
-        <h1 class="title section-title">Our values</h1>
-        <h5 class="subtitle is-5 is-muted"></h5>
-        <div class="divider"></div>
-    </div>
-</div>
-
-Our core values are at the center of anything and everything we do as they ensure that all of Prosper’s team members are working towards the same goal. They underpin both our investment philosophy and all the decisions we make as a company.
+Our core values are at the centre of anything and everything we do as they ensure that all of Prosper’s team members are working towards the same goal. They underpin all the decisions we make as a company including our investments and recruitment process.
 
 ![Our values](/images/values.png)

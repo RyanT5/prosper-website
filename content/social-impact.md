@@ -1,5 +1,5 @@
 ---
-title: "Social impact"
+title: "Social Impact"
 subtitle: ""
 draft: false
 include_footer: true
