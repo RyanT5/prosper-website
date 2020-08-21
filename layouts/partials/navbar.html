@@ -58,11 +58,11 @@
         {{- range $navbar }}
         {{- if .sublinks }}
         <div class="navbar-item has-dropdown is-hoverable">
-          <a class="navbar-link">
+          <a class="navbar-link accordion-nav-header">
             {{ .title }}
           </a>
 
-          <div class="navbar-dropdown">
+          <div class="navbar-dropdown accordion-nav-body">
             {{- range .sublinks }}
             <a href="{{ .url }}" class="navbar-item">
               {{ .title }}
@@ -86,3 +86,30 @@
     </div>
   </div>
 </nav>
+<script>
+  const accordionItemHeaders = document.querySelectorAll(".accordion-nav-header");
+
+  accordionItemHeaders.forEach(accordionItemHeader => {
+    accordionItemHeader.addEventListener("click", event => {
+
+      // Uncomment in case you only want to allow for the display of only one collapsed item at a time!
+
+      // const currentlyActiveAccordionItemHeader = document.querySelector(".accordion-nav-header.active");
+      // if (currentlyActiveAccordionItemHeader && currentlyActiveAccordionItemHeader !== accordionItemHeader) {
+      //   currentlyActiveAccordionItemHeader.classList.toggle("active");
+      //   currentlyActiveAccordionItemHeader.nextElementSibling.style.maxHeight = 0;
+      // }
+      if (document.body.clientWidth < 928) {
+        accordionItemHeader.classList.toggle("active");
+        const accordionItemBody = accordionItemHeader.nextElementSibling;
+        if (accordionItemHeader.classList.contains("active")) {
+          accordionItemBody.style.maxHeight = accordionItemBody.scrollHeight + "px";
+        }
+        else {
+          accordionItemBody.style.maxHeight = 0;
+        }
+      }
+
+    });
+  });
+</script>
