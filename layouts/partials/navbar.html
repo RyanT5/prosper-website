@@ -87,10 +87,10 @@
   </div>
 </nav>
 <script>
-  const accordionItemHeaders = document.querySelectorAll(".accordion-nav-header");
+  const accordionNavHeaders = document.querySelectorAll(".accordion-nav-header");
 
-  accordionItemHeaders.forEach(accordionItemHeader => {
-    accordionItemHeader.addEventListener("click", event => {
+  accordionNavHeaders.forEach(accordionNavHeader => {
+    accordionNavHeader.addEventListener("click", event => {
 
       // Uncomment in case you only want to allow for the display of only one collapsed item at a time!
 
@@ -100,13 +100,13 @@
       //   currentlyActiveAccordionItemHeader.nextElementSibling.style.maxHeight = 0;
       // }
       if (document.body.clientWidth < 928) {
-        accordionItemHeader.classList.toggle("active");
-        const accordionItemBody = accordionItemHeader.nextElementSibling;
-        if (accordionItemHeader.classList.contains("active")) {
-          accordionItemBody.style.maxHeight = accordionItemBody.scrollHeight + "px";
+        accordionNavHeader.classList.toggle("active");
+        const accordionNavBody = accordionNavHeader.nextElementSibling;
+        if (accordionNavHeader.classList.contains("active")) {
+          accordionNavBody.style.maxHeight = accordionNavBody.scrollHeight + "px";
         }
         else {
-          accordionItemBody.style.maxHeight = 0;
+          accordionNavBody.style.maxHeight = 0;
         }
       }
 
