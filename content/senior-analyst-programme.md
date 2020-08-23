@@ -13,15 +13,7 @@ In the beginning of each semester, before applications for the Programme open, t
 
 Since new projects are announced each semester, Senior Analysts can be part of the Senior Analyst Programme for as many semesters as they wish. The Programme is also designed to allow Senior Analysts to be part of the programme in non-consecutive semesters.
 
-<div style="background: #F39200; color: white !important; padding: 30px; border-radius: 0.5rem; margin-top: 30px;">
-
-<h2 style="color: white;">Interested in applying?</h2>
-
-We encourage all of our previous Analysts to join our Senior Analyst Programme! Apply the skills you learned as an Analyst and help us in our mission. If you haven’t already, join our mailing list and follow our social media pages to receive notifications of when applications are open. Keep an eye out on the Prosper Alumni Facebook page for announcements of our next projects.
-
-<h2 style="color: white;">Application Process:</h2>
-
-Candidates submit a written application which will be evaluated in addition to their performance in the Analyst Training Programme.
+<div style="background: #3d3d3d; color: white !important; padding: 30px; border-radius: 0.5rem; margin-top: 30px;">
 
 <h2 style="color: white;">What’s in it for you?</h2>
 
@@ -32,6 +24,20 @@ Candidates submit a written application which will be evaluated in addition to t
 <li>Greater independence</li>
 <li>Senior Analysts can be part of the Senior Analyst Programme for as many semesters as they wish</li>
 </ul>
+
+</ul>
+
+</div>
+
+<div style="background: #F39200; color: white !important; padding: 30px; border-radius: 0.5rem; margin-top: 30px;">
+
+<h2 style="color: white;">Interested in applying?</h2>
+
+We encourage all of our previous Analysts to join our Senior Analyst Programme! Apply the skills you learned as an Analyst and help us in our mission. If you haven’t already, join our mailing list and follow our social media pages to receive notifications of when applications are open. Keep an eye out on the Prosper Alumni Facebook page for announcements of our next projects.
+
+<h2 style="color: white;">Application Process:</h2>
+
+Candidates submit a written application which will be evaluated in addition to their performance in the Analyst Training Programme.
 
 </div>
 
@@ -80,7 +86,7 @@ Candidates submit a written application which will be evaluated in addition to t
   </div>
   <div class="accordion-item">
     <div class="accordion-item-header">
-      How long are applications open for the Senior Analyst Programme?
+      When do applications open for the Senior Analyst Programme?
     </div>
     <div class="accordion-item-body">
       <div class="accordion-item-body-content">

@@ -43,6 +43,8 @@ params:
       url: /about
     - title: Mission & Values
       url: /mission
+    - title: Annual Reports
+      url: /annual-reports
     - title: Our Team
       url: /team
   - title: Investments

@@ -21,15 +21,7 @@ In addition to providing technical skills, our Programme is designed to develop 
 
 By working in teams, Prosper Analysts interact with like-minded, passionate and driven individuals and become a part of the Prosper community!
 
-<div style="background: #F39200; color: white !important; padding: 30px; border-radius: 0.5rem; margin-top: 30px;">
-
-<h2 style="color: white;">Interested in applying?</h2>
-
-We welcome and encourage all students from the University of Edinburgh - regardless of year and degree - to apply. We recruit new analysts every September and January. If you are interested in applying sign up to our mailing list and follow our social media pages to be notified when applications open.
-
-<h2 style="color: white;">Application Process:</h2>
-
-We carry out a two-stage holistic application process to ensure we attract analysts who embody our values, are eager to learn and are passionate about delivering a positive social impact through finance. In Stage 1, candidates submit a written application which is assessed anonymously. Successful candidates are invited for interviews in Stage 2 of our process. These include individual and group interviews with a case study. Prior knowledge of finance is neither required nor assessed at any stage of our application process.
+<div style="background: #3d3d3d; color: white !important; padding: 30px; border-radius: 0.5rem; margin-top: 30px;">
 
 <h2 style="color: white;">What’s in it for you?</h2>
 
@@ -41,6 +33,18 @@ We carry out a two-stage holistic application process to ensure we attract analy
 <li>Meet like-minded individuals with a passion for making a difference</li>
 <li>Develop your teamwork and presentation skills</li>
 </ul>
+
+</div>
+
+<div style="background: #F39200; color: white !important; padding: 30px; border-radius: 0.5rem; margin-top: 30px;">
+
+<h2 style="color: white;">Interested in applying?</h2>
+
+We welcome and encourage all students from the University of Edinburgh - regardless of year and degree - to apply. We recruit new analysts every September and January. If you are interested in applying sign up to our mailing list and follow our social media pages to be notified when applications open.
+
+<h2 style="color: white;">Application Process:</h2>
+
+We carry out a two-stage holistic application process to ensure we attract analysts who embody our values, are eager to learn and are passionate about delivering a positive social impact through finance. In Stage 1, candidates submit a written application which is assessed anonymously. Successful candidates are invited for interviews in Stage 2 of our process. These include individual and group interviews with a case study. Prior knowledge of finance is neither required nor assessed at any stage of our application process.
 
 </div>
 
@@ -89,7 +93,7 @@ We carry out a two-stage holistic application process to ensure we attract analy
   </div>
   <div class="accordion-item">
     <div class="accordion-item-header">
-      How long are applications open for the Analyst Training Programme?
+      When do applications open for the Analyst Training Programme?
     </div>
     <div class="accordion-item-body">
       <div class="accordion-item-body-content">

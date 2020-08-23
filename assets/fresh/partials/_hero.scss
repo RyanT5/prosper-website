@@ -6,9 +6,10 @@ Hero styles
     padding-top: 6rem;
     padding-bottom: 6rem;
     overflow-x: hidden;
-    .title, .subtitle {
+    .title,
+    .subtitle {
         // font-family: 'Open Sans', sans-serif;
-        font-family: 'Spartan', sans-serif;
+        font-family: "Spartan", sans-serif;
         color: white !important;
     }
     .title {
@@ -17,14 +18,17 @@ Hero styles
             padding-left: 20%;
             padding-right: 20%;
             margin-top: 30px;
-
         }
         @media screen and (max-width: $tablet - 1px) {
             &.is-bold {
                 padding-left: 0%;
                 padding-right: 0%;
-    
             }
+        }
+    }
+    @media screen and (max-width: $tablet - 1px) {
+        .title {
+            font-size: 2rem;
         }
     }
     .subtitle {
@@ -69,7 +73,8 @@ iframe {
     border-radius: 50%;
     object-fit: cover;
 }
-.team-image-container, .team-info-container {
+.team-image-container,
+.team-info-container {
     display: inline-block;
 }
 .team-info-container {
@@ -101,7 +106,8 @@ iframe {
     top: 18%;
 }
 @media screen and (max-width: $tablet - 1px) {
-    .team-image-container, .team-info-container {
+    .team-image-container,
+    .team-info-container {
         display: block;
         text-align: center;
     }
@@ -151,49 +157,49 @@ iframe {
 }
 
 .accordion {
-  width: 100%;
-  max-width: 1000px;
-  margin: 2rem auto;
+    width: 100%;
+    max-width: 1000px;
+    margin: 2rem auto;
 }
 .accordion-item {
-  background-color: $secondary;
-  color: #fff;
-  margin: 1rem 0;
-  border-radius: 0.5rem;
-  box-shadow: 0 2px 5px 0 rgba(0,0,0,0.25);
+    background-color: $secondary;
+    color: #fff;
+    margin: 1rem 0;
+    border-radius: 0.5rem;
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.25);
 }
 .accordion-item-header {
-  padding: 0.5rem 3rem 0.5rem 1rem;
-  min-height: 3.5rem;
-  line-height: 1.25rem;
-  font-weight: bold;
-  display: flex;
-  align-items: center;
-  position: relative;
-  cursor: pointer;
+    padding: 0.5rem 3rem 0.5rem 1rem;
+    min-height: 3.5rem;
+    line-height: 1.25rem;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    position: relative;
+    cursor: pointer;
 }
 .accordion-item-header::after {
-  content: "\002B";
-  font-size: 2rem;
-  position: absolute;
-  display: flex;
-  right: 1rem;
-  top: 1rem;
+    content: "\002B";
+    font-size: 2rem;
+    position: absolute;
+    display: flex;
+    right: 1rem;
+    top: 1rem;
 }
 .accordion-item-header.active::after {
-  content: "\2212";
+    content: "\2212";
 }
 .accordion-item-body {
-  max-height: 0;
-  overflow: hidden;
-  transition: max-height 0.2s ease-out;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
 }
 .accordion-item-body-content {
-  padding: 1rem;
-  line-height: 1.5rem;
-  border-top: 2px solid;
-  border-width: 2px 0 0 0;
-  border-image: linear-gradient(to right, rgba(255,255,255,0.001), #fff, rgba(255,255,255,0.001)) 1;
+    padding: 1rem;
+    line-height: 1.5rem;
+    border-top: 2px solid;
+    border-width: 2px 0 0 0;
+    border-image: linear-gradient(to right, rgba(255, 255, 255, 0.001), #fff, rgba(255, 255, 255, 0.001)) 1;
 }
 
 .report {

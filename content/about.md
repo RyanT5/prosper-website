@@ -31,4 +31,4 @@ At the core of what we do are our Programmes. It is through these programmes tha
 
 In this spirit, we have formed a strong community of like-minded individuals who are interested in finance and want to make a difference.
 
-Take a closer look at our company through our [year in reviews](/annual-reports).
+Take a closer look at our company through our [annual reports](/annual-reports).
