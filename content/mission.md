@@ -5,10 +5,6 @@ draft: false
 include_footer: true
 ---
 
-<!-- Our mission is to deliver positive social change in Edinburgh through responsible, student-led investments. -->
-
-<!-- ![Our mission](/images/mission.png) -->
-
 <div class="mission-holder">
     <div class="mission-image"></div>
     <div class="mission-card">
