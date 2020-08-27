@@ -35,16 +35,17 @@ collections:
     folder: "content" # The path to the folder where the documents are stored
     create: false # Allow users to create new documents in this collection
     slug: "team.md" # Filename template, e.g., title.md
-    - name: 'team_list'
-      label: 'Team List'
-      widget: 'list'
-      types:
-        - label: 'Type 1 Object'
-          name: 'type_1_object'
-          widget: 'object'
-          fields:
-            - { label: 'Name', name: 'name', widget: 'string' }
-            - { label: 'LinkedIn Link', name: 'linkedin-link', widget: 'string' }
-            - { label: 'Position', name: 'position', widget: 'string' }
-            - {label: "Image", name: "image", widget: "image"}
-            - { label: 'Bio', name: 'bio', widget: 'text' }
+    fields:
+      - name: 'team_list'
+        label: 'Team List'
+        widget: 'list'
+        types:
+          - label: 'Team Member'
+            name: 'team_member'
+            widget: 'object'
+            fields:
+              - { label: 'Name', name: 'name', widget: 'string' }
+              - { label: 'LinkedIn Link', name: 'linkedin_link', widget: 'string' }
+              - { label: 'Position', name: 'position', widget: 'string' }
+              - {label: "Image", name: "image", widget: "image"}
+              - { label: 'Bio', name: 'bio', widget: 'text' }
