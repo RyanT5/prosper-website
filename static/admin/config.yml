@@ -26,7 +26,7 @@ collections:
     slug: "{{slug}}" # Filename template, e.g., title.md
     fields: # The fields for each document, usually in front matter
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Subtitle", name: "subtitle", widget: "string"}
+      - {label: "Subtitle", name: "subtitle", widget: "string", required: false}
       - {label: "Draft", name: "draft", widget: "hidden", default: "false"}
       - {label: "Include Footer", name: "include_footer", widget: "hidden", default: "true"}
       - {label: "Body", name: "body", widget: "markdown"}
