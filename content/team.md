@@ -1,13 +1,12 @@
 ---
-title: "Meet The Team"
+title: Meet The Team
 subtitle: ""
 draft: false
 include_footer: true
 ---
-
 <div class="team-member">
 <div class="team-image-container">
-<img class="team-image" src="/images/team/vicky-grant.jpeg">
+<img class="team-image" src="/images/team/Irem.jpg">
 <a href="https://www.linkedin.com/in/vicky-grant-669280195/">
 <div class="linkedin-holder">
 <i class="linkedin-icon fa fa-linkedin"></i>
