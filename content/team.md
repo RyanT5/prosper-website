@@ -38,6 +38,22 @@ include_footer: true
 
 <div class="team-member">
 <div class="team-image-container">
+<img class="team-image" src="/images/team/Charlie.jpg">
+<a href="https://www.linkedin.com/in/charlie-denton-3b1172200/">
+<div class="linkedin-holder">
+<i class="linkedin-icon fa fa-linkedin"></i>
+</div>
+</a>
+</div>
+<div class="team-info-container">
+<h3 class="team-member-name">Charlie Denton</h3>
+<h5 class="team-member-position">Head of Investment Strategy</h5>
+<p>“I am going into my 4th year at university studying Economics with Finance. I completed the analyst program this past semester because I was interested in the concept of sustainable finance and it has only furthered my enthusiasm for ESG investing. I look forward to exploring new markets and asset classes for Prosper and further refining Prosper’s investment strategy.”</p>
+</div>
+</div>
+
+<div class="team-member">
+<div class="team-image-container">
 <img class="team-image" src="/images/team/Sofia.jpg">
 <a href="https://www.linkedin.com/in/sofia-gilardini-b835651b4/">
 <div class="linkedin-holder">
@@ -47,7 +63,7 @@ include_footer: true
 </div>
 <div class="team-info-container">
 <h3 class="team-member-name">Sofia Gilardini</h3>
-<h5 class="team-member-position">Director of Marketing</h5>
+<h5 class="team-member-position">Head of Marketing</h5>
 <p>“I am a second-year Mechanical and Electrical Engineering student from Argentina and Italy. I joined Prosper last year to learn more about ESG investing and to meet people from a range of social and academic backgrounds with this common interest. Working with the team at Prosper was an incredibly rewarding experience, and I am looking forward to encouraging more students to do the same.”</p>
 </div>
 </div>
@@ -113,22 +129,6 @@ include_footer: true
 <h3 class="team-member-name">Albert Doyle</h3>
 <h5 class="team-member-position">Head of Investment Tracking</h5>
 <p>“My name is Albert Doyle and I am in my second year at Edinburgh University, studying an MA in Geography. I am really pleased to be the Head of Investment Tracking at Prosper, having joined as a Junior Analyst last semester and gaining a lot of technical ability. Coming from a non-Finance degree background it was really encouraging to see that this did not disadvantage me in any way. I hope to encourage other students from a diverse range of degrees to join and improve upon the transparency of the work we do at Prosper Social Finance, hopefully using some of my data analytics skills!”</p>
-</div>
-</div>
-
-<div class="team-member">
-<div class="team-image-container">
-<img class="team-image" src="/images/team/Charlie.jpg">
-<a href="https://www.linkedin.com/in/charlie-denton-3b1172200/">
-<div class="linkedin-holder">
-<i class="linkedin-icon fa fa-linkedin"></i>
-</div>
-</a>
-</div>
-<div class="team-info-container">
-<h3 class="team-member-name">Charlie Denton</h3>
-<h5 class="team-member-position">Head of Investment Strategy</h5>
-<p>“I am going into my 4th year at university studying Economics with Finance. I completed the analyst program this past semester because I was interested in the concept of sustainable finance and it has only furthered my enthusiasm for ESG investing. I look forward to exploring new markets and asset classes for Prosper and further refining Prosper’s investment strategy.”</p>
 </div>
 </div>
 
