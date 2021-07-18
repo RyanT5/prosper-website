@@ -6,7 +6,11 @@ include_footer: true
 ---
 <div class="team-member">
 <div class="team-image-container">
-<img class="team-image" src="/images/team/vicky-grant.jpeg">
+<img class="team-image">
+
+![](/images/irem.jpg)
+
+
 <a href="https://www.linkedin.com/in/iremsara/">
 <div class="linkedin-holder">
 <i class="linkedin-icon fa fa-linkedin"></i>
@@ -14,9 +18,9 @@ include_footer: true
 </a>
 </div>
 <div class="team-info-container">
-<h3 class="team-member-name">Vicky Grant</h3>
+<h3 class="team-member-name">Irem Sara</h3>
 <h5 class="team-member-position">Executive Director</h5>
-<p>"I am a fourth year Economics and Politics student. Growing up in Greece, I developed mixed feelings about finance but coming to university I knew it was a discipline I wanted to explore. Prosper was the ideal way to do this. It not only challenged my perception of finance, it also taught me how to use technical skills to deliver positive social impact. I am excited to lead Prosper in this new chapter and help expand its reach to students and social enterprises.”</p>
+<p>"I am a fourth year Economics and Mathematics student. I have first-hand experienced the mixture of economic development and instability in emerging markets which led me to wonder if finance can be used to achieve long-term sustainable growth. Being a part of Prosper since my first year at the university, I am proud to witness and contribute to the growth of the fund, as well as our expanding impact on the local communities. I look forward to widening Prosper’s engagement with students and social enterprises, and continuing to deliver positive social change through our responsible, student-led investments.”</p>
 </div>
 </div>
 
