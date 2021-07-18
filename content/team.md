@@ -47,7 +47,7 @@ include_footer: true
 </div>
 <div class="team-info-container">
 <h3 class="team-member-name">Charlie Denton</h3>
-<h5 class="team-member-position">Head of Investment Strategy</h5>
+<h5 class="team-member-position">Director of Investment Strategy</h5>
 <p>“I am going into my 4th year at university studying Economics with Finance. I completed the analyst program this past semester because I was interested in the concept of sustainable finance and it has only furthered my enthusiasm for ESG investing. I look forward to exploring new markets and asset classes for Prosper and further refining Prosper’s investment strategy.”</p>
 </div>
 </div>
