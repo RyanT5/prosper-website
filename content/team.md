@@ -22,17 +22,17 @@ include_footer: true
 
 <div class="team-member">
 <div class="team-image-container">
-<img class="team-image" src="/images/team/Serena.jpg">
-<a href="https://www.linkedin.com/in/serena-grover/">
+<img class="team-image" src="/images/team/Prosper Matt.png">
+<a href="https://www.linkedin.com/in/matthew-hales-2719b6214/">
 <div class="linkedin-holder">
 <i class="linkedin-icon fa fa-linkedin"></i>
 </div>
 </a>
 </div>
 <div class="team-info-container">
-<h3 class="team-member-name">Serena Grover</h3>
-<h5 class="team-member-position">Director of Strategic Relations</h5>
-<p>"I am a third year Economics student, with a particular interest in impact investing. Prosper has developed my understanding of how to critically assess ESG stocks, through analysis of financial metrics and ESG criteria. I look forward to expanding Prosper’s presence within the wider community through partnerships with other universities and industry experts.”</p>
+<h3 class="team-member-name">Matthew Hales</h3>
+<h5 class="team-member-position">Director of Operations</h5>
+<p>"I am currently in my third year at the University of Edinburgh reading Economic History. I joined Prosper as a junior analyst last semester and it has propelled me into the world of socially responsible investment, so I am delighted to be the new Head of Operations. I believe the transition to sustainable finance offers hope for the future, thus I am looking forward to aiding Prosper in financing change. I am looking forward to helping Prosper develop and tackle the new opportunities of a changing financial world.”</p>
 </div>
 </div>
 
@@ -102,17 +102,17 @@ include_footer: true
 
 <div class="team-member">
 <div class="team-image-container">
-<img class="team-image" src="/images/team/Carla.jpg">
-<a href="https://www.linkedin.com/in/carlaappel/">
+<img class="team-image" src="/images/team/Camilla Prosper.png">
+<a href="https://www.linkedin.com/in/camilla-carere">
 <div class="linkedin-holder">
 <i class="linkedin-icon fa fa-linkedin"></i>
 </div>
 </a>
 </div>
 <div class="team-info-container">
-<h3 class="team-member-name">Carla Appel</h3>
-<h5 class="team-member-position">Head of Operations</h5>
-<p>“I am a fourth year Business and Economics student. I joined Prosper because I wanted to strengthen my financial skills and expand the ways through which I can create positive social impact. As the next Head of Operations, I am very excited to support Prosper’s transition into post-covid reality while continuously seeking opportunities for making operational improvements.”</p>
+<h3 class="team-member-name">Camilla Carere</h3>
+<h5 class="team-member-position">Head of Strategic Relations</h5>
+<p>“I am a fourth year Economics student from the United States. I joined Prosper in my third year because I was interested in learning about ESG investing. While taking part in the analyst program I learned how to value companies based not only on traditional financial metrics, but also ESG criteria. I am excited to continue to learn about sustainable investing and to help others do the same this year!”</p>
 </div>
 </div>
 
