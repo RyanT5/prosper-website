@@ -22,7 +22,7 @@ include_footer: true
 
 <div class="team-member">
 <div class="team-image-container">
-<img class="team-image" src="/[](https://github.com/RyanT5/prosper-website/blob/master/static/images/team/Prosper%20Matt.png "Prosper Matt.png")images/team/Prosper Matt.png">
+<img class="team-image" src="/images/team/Prosper Matt.png">
 <a href="https://www.linkedin.com/in/matthew-hales-2719b6214/">
 <div class="linkedin-holder">
 <i class="linkedin-icon fa fa-linkedin"></i>
@@ -102,7 +102,7 @@ include_footer: true
 
 <div class="team-member">
 <div class="team-image-container">
-<img class="team-image" src="/">
+<img class="team-image" src="/images/team/Camilla Prosper.png">
 <a href="https://www.linkedin.com/in/camilla-carere">
 <div class="linkedin-holder">
 <i class="linkedin-icon fa fa-linkedin"></i>
