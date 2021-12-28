@@ -54,17 +54,17 @@ include_footer: true
 
 <div class="team-member">
 <div class="team-image-container">
-<img class="team-image" src="/images/team/Sofia.jpg">
-<a href="https://www.linkedin.com/in/sofia-gilardini-b835651b4/">
+<img class="">
+<a href="https://www.linkedin.com/in/graham-roeger-1193a81a0">
 <div class="linkedin-holder">
 <i class="linkedin-icon fa fa-linkedin"></i>
 </div>
 </a>
 </div>
 <div class="team-info-container">
-<h3 class="team-member-name">Sofia Gilardini</h3>
+<h3 class="team-member-name">Graham Roeger</h3>
 <h5 class="team-member-position">Head of Marketing</h5>
-<p>“I am a second-year Mechanical and Electrical Engineering student from Argentina and Italy. I joined Prosper last year to learn more about ESG investing and to meet people from a range of social and academic backgrounds with this common interest. Working with the team at Prosper was an incredibly rewarding experience, and I am looking forward to encouraging more students to do the same.”</p>
+<p>“I am a fourth-year Finance and Business student from the USA. I joined Prosper to learn more about ESG investing and to meet people from a range of academic backgrounds with common interests.  I am looking forward to encouraging more students to learn the basics of ESG and financial valuation.”</p>
 </div>
 </div>
 
