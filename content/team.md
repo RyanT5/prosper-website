@@ -54,7 +54,7 @@ include_footer: true
 
 <div class="team-member">
 <div class="team-image-container">
-<img class="">
+<img class="team-image" src="/images/team/Graham.jpg">
 <a href="https://www.linkedin.com/in/graham-roeger-1193a81a0">
 <div class="linkedin-holder">
 <i class="linkedin-icon fa fa-linkedin"></i>
