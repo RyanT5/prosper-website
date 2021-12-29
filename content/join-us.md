@@ -8,7 +8,7 @@ Are you looking for an exciting challenge, meet new people, and most importantly
 
 We welcome and encourage all students from the University of Edinburgh - regardless of year and degree - to apply. Our application for this semester's Analyst Training Programme is now open. Fill in the form below to apply for an Analyst Position Semester one 2021/2022! 
 
-https://forms.gle/g8X755ZMMg8Bxanq7
+https://forms.gle/1qF5fpWdoaJx4G7A9
 
 <a href="http://eepurl.com/dEBYnX">
 <span class="button signup-button rounded secondary-btn raised" style="width: 250px; margin: auto; margin-top: 40px; display: flex;">
