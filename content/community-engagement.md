@@ -1,25 +1,26 @@
 ---
-title: "Community Engagement"
+title: Community Engagement
 subtitle: ""
 draft: false
 include_footer: true
 ---
-
-Our social impact is largely a result of our engagement with the Edinburgh student body and wider community. Firstly, our 8-week Analyst Training Programme is our most direct means of delivering a positive impact within the university. Since our inception, Prosper has trained over 100 students from the University of Edinburgh, ranging from first-years to Master’s students, studying a wide range of degrees.
+Our social impact is largely a result of our engagement with the Edinburgh student body and wider community. Firstly, our 8-week Analyst Training Programme is our most direct means of delivering a positive impact within the university. Since our inception, Prosper has trained over 200 students from the University of Edinburgh, ranging from first-years to Master’s students, studying a wide range of degrees.
 
 When marketing Prosper, we reach out to all corners of the University, in order to attract a diverse range of students. By doing so, we have made finance more accessible and understandable to people who may have been sceptical or intimated to learn more about it.
 
-### Our events
+### This Year's Change: Social Impact Grants
 
-In addition to our training programme, we have consistently hosted events which aim to open up discussions about social issues in an attempt to find innovative solutions.
+As Prosper is reaching the end ot our first 5-year investment horizon, this year will be the first time we give out Social Impact Grants. Funded by the returns on our investments, these grants will be a way to directly impact the local community. We are currently working hard to ensure that these grants are delivered as effectively as possible. 
 
-A highlight of this past year was the hosting of our event ‘Rethinking Capitalism: The Fourth Industrial Revolution’ organised in collaboration with the Buchanan Institute, Freshsight and Economics for Change.
+### Events
+
+Events are one of the ways we seek to connect students, investors and social enterprises. With a strong track record in delivering thought-provoking lectures, networking opportunities and community socials, we are looking forward to hosting more vents in the coming year. 
 
 ![Some members at an event](/images/event.JPG)
 
-This event aimed to call students to question and rethink the ways in which technology and capitalism intersect and affect one another and how they might be used for social good. Our four speakers, Chris Speed (Chair of Design Informatics), Lorrell Quinn (CEO of Sustainably), Uzma Khan (Deputy Director of Economic Strategy, Scottish Government) and Stephen Ingledew (CEO of Fintech Scotland) were chosen to reflect a number of perspectives, be it public or private sector, and answer questions from students and members of the public.
+### Events
 
-We welcome all members of the community to listen and contribute to these crucial conversations. Sign up to our mailing list for updates on future events.
+Events are one of the ways we seek to connect students, investors and social enterprises. With a strong track record in delivering thought-provoking lectures, networking opportunities and communities socials, we are looking forward to hosting more vents in the coming year. 
 
 <div style="width: wrap; margin: auto; text-align: center; margin: 20px 0px 20px;">
 
