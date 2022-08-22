@@ -85,7 +85,7 @@ include_footer: true
 
 <div class="team-member">
 <div class="team-image-container">
-<img class="team-image" src="/images/team/A.jpg">
+<img class="team-image" src="/images/A.jpg">
 <a href="https://www.linkedin.com/in/albertdoyle/">
 <div class="linkedin-holder">
 <i class="linkedin-icon fa fa-linkedin"></i>
