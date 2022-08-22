@@ -32,7 +32,6 @@ include_footer: true
 <div class="team-info-container">
 <h3 class="team-member-name">Grace Gubbay</h3>
 <h5 class="team-member-position">Director of Social Impact</h5>
-<p>"-”</p>
 </div>
 </div>
 
@@ -86,7 +85,7 @@ include_footer: true
 
 <div class="team-member">
 <div class="team-image-container">
-<img class="team-image" src="/images/team/A.jpeg">
+<img class="team-image" src="/images/A.jpg">
 <a href="https://www.linkedin.com/in/albertdoyle/">
 <div class="linkedin-holder">
 <i class="linkedin-icon fa fa-linkedin"></i>
