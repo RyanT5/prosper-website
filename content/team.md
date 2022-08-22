@@ -22,7 +22,7 @@ include_footer: true
 
 <div class="team-member">
 <div class="team-image-container">
-<img class="team-image" src="/images/team/G.jpg">
+<img class="team-image" src="/images/team/G.jpeg"
 <a href="https://www.linkedin.com/in/gracegubbay/">
 <div class="linkedin-holder">
 <i class="linkedin-icon fa fa-linkedin"></i>
