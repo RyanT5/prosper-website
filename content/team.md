@@ -32,6 +32,8 @@ include_footer: true
 <div class="team-info-container">
 <h3 class="team-member-name">Grace Gubbay</h3>
 <h5 class="team-member-position">Director of Social Impact</h5>
+<p>"My name is Grace Gubbay and I am a third year Chemistry student.  Over the last year, the ATP and SAP programme’s have allowed me to contribute to a unique community of assiduous individuals, challenging my perceptions of finance and highlighting to me the importance and responsibility of prioritising a more sustainable future. Prosper’s innovative approach has equipped me with the critical thinking and communication skills required to pursue a career in finance. As Director of Social Impact, I am excited at the opportunity of extending and shaping Prosper’s relationship with both students and the Edinburgh community as we reach our 5-year investment horizon.”</p>
+
 </div>
 </div>
 
