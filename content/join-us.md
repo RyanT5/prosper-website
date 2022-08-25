@@ -8,7 +8,9 @@ Are you looking for an exciting challenge, meet new people, and most importantly
 
 We welcome and encourage all students from the University of Edinburgh - regardless of year and degree - to apply. 
 
-Applications are now open for this semesters training programme!
+Applications are now open for our Analyst Training Programme!
+
+<a href="https://forms.gle/fC2Bvdwbb5BQcU1x6">
 
 <a href="http://eepurl.com/dEBYnX">
 <span class="button signup-button rounded secondary-btn raised" style="width: 250px; margin: auto; margin-top: 40px; display: flex;">
