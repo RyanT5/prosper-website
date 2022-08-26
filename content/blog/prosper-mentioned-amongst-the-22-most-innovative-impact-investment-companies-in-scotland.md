@@ -11,7 +11,7 @@ We are delighted to announce that Prosper has been mentioned in Best Start Up Sc
 
 Feel free to give the rest of the article a read to find out more about the innovative impact investment scene in scotland: 
 
-<a href="[https://beststartup.scot/22-​scotland-based-impact-​investing-companies-the-most-​innovative-impact-investing-​companies/](https://editorcontent.com/mw/index.php/campaigns/th450b41f28da/track-url/nx343crm464bb/bda09543e01a3326bbb52ebf49a879852f738be9)">
+<a href="https://beststartup.scot/22-scotland-based-impact-investing-companies-the-most-innovative-impact-investing-companies/"(https://editorcontent.com/mw/index.php/campaigns/th450b41f28da/track-url/nx343crm464bb/bda09543e01a3326bbb52ebf49a879852f738be9)">
 <span class="button signup-button rounded secondary-btn raised" style="width: 250px; margin: auto; margin-top: 40px; display: flex;">
         Link to Article
 </span>
