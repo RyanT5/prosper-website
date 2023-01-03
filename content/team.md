@@ -101,21 +101,7 @@ include_footer: true
 </div>
 </div>
 
-<div class="team-member">
-<div class="team-image-container">
-<img class="team-image" src="/images/team/Arsh Merchant.png">
-<a href="https://www.linkedin.com/in/arsh-merchant-9b572318b/">
-<div class="linkedin-holder">
-<i class="linkedin-icon fa fa-linkedin"></i>
-</div>
-</a>
-</div>
-<div class="team-info-container">
-<h3 class="team-member-name">Arsh Merchant</h3>
-<h5 class="team-member-position">Head of Portfolio Research</h5>
-<p>“Hello, world! My name is Arsh Merchant and I am a second-year History and Economics student at The University of Edinburgh. I joined Prosper during the first semester of last year as a junior analyst and continued as a senior analyst during the second semester. I was instantly fascinated with the current role of sustainability within the financial world and sought to grow that role with Prosper. As the head of portfolio research for this upcoming year, I look forward to working with my colleagues to maintain and grow Prospers ROI and ESG impact through our current and future investments while seeking innovative means to make ESG investing simpler for a modern investor.”</p>
-</div>
-</div>
+
 
 <div class="team-member">
 <div class="team-image-container">
@@ -130,6 +116,22 @@ include_footer: true
 <h3 class="team-member-name">Ethan Cohn</h3>
 <h5 class="team-member-position">Head of Strategic Relations</h5>
 <p>“I am currently in my second year at the University of Edinburgh, reading History and Economics. I first joint Prosper at the beginning of last year as a junior analyst, and then worked in the Senior Analyst program during second semester. After compiling an investment report and the tackling some of the internal goals of Prosper through the funding project, I’m excited to work on my next challenge as Head of Strategic Relations. I hope to use my role to assist Prosper in the rapidly developing world of ESG finance and help train future analysts to continue our mission.”</p>
+</div>
+</div>
+
+<div class="team-member">
+<div class="team-image-container">
+<img class="team-image" src="/images/team/received_482371073843910.jpeg">
+<a href="https://www.linkedin.com/in/jake-terry-583423226/">
+<div class="linkedin-holder">
+<i class="linkedin-icon fa fa-linkedin"></i>
+</div>
+</a>
+</div>
+<div class="team-info-container">
+<h3 class="team-member-name">Jake Terry</h3>
+<h5 class="team-member-position">Head of Portfolio Research</h5>
+<p>“Hi, my name is Jake Terry and I am a fourth year Politics student. I first joined Prosper in my 3rd year, and enjoyed every minute of it. Having worked as both an analyst and a senior analyst, I’m now really excited to start working as Head of Portfolio Research. Prosper has developed such a great community over the past few years, and I can’t wait to help to support its continued growth!”</p>
 </div>
 </div>
 
