@@ -45,7 +45,7 @@ We welcome and encourage all students from the University of Edinburgh - regardl
 
 We carry out a two-stage holistic application process to ensure we attract analysts who embody our values, are eager to learn and are passionate about delivering a positive social impact through finance. In Stage 1, candidates submit a written application which is assessed anonymously. Successful candidates are invited for interviews in Stage 2 of our process. These include individual and group interviews with a case study. Prior knowledge of finance is neither required nor assessed at any stage of our application process.
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSd3mNx7-hpuwHlpK9jmBKOstncaFzlL_Y2Q7f74QtYwxZzw1A/viewform?usp=sf_link">
+<a href="https://forms.gle/W8WcYSQjMLvounuy5">
 <span class="button signup-button rounded secondary-btn raised" style="width: 250px; margin: auto; margin-top: 30px; display: flex; background: #fff; color: #F39200;">
     Apply now
 </span>
