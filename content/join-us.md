@@ -10,7 +10,7 @@ We welcome and encourage all students from the University of Edinburgh - regardl
 
 Applications are now open for our Analyst Training Programme!
 
-<a href="https://forms.gle/W8WcYSQjMLvounuy5">
+<a href="https://forms.gle/DXunhtGiSTGaMTvS9">
 <span class="button signup-button rounded secondary-btn raised" style="width: 250px; margin: auto; margin-top: 40px; display: flex;">
         Apply Now!
 </span>
