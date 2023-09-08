@@ -133,8 +133,6 @@ include_footer: true
 </div>
 </div>
 
-
-
 <div class="team-member">
 <div class="team-image-container">
 <img class="team-image" src="">
