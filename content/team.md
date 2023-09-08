@@ -31,7 +31,7 @@ include_footer: true
 </div>
 <div class="team-info-container">
 <h3 class="team-member-name">Jasmine Lee-Tin</h3>
-<h5 class="team-member-position">Director of Social Impact</h5>
+<h5 class="team-member-position">Head of Social Impact</h5>
 <p>"I am currently a 4th year Economics and Politics student. I joined Prosper last year and completed the analyst and senior analyst training program; which sparked my interest in ESG investing. This year as head of Social Impact I look forward to strengthening our relationship with invisible cities, whilst expanding Prosper’s community in Edinburgh and abroad to ensure maximum positive impact!”</p>
 
 </div>
@@ -48,7 +48,7 @@ include_footer: true
 </div>
 <div class="team-info-container">
 <h3 class="team-member-name">Charly Campbell</h3>
-<h5 class="team-member-position">Director of Operations</h5>
+<h5 class="team-member-position">Head of Operations</h5>
 <p>“My name is Charly Campbell, and I am currently in my fourth and final year studying Economics and Politics. Having worked as a junior and senior analyst, I am excited to take on the role of Director of Operations. My time at Prosper has proven invaluable to both my professional and personal development, having equipped me with a range of soft and technical skills essential for pursuing a future career in finance. I look forward to continuing my involvement this year and hope to encourage other students, regardless of degree background, to join and help further our goal of delivering positive social change in Edinburgh.”</p>
 </div>
 </div>
@@ -103,7 +103,7 @@ include_footer: true
 
 <div class="team-member">
 <div class="team-image-container">
-<img class="team-image" src="/images/A.jpg">
+<img class="team-image" src="">
 <a href="https://www.linkedin.com/in/aaronjimenezuk/">
 <div class="linkedin-holder">
 <i class="linkedin-icon fa fa-linkedin"></i>
@@ -112,7 +112,7 @@ include_footer: true
 </div>
 <div class="team-info-container">
 <h3 class="team-member-name">Aaron Jimenez</h3>
-<h5 class="team-member-position">Head of Investment Tracking</h5>
+<h5 class="team-member-position">Director of Investment Tracking</h5>
 <p>“I am a fourth year Chemistry student and have been involved with Prosper since the beginning of my second year. In that time, I have held various positions including analyst, senior analyst, Head of Strategy and now Director of Investment Tracking. Prosper has been an integral part of my University experience and has helped to shape my career ambitions and prospects beyond graduation. I am really looking forward to working closely with this Management Team and look forward to another brilliant year of empowering students through ESG investing.”</p>
 </div>
 </div>
@@ -135,7 +135,7 @@ include_footer: true
 
 <div class="team-member">
 <div class="team-image-container">
-<img class="team-image" src="/images/team/received_482371073843910.jpeg">
+<img class="team-image" src="">
 <a href="https://www.linkedin.com/in/jake-terry-583423226/">
 <div class="linkedin-holder">
 <i class="linkedin-icon fa fa-linkedin"></i>
@@ -144,14 +144,14 @@ include_footer: true
 </div>
 <div class="team-info-container">
 <h3 class="team-member-name">Jake Terry</h3>
-<h5 class="team-member-position">Head of Portfolio Research</h5>
+<h5 class="team-member-position">Director of Portfolio Research</h5>
 <p>“Hi, my name is Jake Terry and I am a fourth year Politics student. I first joined Prosper in my 3rd year, and enjoyed every minute of it. Having worked as both an analyst and a senior analyst, I’m now really excited to start working as Head of Portfolio Research. Prosper has developed such a great community over the past few years, and I can’t wait to help to support its continued growth!”</p>
 </div>
 </div>
 
 <div class="team-member">
 <div class="team-image-container">
-<img class="team-image" src="/images/team/Mason Crawford.jpg">
+<img class="team-image" src="">
 <a href="https://www.linkedin.com/in/mason-c-691b75130/">
 <div class="linkedin-holder">
 <i class="linkedin-icon fa fa-linkedin"></i>
@@ -167,7 +167,7 @@ include_footer: true
 
 <div class="team-member">
 <div class="team-image-container">
-<img class="team-image" src="/images/team/Priscilla Gracia.jpg">
+<img class="team-image" src="">
 <a href="https://www.linkedin.com/in/priscilla-gracia-5642011b6/">
 <div class="linkedin-holder">
 <i class="linkedin-icon fa fa-linkedin"></i>
