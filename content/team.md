@@ -161,7 +161,23 @@ include_footer: true
 <div class="team-info-container">
 <h3 class="team-member-name">Aidan Brennan</h3>
 <h5 class="team-member-position">Head of Investment Strategy</h5>
-<p>“I am currently in my third year at the University of Edinburgh studying a Business Management degree. I joined Prosper first semester last year as a Junior Analyst and continued to be a part of Prosper as a Senior Analyst in the spring. While working with Prosper I’ve learned a great deal about sustainable finance and am looking forward to further contributing to Prosper as the next Head of Investment Strategy. I feel passionately about investments that create positive social change and I am very excited to be a part of the management team this year”</p>
+<p>“I am currently in my third year at the University of Edinburgh studying a Business Management degree. I joined Prosper first semester last year as a Junior Analyst and continued to be a part of Prosper as a Senior Analyst in the spring. While working with Prosper I’ve learned a great deal about sustainable finance and am looking forward to further contributing to Prosper as the next Head of Investment Strategy. I feel passionately about investments that create positive social change and I am very excited to be a part of the management team this year.”</p>
+</div>
+</div>
+
+<div class="team-member">
+<div class="team-image-container">
+<img class="team-image" src="">
+<a href="<https://www.linkedin.com/in/ethan-cohn-167599223>">
+<div class="linkedin-holder">
+<i class="linkedin-icon fa fa-linkedin"></i>
+</div>
+</a>
+</div>
+<div class="team-info-container">
+<h3 class="team-member-name">Ethan Cohn</h3>
+<h5 class="team-member-position">Head of Strategic Relations</h5>
+<p>“Hi I’m Ethan, Head of Strategic Relations at Prosper Social Finance. I’m a History and Economics student in my 3rd year of Prosper and so excited for the year ahead! I have a strong interest in sustainability and keeping up to date on developments in the fast evolving ESG sphere. Prosper has helped me develop a vast array of skills- from basic financial analysis to teamwork, presentation and socially conscious investing practices.”</p>
 </div>
 </div>
 
