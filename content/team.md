@@ -104,16 +104,16 @@ include_footer: true
 <div class="team-member">
 <div class="team-image-container">
 <img class="team-image" src="/images/A.jpg">
-<a href="https://www.linkedin.com/in/albertdoyle/">
+<a href="https://www.linkedin.com/in/aaronjimenezuk/">
 <div class="linkedin-holder">
 <i class="linkedin-icon fa fa-linkedin"></i>
 </div>
 </a>
 </div>
 <div class="team-info-container">
-<h3 class="team-member-name">Albert Doyle</h3>
+<h3 class="team-member-name">Aaron Jimenez</h3>
 <h5 class="team-member-position">Head of Investment Tracking</h5>
-<p>“My name is Albert Doyle and I am in my third year at Edinburgh University, studying an MA in Geography. I am really pleased to be the Head of Investment Tracking at Prosper, having joined as a Junior Analyst last year. Coming from a non-Finance degree background it was really encouraging to see that this did not disadvantage me in any way. I hope to encourage other students from a diverse range of degrees to join and improve upon the transparency of the work we do at Prosper Social Finance, hopefully using some of my data analytics skills!”</p>
+<p>“I am a fourth year Chemistry student and have been involved with Prosper since the beginning of my second year. In that time, I have held various positions including analyst, senior analyst, Head of Strategy and now Director of Investment Tracking. Prosper has been an integral part of my University experience and has helped to shape my career ambitions and prospects beyond graduation. I am really looking forward to working closely with this Management Team and look forward to another brilliant year of empowering students through ESG investing.”</p>
 </div>
 </div>
 
