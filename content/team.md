@@ -22,6 +22,38 @@ include_footer: true
 
 <div class="team-member">
 <div class="team-image-container">
+<img class="team-image" src="">
+<a href="https://www.linkedin.com/in/harvey-graham-335352249/">
+<div class="linkedin-holder">
+<i class="linkedin-icon fa fa-linkedin"></i>
+</div>
+</a>
+</div>
+<div class="team-info-container">
+<h3 class="team-member-name">Harvey Graham</h3>
+<h5 class="team-member-position">Director of Portfolio Research</h5>
+<p>“Hi, my name is Harvey Graham and I am a fourth year History and Politics student. I first joined Prosper in my 3rd year, and enjoyed every minute of it. Having worked as both an analyst and a senior analyst, I’m now really excited to start working as Head of Portfolio Research. Prosper has developed such a great community over the past few years, and I can’t wait to help to support its continued growth!”</p>
+</div>
+</div>
+
+<div class="team-member">
+<div class="team-image-container">
+<img class="team-image" src="">
+<a href="https://www.linkedin.com/in/aaronjimenezuk/">
+<div class="linkedin-holder">
+<i class="linkedin-icon fa fa-linkedin"></i>
+</div>
+</a>
+</div>
+<div class="team-info-container">
+<h3 class="team-member-name">Aaron Jimenez</h3>
+<h5 class="team-member-position">Director of Investment Tracking</h5>
+<p>“I am a fourth year Chemistry student and have been involved with Prosper since the beginning of my second year. In that time, I have held various positions including analyst, senior analyst, Head of Strategy and now Director of Investment Tracking. Prosper has been an integral part of my University experience and has helped to shape my career ambitions and prospects beyond graduation. I am really looking forward to working closely with this Management Team and look forward to another brilliant year of empowering students through ESG investing.”</p>
+</div>
+</div>
+
+<div class="team-member">
+<div class="team-image-container">
 <img class="team-image" src=""
 <a href="https://www.linkedin.com/in/jasmine-leetin/">
 <div class="linkedin-holder">
@@ -101,21 +133,7 @@ include_footer: true
 </div>
 </div>
 
-<div class="team-member">
-<div class="team-image-container">
-<img class="team-image" src="">
-<a href="https://www.linkedin.com/in/aaronjimenezuk/">
-<div class="linkedin-holder">
-<i class="linkedin-icon fa fa-linkedin"></i>
-</div>
-</a>
-</div>
-<div class="team-info-container">
-<h3 class="team-member-name">Aaron Jimenez</h3>
-<h5 class="team-member-position">Director of Investment Tracking</h5>
-<p>“I am a fourth year Chemistry student and have been involved with Prosper since the beginning of my second year. In that time, I have held various positions including analyst, senior analyst, Head of Strategy and now Director of Investment Tracking. Prosper has been an integral part of my University experience and has helped to shape my career ambitions and prospects beyond graduation. I am really looking forward to working closely with this Management Team and look forward to another brilliant year of empowering students through ESG investing.”</p>
-</div>
-</div>
+
 
 <div class="team-member">
 <div class="team-image-container">
@@ -130,22 +148,6 @@ include_footer: true
 <h3 class="team-member-name">Callum Docherty</h3>
 <h5 class="team-member-position">Head of Corporate Relations</h5>
 <p>“I am currently in my fourth and final year studying Economics with Management Science. I joined Prosper in my third year and instantly bought into the organization. Starting with the analyst training programme and moving through the senior analyst programme, my understanding of the ESG investment industry has grown significantly. Alongside this, I've been able to acquire many transferable skills and have had the opportunity to work with like-minded individuals. I am very excited to undertake the role of Head of Strategic Relations and can't wait to add further value to the organisation as well as boost our impact in the local community.”</p>
-</div>
-</div>
-
-<div class="team-member">
-<div class="team-image-container">
-<img class="team-image" src="">
-<a href="https://www.linkedin.com/in/harvey-graham-335352249/">
-<div class="linkedin-holder">
-<i class="linkedin-icon fa fa-linkedin"></i>
-</div>
-</a>
-</div>
-<div class="team-info-container">
-<h3 class="team-member-name">Harvey Graham</h3>
-<h5 class="team-member-position">Director of Portfolio Research</h5>
-<p>“Hi, my name is Harvey Graham and I am a fourth year History and Politics student. I first joined Prosper in my 3rd year, and enjoyed every minute of it. Having worked as both an analyst and a senior analyst, I’m now really excited to start working as Head of Portfolio Research. Prosper has developed such a great community over the past few years, and I can’t wait to help to support its continued growth!”</p>
 </div>
 </div>
 
