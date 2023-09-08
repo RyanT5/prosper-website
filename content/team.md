@@ -103,7 +103,7 @@ include_footer: true
 
 <div class="team-member">
 <div class="team-image-container">
-<img class="team-image" src="/images/A.jpg">
+<img class="team-image" src="">
 <a href="https://www.linkedin.com/in/aaronjimenezuk/">
 <div class="linkedin-holder">
 <i class="linkedin-icon fa fa-linkedin"></i>
@@ -135,7 +135,7 @@ include_footer: true
 
 <div class="team-member">
 <div class="team-image-container">
-<img class="team-image" src="/images/team/received_482371073843910.jpeg">
+<img class="team-image" src="">
 <a href="https://www.linkedin.com/in/jake-terry-583423226/">
 <div class="linkedin-holder">
 <i class="linkedin-icon fa fa-linkedin"></i>
@@ -151,7 +151,7 @@ include_footer: true
 
 <div class="team-member">
 <div class="team-image-container">
-<img class="team-image" src="/images/team/Mason Crawford.jpg">
+<img class="team-image" src="">
 <a href="https://www.linkedin.com/in/mason-c-691b75130/">
 <div class="linkedin-holder">
 <i class="linkedin-icon fa fa-linkedin"></i>
@@ -167,7 +167,7 @@ include_footer: true
 
 <div class="team-member">
 <div class="team-image-container">
-<img class="team-image" src="/images/team/Priscilla Gracia.jpg">
+<img class="team-image" src="">
 <a href="https://www.linkedin.com/in/priscilla-gracia-5642011b6/">
 <div class="linkedin-holder">
 <i class="linkedin-icon fa fa-linkedin"></i>
