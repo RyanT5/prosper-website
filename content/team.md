@@ -71,7 +71,7 @@ include_footer: true
 
 <div class="team-member">
 <div class="team-image-container">
-<img class="team-image" src="static/images/team/charly.png">
+<img class="team-image" src="static/images/team/charly.jpg">
 <a href="https://www.linkedin.com/in/charly-campbell-903995230/">
 <div class="linkedin-holder">
 <i class="linkedin-icon fa fa-linkedin"></i>
@@ -103,7 +103,7 @@ include_footer: true
 
 <div class="team-member">
 <div class="team-image-container">
-<img class="team-image" src="static/images/team/Luke.png">
+<img class="team-image" src="static/images/team/Luke.jpg">
 <a href="https://www.linkedin.com/in/luke-j-6a77391b3/">
 <div class="linkedin-holder">
 <i class="linkedin-icon fa fa-linkedin"></i>
@@ -119,7 +119,7 @@ include_footer: true
 
 <div class="team-member">
 <div class="team-image-container">
-<img class="team-image" src="">
+<img class="team-image" src="static/images/team/Chelsie.jpg">
 <a href="https://www.linkedin.com/in/chelcie-mohammed-27398b257/?fbclid=IwAR0RecrM6zX35yMyjWam_8ARZtesQ4vZ9huXS2G3LwIV1E_BGujgHQXDiA4">
 <div class="linkedin-holder">
 <i class="linkedin-icon fa fa-linkedin"></i>
@@ -151,7 +151,7 @@ include_footer: true
 
 <div class="team-member">
 <div class="team-image-container">
-<img class="team-image" src="">
+<img class="team-image" src="static/images/team/aidan.png">
 <a href="https://www.linkedin.com/in/aidanbrennanprofile/">
 <div class="linkedin-holder">
 <i class="linkedin-icon fa fa-linkedin"></i>
