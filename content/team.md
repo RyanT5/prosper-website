@@ -54,7 +54,7 @@ include_footer: true
 
 <div class="team-member">
 <div class="team-image-container">
-<img class="team-image" src=""
+<img class="team-image" src="/images/team/jasmine.jpg"
 <a href="https://www.linkedin.com/in/jasmine-leetin/">
 <div class="linkedin-holder">
 <i class="linkedin-icon fa fa-linkedin"></i>
