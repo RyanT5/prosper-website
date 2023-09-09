@@ -103,10 +103,11 @@ include_footer: true
 
 <div class="team-member">
 <div class="team-image-container">
-<img class="team-image" src="/team/Luke.jpg">
+<img class="team-image" src="/images/team/Luke.jpg">
 
 /images/team/Luke.jpg
 <a href="https://www.linkedin.com/in/luke-j-6a77391b3/">
+
 <div class="linkedin-holder">
 <i class="linkedin-icon fa fa-linkedin"></i>
 </div>
