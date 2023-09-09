@@ -87,7 +87,7 @@ include_footer: true
 
 <div class="team-member">
 <div class="team-image-container">
-<img class="team-image" src="">
+<img class="team-image" src="static/images/team/Ewan.jpg">
 <a href="https://www.linkedin.com/in/ewan-cook/?fbclid=IwAR2dLNm2c_qhyWcu6Fo3GDukhxI2t1BaEeTn1s1pkLIj_J2XIpMMYUrE0GU">
 <div class="linkedin-holder">
 <i class="linkedin-icon fa fa-linkedin"></i>
@@ -132,8 +132,6 @@ include_footer: true
 <p>“I’m a second year student studying Business with Decision Analytics. After completing both the Junior and Senior Analyst programs in first year, I knew I had to continue being a part of prosper which is why I am thrilled to be one of the Heads of Training for this upcoming year. Prosper has helped to not only broaden my financial knowledge but also develop my understanding of ESG and social investment. I hope to do the same for the incoming junior analysts alongside the rest of the management team while we continue on our mission to create positive social change!”</p>
 </div>
 </div>
-
-
 
 <div class="team-member">
 <div class="team-image-container">
