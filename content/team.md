@@ -135,7 +135,7 @@ include_footer: true
 
 <div class="team-member">
 <div class="team-image-container">
-<img class="team-image" src="">
+<img class="team-image" src="/images/team/Callum.jpg">
 <a href="https://www.linkedin.com/in/callum-docherty-ba2b64225/?fbclid=IwAR2Je1EATLDKTkOQ4bZCxj-_vOdzNSehC8CRuA15k5gV1hlbrILxjoV7zao">
 <div class="linkedin-holder">
 <i class="linkedin-icon fa fa-linkedin"></i>
