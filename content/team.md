@@ -87,7 +87,7 @@ include_footer: true
 
 <div class="team-member">
 <div class="team-image-container">
-<img class="team-image" src="">
+<img class="team-image" src="static/images/team/Ewan.jpg">
 <a href="https://www.linkedin.com/in/ewan-cook/?fbclid=IwAR2dLNm2c_qhyWcu6Fo3GDukhxI2t1BaEeTn1s1pkLIj_J2XIpMMYUrE0GU">
 <div class="linkedin-holder">
 <i class="linkedin-icon fa fa-linkedin"></i>
