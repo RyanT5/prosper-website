@@ -196,3 +196,17 @@ include_footer: true
 <p>“I’m currently a 2nd year student studying Economics and Politics. After joining Prosper last semester I found an interest in ESG investing and the various skills taught in the Junior Analyst Training Program which made me want to learn more through Prosper. I am extremely excited to be a part of Prosper this year to not only grow my own skills but to also create an impact in humanizing the finance industry. I hope to use the marketing skills I possess to continue to drive Prosper above and beyond.”</p>
 </div>
 </div>
+
+<div class="team-member">
+<a href="https://www.linkedin.com/in/harvey-graham-335352249/">
+<div class="linkedin-holder">
+<i class="linkedin-icon fa fa-linkedin"></i>
+</div>
+</a>
+</div>
+<div class="team-info-container">
+<h3 class="team-member-name">Harvey Graham</h3>
+<h5 class="team-member-position">Director of Portfolio Research</h5>
+<p>“Hi, my name is Harvey Graham and I am a fourth year History and Politics student. I first joined Prosper in my 3rd year, and enjoyed every minute of it. Having worked as both an analyst and a senior analyst, I’m now really excited to start working as Head of Portfolio Research. Prosper has developed such a great community over the past few years, and I can’t wait to help to support its continued growth!”</p>
+</div>
+</div>
