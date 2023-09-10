@@ -162,7 +162,7 @@ include_footer: true
 <div class="team-info-container">
 <h3 class="team-member-name">Aidan Brennan</h3>
 <h5 class="team-member-position">Head of Investment Strategy</h5>
-<p>“I am currently in my third year at the University of Edinburgh studying a Business Management degree. I joined Prosper first semester last year as a Junior Analyst and continued to be a part of Prosper as a Senior Analyst in the spring. While working with Prosper I’ve learned a great deal about sustainable finance and am looking forward to further contributing to Prosper as the next Head of Investment Strategy. I feel passionately about investments that create positive social change and I am very excited to be a part of the management team this year.”</p>
+<p>“Hi I’m Aidan, Prospers new Head of Investment Strategy. I joined prosper in January last year and enjoyed every second of it. Prosper has hugely improved my career prospects and led to me meeting some incredible people. I look forward to my new role and all that comes with it, I highly advise you to join if you have an interest in finance, the environment or sustainability - it will be one of the best decisions you will make."</p>
 </div>
 </div>
 
