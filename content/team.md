@@ -32,7 +32,7 @@ include_footer: true
 <div class="team-info-container">
 <h3 class="team-member-name">Harvey Graham</h3>
 <h5 class="team-member-position">Director of Portfolio Research</h5>
-<p>“Hi, my name is Harvey Graham and I am a fourth year History and Politics student. I first joined Prosper in my 3rd year, and enjoyed every minute of it. Having worked as both an analyst and a senior analyst, I’m now really excited to start working as Head of Portfolio Research. Prosper has developed such a great community over the past few years, and I can’t wait to help to support its continued growth!”</p>
+<p>“Hi all! I’m going into my final year studying History and Politics. I’m very excited to be a part of Prosper’s management team this year as I’ve loved being on the analyst and senior analyst programs previously. We did some great work last year with local social enterprises which really drove home the importance of sustainable investment and our mission to deliver positive impact. I am looking forward to maintaining this momentum and seeing the positivity and innovation that our analyst programs will bring.”</p>
 </div>
 </div>
 
