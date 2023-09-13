@@ -184,16 +184,16 @@ include_footer: true
 
 <div class="team-member">
 <div class="team-image-container">
-<img class="team-image" src="">
-<a href="https://www.linkedin.com/in/chenchen-zha-252371228/">
+<img class="team-image" src="/images/team/paula.jpg">
+<a href="https://www.linkedin.com/in/paula-quevedo-76b536250/">
 <div class="linkedin-holder">
 <i class="linkedin-icon fa fa-linkedin"></i>
 </div>
 </a>
 </div>
 <div class="team-info-container">
-<h3 class="team-member-name">ChenChen Zha</h3>
+<h3 class="team-member-name">Paula Quevedo</h3>
 <h5 class="team-member-position">Head of Marketing</h5>
-<p>“I’m currently a 2nd year student studying Economics and Politics. After joining Prosper last semester I found an interest in ESG investing and the various skills taught in the Junior Analyst Training Program which made me want to learn more through Prosper. I am extremely excited to be a part of Prosper this year to not only grow my own skills but to also create an impact in humanizing the finance industry. I hope to use the marketing skills I possess to continue to drive Prosper above and beyond.”</p>
+<p>“My name is Paula Quevedo, and I am in my second year studying Mathematics and Statistics. Joining Prosper during my first year was definitely one of the best decisions I made. The ATP provided me with great insights into the world of ESG investing, along with invaluable hands-on experience that will undoubtedly benefit my career. As I step into the role of Head of Marketing, I look forward to developing my skills, embracing new opportunities for growth, and collaborating with like-minded people towards creating positive social change!”</p>
 </div>
 </div>
