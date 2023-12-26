@@ -8,7 +8,7 @@ Our eight week Analyst Training Programme is the ideal introduction to socially 
 
 ### No previous finance knowledge needed
 
-The Programme’s content has been carefully designed to be accessible for beginners with no previous knowledge of finance but challenging enough for those who come from a financial background. We have also partnered with bespoke equity portfolio management firm, Walter Scott to teach our analysts the fundamentals of financial analysis.
+The Programme’s content has been carefully designed to be accessible for beginners with no previous knowledge of finance but challenging enough for those who come from a financial background.
 
 ![The analyst curriculum](/images/curriculum.png)
 
@@ -82,7 +82,7 @@ We carry out a two-stage holistic application process to ensure we attract analy
     </div>
     <div class="accordion-item-body">
       <div class="accordion-item-body-content">
-        There are four teams and each team consists of five analysts supervised by a member from the Management Team, the ‘Team Head’.
+        Each team consists of five to six analysts supervised by a member from the Management Team, the ‘Team Head’.
       </div>
     </div>
   </div>
@@ -102,11 +102,11 @@ We carry out a two-stage holistic application process to ensure we attract analy
     </div>
     <div class="accordion-item-body">
       <div class="accordion-item-body-content">
-        For Semester 1 applications are open for a month up until the first week of classes of the University of Edinburgh. For Semester 2, applications are open over the winter holidays and close during the first week of classes. Keep an eye on our social media and subscribe to our mailing list to receive updates about the recruitment process!
+        Dates usually vary year to year. Keep an eye on our social media and subscribe to our mailing list to receive updates about the recruitment process, everything is communicated through there!
       </div>
     </div>
   </div>
-</div>
+</div>o  
 
 <script>
     const accordionItemHeaders = document.querySelectorAll(".accordion-item-header");
