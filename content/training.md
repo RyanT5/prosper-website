@@ -103,9 +103,10 @@ We carry out a two-stage holistic application process to ensure we attract analy
     <div class="accordion-item-body">
       <div class="accordion-item-body-content">
         Dates usually vary year to year. Keep an eye on our social media and subscribe to our mailing list to receive updates about the recruitment process, everything is communicated through there!
-      </div>
+       </div>
     </div>
   </div>
+</div>
 
 <script>
     const accordionItemHeaders = document.querySelectorAll(".accordion-item-header");
