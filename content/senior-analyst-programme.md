@@ -1,10 +1,9 @@
 ---
-title: "Senior Analyst Programme"
-subtitle: "Greater responsibility with greater flexibility"
+title: Senior Analyst Programme
+subtitle: Greater responsibility with greater flexibility
 draft: false
 include_footer: true
 ---
-
 Our Senior Analyst Programme is available to Prosper’s Analysts who have undergone the Analyst Training Programme. The Senior Analyst Programme is designed to expand Analyst’s knowledge of Prosper’s investments and its processes as a fund and social enterprise. Rather than working through a syllabus, Senior Analysts work on projects which may relate to all areas of Prosper’s operations. Senior Analysts work closely with the Management Team, with greater independence and have the opportunity to make their own impact on Prosper’s activities.
 
 ![Some of our senior analysts](/images/senior-session.JPG)
@@ -90,7 +89,7 @@ Candidates submit a written application which will be evaluated in addition to t
     </div>
     <div class="accordion-item-body">
       <div class="accordion-item-body-content">
-        For Semester 1 applications are open for a month up until the first week of classes of the University of Edinburgh. For Semester 2, applications are open over the winter holidays and close during the first week of classes. Keep an eye on our social media and subscribe to our mailing list to receive updates about the recruitment process!
+        Dates usually vary year to year. Keep an eye on our social media and subscribe to our mailing list to receive updates about the recruitment process, everything is communicated through there!
       </div>
     </div>
   </div>
