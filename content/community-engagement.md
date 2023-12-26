@@ -18,10 +18,6 @@ Events are one of the ways we seek to connect students, investors and social ent
 
 ![Some members at an event](/images/event.JPG)
 
-### Events
-
-Events are one of the ways we seek to connect students, investors and social enterprises. With a strong track record in delivering thought-provoking lectures, networking opportunities and communities socials, we are looking forward to hosting more vents in the coming year. 
-
 <div style="width: wrap; margin: auto; text-align: center; margin: 20px 0px 20px;">
 
 <a href="http://eepurl.com/dEBYnX">
