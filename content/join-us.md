@@ -4,11 +4,11 @@ subtitle: ""
 draft: false
 include_footer: true
 ---
-Are you looking for an exciting challenge, meet new people, and most importantly, create positive social impact within the local community? Look no further and apply today to be a Social Finance Analyst with us! You will have the opportunity to pitch shares of socially responsible companies with fellow analysts, and most importantly, you will have a say in where our profit goes!
+Are you looking for an exciting challenge, meet new people, and most importantly, create positive social impact within the local community? Look no further and apply to be a Social Finance Analyst with us! You will have the opportunity to pitch shares of socially responsible companies with fellow analysts, and most importantly, you will have a say in where our profit goes!
 
 We welcome and encourage all students from the University of Edinburgh - regardless of year and degree - to apply. 
 
-Applications are now open for our Analyst Training Programme!
+Applications will open again in January. Keep an eye on our social media and sign up to our mailing list for updates.
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSdg6I3JD0CphKXwg-ZS4rAkGQiTAnMmjVtiEsrNd9O0zcz5oQ/viewform?usp=sf_link">
 <span class="button signup-button rounded secondary-btn raised" style="width: 250px; margin: auto; margin-top: 40px; display: flex;">
