@@ -106,7 +106,7 @@ We carry out a two-stage holistic application process to ensure we attract analy
       </div>
     </div>
   </div>
-</div>o  
+
 
 <script>
     const accordionItemHeaders = document.querySelectorAll(".accordion-item-header");
