@@ -10,7 +10,7 @@ We welcome and encourage all students from the University of Edinburgh - regardl
 
 Applications will open again in January. Keep an eye on our social media and sign up to our mailing list for updates.
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSdg6I3JD0CphKXwg-ZS4rAkGQiTAnMmjVtiEsrNd9O0zcz5oQ/viewform?usp=sf_link">
+<a href="https://docs.google.com/forms/d/1IAq3uTDZ4uw8Gf1Le2fEX9nWzRw6rs1zZT2u7OcOLeY/edit">
 <span class="button signup-button rounded secondary-btn raised" style="width: 250px; margin: auto; margin-top: 40px; display: flex;">
         Apply Now!
 </span>
