@@ -24,20 +24,18 @@ A market once predominantly controlled by European corporations has now moved to
 Looking at the future of the carbon market requires the analysis of 3 aspects of the market itself: past performance, demand perspective and the integral market structure. 
 
 1. Past performance. This is easily determined when observing the carbon markets price over time as seen below. Two different stories are being told here where firstly from the EU ETS’s inception in 2005 up until the start of 2020, despite shocks, the price level remained relatively low and reasonably consistent with no signs of skyrocketing. However, since 2020 we have seen exponential growth in just a 3-year period. Why is this? 
-
 2. Demand Perspective is a good starting point for trying to find the answer to this question. Consistent low prices has been pinned down by Bayer & Alkin (2020) as they note that the firm’s judgment on whether the market they are buying into is a “credible institution” is what drives both emissions levels and market price. When firms begin to truly believe that in the future the market may “become more stringent” even at lower price levels they may switch away from carbon use. This business perspective or demand perspective is why prices consistently low despite still reducing emission levels within the EU. What is said for the past 3-year price eruption? 
-
 3. The integral market structure of the EU ETS is something which, when reviewed, can show signs of why prices may continue to increase at similar rates over the next decade. There is a characteristic of the ETS called the Market Stability Reserve (MSR) which essentially acts as a vault - balancing the total number of allowances in circulation. It operates through a complicated process of balancing the reduction of existing allowances in circulation as well as introduction of more allowances to maintain stability. However, when the MSR holds more allowances than a given threshold, the excess is permanently canceled meaning supply is fixed. With this fixed supply it is expected that the market price will continue to increase to price levels much greater than €100 – proving profitable for avid market investors and proving very beneficial, ultimately, for European climate action.
 
 **References**: 
 
-Bayer, P. and Aklin, M. (2020). The European Union Emissions Trading System Reduced CO2 Emissions despite Low Prices. Proceedings of the National Academy of Sciences, 117(16), pp.8804–8812. doi:https://doi.org/10.1073/pnas.1918128117. 
+Bayer, P. and Aklin, M. (2020). The European Union Emissions Trading System Reduced CO2 Emissions despite Low Prices. Proceedings of the National Academy of Sciences, 117(16), pp.8804–8812. doi: https://doi.org/10.1073/pnas.1918128117. 
 
-Carbon price: efficient market does its bit for the planet. (2023). Financial Times. \[online] 21 Feb. Available at: https://www.ft.com/content/a19b8d5d-e554-4ad8-be0d-49944193e2c1 
+Carbon price: efficient market does its bit for the planet. (2023). Financial Times. \[online] 21 Feb. Available at: https://www.ft.com/content/a19b8d5d-e554-4ad8-be0d-49944193e2c1. 
 
 Clean Energy Wire. (2014). Understanding the European Union’s Emissions Trading System (EU ETS). \[online] Available at: https://www.cleanenergywire.org/factsheets/understanding-european-unions-emissions-trading-system#:~:text=The%20EU%20ETS%20follows%20a. 
 
-data.worldbank.org. (n.d.). CO2 emissions (metric tons per capita) | Data. \[online] Available at: https://data.worldbank.org/indicator/EN.ATM.CO2E.PC?end=2019&most_recent_year_desc=false&start=2019&type=shaded&view=map&year=2019 
+data.worldbank.org. (n.d.). CO2 emissions (metric tons per capita) | Data. \[online] Available at: https://data.worldbank.org/indicator/EN.ATM.CO2E.PC?end=2019&most_recent_year_desc=false&start=2019&type=shaded&view=map&year=2019. 
 
 EU carbon price tops €100 a tonne for first time. (2023). Financial Times. \[online] 21 Feb. Available at: https://www.ft.com/content/7a0dd553-fa5b-4a58-81d1-e500f8ce3d2a#comments-anchor European Commission (n.d.). Emissions cap and allowances. \[online] climate.ec.europa.eu. Available at: https://climate.ec.europa.eu/eu-action/eu-emissions-trading-system-eu-ets/emissions-cap-and-allowances_en. 
 
