@@ -8,7 +8,11 @@ Are you looking for an exciting challenge, meet new people, and most importantly
 
 We welcome and encourage all students from the University of Edinburgh - regardless of year and degree - to apply. 
 
-Applications will open again in January. Keep an eye on our social media and sign up to our mailing list for updates.
+Applications for our Junior Analyst Training Programme are now OPEN! 
+
+Please take note that applications will close on Thursday, 25th of January at 23:59 GMT. We will unfortunately not be able to consider any application received after that.\
+\
+We will be in touch by Friday, 26th of January to let you know of the outcome. If your application is successful, we will invite you in for a quick interview sometime on Saturday, 27th of January (please ensure you are available for all of Saturday as we will have a lot of interviews to get through).
 
 <a href="https://docs.google.com/forms/d/1IAq3uTDZ4uw8Gf1Le2fEX9nWzRw6rs1zZT2u7OcOLeY/edit">
 <span class="button signup-button rounded secondary-btn raised" style="width: 250px; margin: auto; margin-top: 40px; display: flex;">
