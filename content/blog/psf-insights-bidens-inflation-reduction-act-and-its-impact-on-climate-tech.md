@@ -2,7 +2,7 @@
 title: "PSF Insights: Biden's Inflation Reduction Act And Its Impact On Climate Tech"
 subtitle: By Aidan Brennan, Senior Analyst
 date: 2023-02-24T18:57:10.199Z
-image: https://image.cnbcfm.com/api/v1/image/107099258-1659646272150-chuck.jpg?v=1659646313
+image: /images/psf-insights.png
 draft: "false"
 include_footer: "true"
 ---
@@ -26,13 +26,9 @@ A third benefit of the Inflation Reduction Act will be a decrease in the product
 
 Not only does the bill provide tax credit opportunities for businesses but consumers are also able to see some direct benefits. Clean vehicle credits allow taxpayers to claim back up to $7500 per vehicle each year. When the typical taxpayer in the US emits over 4.5 metric tonnes of CO2 per year from driving alone, incentives like these are key to a net zero transition.
 
-
-
 **References**: 
 
 https://www.mckinsey.com/industries/public-and-social-sector/our-insights/the-inflation-reduction-act-heres-whats-in-it 
-
-https://lpscdn.linklaters.com/knowledge/-/media/digital-marketing-image-library/files/06\_ckp/2022/august/climate-change-progress-the-inflation-reduction-act\_-5.ashx?rev=60bfea05-0246-4f2f-8ce1-0d677deb1e08&extension=pdf 
 
 https://rhg.com/research/climate-clean-energy-inflation-reduction-act/ 
 
