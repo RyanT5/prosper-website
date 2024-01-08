@@ -26,9 +26,9 @@ Events are one of the ways we seek to connect students, investors and social ent
 </span>
 </a>
 
-<a href="https://facebook.com/prospersocialfinance/">
+<a href="https://www.instagram.com/prospersocialfinance?igshid=OGQ5ZDc2ODk2ZA%3D%3D">
 <span class="button signup-button rounded secondary-btn raised" style="background: #0078ff; border: none; width: 250px; margin: auto; margin-top: 5px; margin-bottom: 5px;">
-    Follow us on Facebook
+    Follow us on Instagram
 </span>
 </a>
 
