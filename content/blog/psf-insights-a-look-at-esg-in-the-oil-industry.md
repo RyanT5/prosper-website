@@ -2,7 +2,7 @@
 title: "PSF Insights: A Look At ESG In The Oil Industry"
 subtitle: By Cormack Ross, Senior Analyst
 date: 2023-10-31T19:52:38.144Z
-image: /images/psf-insights.png
+image: psf-insights.png
 draft: "false"
 include_footer: "true"
 ---

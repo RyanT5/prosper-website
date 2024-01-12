@@ -3,7 +3,7 @@ title: "PSF Insights: How The EU Carbon Price Increase Affects European Firms'
   Outlook On Internal Carbon Usage"
 subtitle: By Callum Docherty, Senior Analyst
 date: 2023-03-21T19:16:25.950Z
-image: /images/psf-insights.png
+image: psf-insights.png
 draft: "false"
 include_footer: "true"
 ---

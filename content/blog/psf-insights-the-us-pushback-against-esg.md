@@ -2,7 +2,7 @@
 title: "PSF Insights: The US Pushback Against ESG"
 subtitle: By Chelcie Mohammed, Senior Analyst
 date: 2023-04-05T18:45:49.747Z
-image: /images/psf-insights.png
+image: psf-insights.png
 draft: "false"
 include_footer: "true"
 ---

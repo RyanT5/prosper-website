@@ -2,7 +2,7 @@
 title: "PSF Insights: Biden's Inflation Reduction Act And Its Impact On Climate Tech"
 subtitle: By Aidan Brennan, Senior Analyst
 date: 2023-02-24T18:57:10.199Z
-image: /images/psf-insights.png
+image: psf-insights.png
 draft: "false"
 include_footer: "true"
 ---
