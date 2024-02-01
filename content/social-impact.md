@@ -12,7 +12,7 @@ In Semester 1 of 2022/23, our Senior Analyst Programme cohort led our Social Imp
 
 <div style="background: #F39200; color: white !important; padding: 30px; border-radius: 0.5rem; margin-top: 30px;">
 
-<h2 style="color: white;">Prosper’s Five Branches of Social Impact h2>
+<h2 style="color: white;">Prosper’s Five Branches of Social Impact</h2>
 
 <ul style="margin-left: 1em;">
 <li>The Analyst Training Programme (ATP) is an 8-week course which teaches students from any degree background about Socially Responsible Investing (SRI) and culminates in a stock pitch made to the investment panel </li>
@@ -23,5 +23,7 @@ In Semester 1 of 2022/23, our Senior Analyst Programme cohort led our Social Imp
 </ul>
 
 </div>
+
+
 
 ![Our branches of impact](/images/conducted-1-.png)
