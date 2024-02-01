@@ -8,12 +8,23 @@ As a social enterprise, our primary goal at Prosper is not financial gain but ra
 
 In Semester 1 of 2022/23, our Senior Analyst Programme cohort led our Social Impact Grant Selection aiming to establish a long-term, sustainable, and mutually beneficial relationship with local enterprises via The Good Stuff Network. We derived social impact metrics to track our investment success and assess how these opportunities align with our core values and the Sustainable Development Goals. 
 
-**Prosper’s Five Branches of Social Impact:**
+<div style="background: #F39200; color: white !important; padding: 30px; border-radius: 0.5rem; margin-top: 30px;">
 
-* The Analyst Training Programme (ATP) is an 8-week course which teaches students from any degree background about Socially Responsible Investing (SRI) and culminates in a stock pitch made to the investment panel 
-* The Senior Analyst Programme (SAP) allows former Analysts to continue their involvement with Prosper and work closely with management on important projects 
-* The Management Team (MMT) empowers students with leadership and decision-making responsibilities 
-* Social Impact Grant, given twice a year to our selected enterprise Invisible Cities alongside volunteering 
-* The ESG investment philosophy dictates that Prosper only hold ethical, ESG stocks - by doing so Prosper is investing in a more sustainable and just future
+<h2 style="color: white;">**Prosper’s Five Branches of Social Impact:**</h2>
+
+<ul style="margin-left: 1em;">
+<li>Discover and understand what it means to make socially responsible investments</li>
+<li>The Analyst Training Programme (ATP) is an 8-week course which teaches students from any degree background about Socially Responsible Investing (SRI) and culminates in a stock pitch made to the investment panel </li>
+<li>The Senior Analyst Programme (SAP) allows former Analysts to continue their involvement with Prosper and work closely with management on important projects </li>
+<li>The Management Team (MMT) empowers students with leadership and decision-making responsibilities </li>
+<li>Social Impact Grant, given twice a year to our selected enterprise Invisible Cities alongside volunteering </li>
+<li>The ESG investment philosophy dictates that Prosper only hold ethical, ESG stocks - by doing so Prosper is investing in a more sustainable and just future</li>
+</ul>
+
+</div>
+
+
+
+
 
 ![Our impact in numbers](/images/impact.png)
