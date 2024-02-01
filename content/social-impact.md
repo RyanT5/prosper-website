@@ -10,7 +10,7 @@ In Semester 1 of 2022/23, our Senior Analyst Programme cohort led our Social Imp
 
 <div style="background: #F39200; color: white !important; padding: 30px; border-radius: 0.5rem; margin-top: 30px;">
 
-<h2 style="color: white;">**Prosper’s Five Branches of Social Impact:**</h2>
+<h2 style="color: white;">\*\*Prosper’s Five Branches of Social Impact:\*\*</h2>
 
 <ul style="margin-left: 1em;">
 <li>Discover and understand what it means to make socially responsible investments</li>
@@ -23,8 +23,6 @@ In Semester 1 of 2022/23, our Senior Analyst Programme cohort led our Social Imp
 
 </div>
 
+![Our branches of impact](/images/conducted-1-.png)
 
-
-
-
-![Our impact in numbers](/images/impact.png)
+![Our impact in numbers](/images/conducted-3-.png)
