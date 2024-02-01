@@ -18,12 +18,10 @@ In Semester 1 of 2022/23, our Senior Analyst Programme cohort led our Social Imp
 <li>The Analyst Training Programme (ATP) is an 8-week course which teaches students from any degree background about Socially Responsible Investing (SRI) and culminates in a stock pitch made to the investment panel </li>
 <li>The Senior Analyst Programme (SAP) allows former Analysts to continue their involvement with Prosper and work closely with management on important projects </li>
 <li>The Management Team (MMT) empowers students with leadership and decision-making responsibilities </li>
-<li>Social Impact Grant, given twice a year to our selected enterprise Invisible Cities alongside volunteering </li>
-<li>The ESG investment philosophy dictates that Prosper only hold ethical, ESG stocks - by doing so Prosper is investing in a more sustainable and just future</li>
+<li>Social Impact Grants, given twice a year to our selected enterprise Invisible Cities alongside volunteering </li>
+<li>The ESG Investment Philosophy dictates that Prosper only hold ethical, ESG stocks - by doing so Prosper is investing in a more sustainable and just future</li>
 </ul>
 
 </div>
-
-
 
 ![Our branches of impact](/images/conducted-1-.png)
