@@ -12,13 +12,13 @@ Prosper’s marketing covers all corners of the University in order to attract a
 
 Our currently expanding alumni network comprising over 250 alumni distributed across the UK and globally, facilitating a gateway for connections among past, present and future Prosper analysts. These connections are fostered through the various student-alumni networking events, share-your-ideas sessions with guest speakers and mentoring for current analysts who want to go into similar career paths. 
 
-To fulfil our mission of delivering positive social change in Edinburgh we award biannual grants to a local Edinburgh enterprise, alongside hosting events with the Edinburgh Collective. The Edinburgh Collective events allow members of both communities to network as well as raising money and awareness for emerging artists in Edinburgh. 
+To fulfil our mission of delivering positive social change in Edinburgh we award biannual grants to a local Edinburgh enterprise, alongside hosting events with [The Edinburgh Collective](https://www.edinburghcollective.co.uk/). The Edinburgh Collective events allow members of both communities to network as well as raising money and awareness for emerging artists in Edinburgh. 
 
-Maintaining a strong relationship with The Good Stuff Network provides Prosper with greater access to the local community. Producing opportunities for our Senior Analysts to present at the ‘Good Stuff Network: Social Stories’ event, which was attended by a multitude of members, the majority of whom run their own social enterprise.
+Maintaining a strong relationship with [The Good Stuff Network](https://goodstuffedinburgh.co.uk/) provides Prosper with greater access to the local community. Producing opportunities for our Senior Analysts to present at the ‘Good Stuff Network: Social Stories’ event, which was attended by a multitude of members, the majority of whom run their own social enterprise.
 
 ### **Invisible Cities** 
 
-In January 2023, Invisible Cities became the recipient of our biannual Social Impact Grant. Invisible Cities is a social enterprise training people who have experienced homelessness to become walking tour guides of their own city. The CEO of Invisible Cities, Zarkia Moulaoui Guery was named by National Geographic as one of the 9 ‘Travellers of the Year’, crowned as the ‘People’s Champion’. 
+In January 2023, [Invisible Cities](https://invisible-cities.org/) became the recipient of our biannual Social Impact Grant. Invisible Cities is a social enterprise training people who have experienced homelessness to become walking tour guides of their own city. The CEO of Invisible Cities, Zarkia Moulaoui Guery was named by National Geographic as one of the 9 ‘Travellers of the Year’, crowned as the ‘People’s Champion’. 
 
 Our frequent meetings with Invisible cities fosters a strong relationship and allows us to expand our relationship beyond financial support. We routinely attend their practice tours, assisted the launch of the scavenger hunt, and support Invisible Cities with the execution of their events. Recently, we partnered with them to put on a Women of Edinburgh event with speakers such as Natasha Ingram Pheonix (a prominent artist in the Edinburgh community) attended. 
 
