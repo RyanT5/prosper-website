@@ -38,12 +38,6 @@ We encourage all of our previous Analysts to join our Senior Analyst Programme! 
 
 Candidates submit a written application which will be evaluated in addition to their performance in the Analyst Training Programme.
 
-<a href="https://docs.google.com/forms/d/1TX5_eFzM5dO0142nZDMlBlfB0n-m59rLUH-WCm_tBEg/edit">
-<span class="button signup-button rounded secondary-btn raised" style="width: 250px; margin: auto; margin-top: 30px; display: flex; background: #fff; color: #F39200;">
-    Apply now
-</span>
-</a>
-
 </div>
 
 ### Frequently asked questions
