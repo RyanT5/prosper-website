@@ -4,7 +4,7 @@ subtitle: ""
 draft: false
 include_footer: true
 ---
-### **Our Human Capital** 
+### Our Human Capital 
 
 Prosper’s social impact is largely a result of our engagement with the Edinburgh student body and wider community. Our 8-week **Analyst Training Programme** is our most direct means of delivering a positive impact within the University of Edinburgh student community. We measure our impact through our Social Impact Evaluation Framework, which was an SAP project. We use this to monitor the quality of our programme alongside regular surveys from our analysts. 
 
@@ -14,15 +14,15 @@ Additionally, the **Senior Analyst Programme** is an opportunity for Analysts wh
 
 Since our inception, Prosper has trained **over 280 students** from the University of Edinburgh, ranging from first-years to Master’s students, studying a wide range of degrees. Prosper’s marketing covers all corners of the University in order to attract a diverse range of students, making finance more accessible and understandable to people. We are proud to represent a diverse community of members and strive to continue making progress in this regard. 
 
-Our currently expanding alumni network is distributed across the UK and globally, facilitating a gateway for connections among past, present and future Prosper analysts. These connections are fostered through the various **student-alumni networking events**, **share-your-ideas sessions with guest speakers** and **career** **mentoring** for current analysts interested in pursuing careers spanning finance, consulting and social impact.
+Our currently expanding alumni network is distributed across the UK and globally, facilitating a gateway for connections among past, present and future Prosper analysts. These connections are fostered through the various **student-alumni networking events**, share-your-ideas **sessions with guest speakers** and **career** **mentoring** for current analysts interested in pursuing careers spanning finance, consulting and social impact.
 
-### **Our Social Impact Grants**
+### Our Social Impact Grants
 
 To fulfil our mission of delivering positive social change in Edinburgh we award **biannual grants** to a local Edinburgh enterprise, alongside hosting events with [The Edinburgh Collective](https://www.edinburghcollective.co.uk/). The **Edinburgh Collective events** allow members of both communities to network as well as raising money and awareness for emerging artists in Edinburgh. 
 
 Maintaining a strong relationship with [The Good Stuff Network](https://goodstuffedinburgh.co.uk/) provides Prosper with greater access to the local community. Producing opportunities for our Senior Analysts to present at the **‘Good Stuff Network: Social Stories’ event**, which was attended by a multitude of members, the majority of whom run their own social enterprise.
 
-### **Invisible Cities** 
+### Invisible Cities 
 
 In January 2023, [Invisible Cities](https://invisible-cities.org/) became the recipient of our biannual Social Impact Grant. Invisible Cities is a social enterprise training people who have experienced homelessness to become walking tour guides of their own city. The CEO of Invisible Cities, Zarkia Moulaoui Guery, was named by National Geographic as one of the 9 ‘Travellers of the Year’, crowned as the ‘People’s Champion’. 
 
