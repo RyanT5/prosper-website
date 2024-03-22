@@ -1,7 +1,7 @@
 ---
 title: "PSF Insights: Introducing Green Bonds"
 subtitle: By Grace Westrup, Senior Analyst
-date: 2024-03-22T19:32:43.999Z
+date: 2024-02-05T13:33:00.000Z
 image: psf-insights.png
 draft: "false"
 include_footer: "true"
