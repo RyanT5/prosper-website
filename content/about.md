@@ -1,10 +1,9 @@
 ---
-title: "About Us"
+title: About Us
 subtitle: ""
 draft: false
 include_footer: true
 ---
-
 ### Who are we?
 
 Prosper Social Finance is the UK’s first socially responsible investment fund run entirely by students at the University of Edinburgh. Our mission is to deliver positive social change in Edinburgh through responsible, student-led investments. We aim to challenge traditional perceptions of finance, making the world of investment more compassionate and responsible.
