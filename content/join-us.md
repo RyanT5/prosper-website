@@ -11,6 +11,7 @@ We welcome and encourage all students from the University of Edinburgh - regardl
 Applications for our Junior and Senior Analyst Programmes are now open. 
 
 Follow this link to our application form: (https://forms.gle/Bnjjw81nPaLmnEMi6)
+
 <a href="http://eepurl.com/dEBYnX">
 <span class="button signup-button rounded secondary-btn raised" style="width: 250px; margin: auto; margin-top: 40px; display: flex;">
     Sign up to our mailing list
