@@ -8,7 +8,7 @@ Are you looking for an exciting challenge, meet new people, and most importantly
 
 We welcome and encourage all students from the University of Edinburgh - regardless of year and degree - to apply. 
 
-Applications for our Senior Analyst Programme is now open. 
+Applications for our Senior Analyst Programme are now open. 
 
 Follow this link to our application form: (https://forms.gle/bhqDnaawokbA6eju6)
 
