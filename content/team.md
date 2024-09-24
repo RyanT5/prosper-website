@@ -22,7 +22,7 @@ include_footer: true
 
 <div class="team-member">
 <div class="team-image-container">
-<img class="team-image" src="/images/team/harvey.jpg">
+<img class="team-image" src="/images/team/image123650291.JPG">
 <a href="https://www.linkedin.com/in/craig-paton12/">
 <div class="linkedin-holder">
 <i class="linkedin-icon fa fa-linkedin"></i>
@@ -71,7 +71,7 @@ include_footer: true
 
 <div class="team-member">
 <div class="team-image-container">
-<img class="team-image" src="/images/team/charly.jpg">
+<img class="team-image" src="/images/team/IMG_1631.JPG">
 <a href="https://www.linkedin.com/in/matthill1970/">
 <div class="linkedin-holder">
 <i class="linkedin-icon fa fa-linkedin"></i>
@@ -103,7 +103,7 @@ include_footer: true
 
 <div class="team-member">
 <div class="team-image-container">
-<img class="team-image" src="/images/team/Luke.jpg">
+<img class="team-image" src="/images/team/image0(1).jpeg">
 <a href="https://www.linkedin.com/in/alecjohnson-profile/">
 
 <div class="linkedin-holder">
