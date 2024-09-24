@@ -6,65 +6,65 @@ include_footer: true
 ---
 <div class="team-member">
 <div class="team-image-container">
-<img class="team-image" src="/images/team/G.jpeg">
-<a href="https://www.linkedin.com/in/gracegubbay/">
+<img class="team-image" src="/images/team/ethan.png">
+<a href="https://www.linkedin.com/in/ethan-cohn-167599223/">
 <div class="linkedin-holder">
 <i class="linkedin-icon fa fa-linkedin"></i>
 </div>
 </a>
 </div>
 <div class="team-info-container">
-<h3 class="team-member-name">Grace Gubbay</h3>
+<h3 class="team-member-name">Ethan Cohn</h3>
 <h5 class="team-member-position">Executive Director</h5>
-<p>"My name is Grace Gubbay and I am a fourth year Chemistry student. I was initially drawn to Prosper because of its innovative and accessible approach. Over the last few years, Prosper has allowed me to contribute to a unique community, challenging my perceptions of finance and highlighting to me the importance and responsibility of prioritising a more sustainable future. As Executive Director, I am excited at the opportunity of extending and shaping Prosper’s relationship with both students and the wider responsible finance community.”</p>
+<p>"Hi all! I’m Ethan the new Executive Director of Prosper and a 4th Year studying Economic History. Prosper has been a major part of my university journey, starting out as a junior and senior analyst in my first year. Since then, I’ve been lucky enough to watch Prosper grow, as we challenge the traditional perceptions of the finance industry through both student autonomy and a strong socially responsible philosophy. As Executive Director, I can’t wait to work with new analysts looking to join Prosper and the Management Team! Please reach out to me or the Team if you have any queestions about Prosper or the application process.”</p>
 </div>
 </div>
 
 <div class="team-member">
 <div class="team-image-container">
 <img class="team-image" src="/images/team/harvey.jpg">
-<a href="https://www.linkedin.com/in/harvey-graham-335352249/">
+<a href="https://www.linkedin.com/in/craig-paton12/">
 <div class="linkedin-holder">
 <i class="linkedin-icon fa fa-linkedin"></i>
 </div>
 </a>
 </div>
 <div class="team-info-container">
-<h3 class="team-member-name">Harvey Graham</h3>
-<h5 class="team-member-position">Director of Portfolio Research</h5>
-<p>“Hi all! I’m going into my final year studying History and Politics. I’m very excited to be a part of Prosper’s management team this year as I’ve loved being on the analyst and senior analyst programs previously. We did some great work last year with local social enterprises which really drove home the importance of sustainable investment and our mission to deliver positive impact. I am looking forward to maintaining this momentum and seeing the positivity and innovation that our analyst programs will bring.”</p>
+<h3 class="team-member-name">Craig Paton</h3>
+<h5 class="team-member-position">Director of Operations</h5>
+<p>“Hi I’m Craig. I’m in my third year studying Mathematics and Business (BSc) and I joined Prosper at the start of 2024. I am most excited about Prosper’s collaboration with the Stewart Investor’s Group this year and how it will allow us to maximise our social good. My single favourite aspect of Prosper is the sense of collaboration, from the Junior Analyst Programme, to the Management Team, Prosper is a place where everyone is welcome and can make an impact.”</p>
 </div>
 </div>
 
 <div class="team-member">
 <div class="team-image-container">
 <img class="team-image" src="/images/team/aaron.png">
-<a href="https://www.linkedin.com/in/aaronjimenezuk/">
+<a href="https://www.linkedin.com/in/cormack-ross/">
 <div class="linkedin-holder">
 <i class="linkedin-icon fa fa-linkedin"></i>
 </div>
 </a>
 </div>
 <div class="team-info-container">
-<h3 class="team-member-name">Aaron Jimenez</h3>
-<h5 class="team-member-position">Director of Investment Tracking</h5>
-<p>“I am a fourth year Chemistry student and have been involved with Prosper since the beginning of my second year. In that time, I have held various positions including analyst, senior analyst, Head of Strategy and now Director of Investment Tracking. Prosper has been an integral part of my University experience and has helped to shape my career ambitions and prospects beyond graduation. I am really looking forward to working closely with this Management Team and look forward to another brilliant year of empowering students through ESG investing.”</p>
+<h3 class="team-member-name">Cormack Ross</h3>
+<h5 class="team-member-position">Director of Investment Research</h5>
+<p>“Hi everyone, my name is Cormack and I’m a Fourth year studying Philosophy and Economics. I joined Prosper in second year and have been involved ever since. Prosper to me is an opportunity to get away from studies and meet with people who have a passion for social impact and want to learn about investing. I have learnt a huge amount from Prosper and hope that others can benefit in the same way as me. Looking forward to meeting everyone!”</p>
 </div>
 </div>
 
 <div class="team-member">
 <div class="team-image-container">
 <img class="team-image" src="/images/team/jasmine.jpg"
-<a href="https://www.linkedin.com/in/jasmine-leetin/">
+<a href="https://www.linkedin.com/in/aryanchibber/">
 <div class="linkedin-holder">
 <i class="linkedin-icon fa fa-linkedin"></i>
 </div>
 </a>
 </div>
 <div class="team-info-container">
-<h3 class="team-member-name">Jasmine Lee-Tin</h3>
-<h5 class="team-member-position">Head of Social Impact</h5>
-<p>"I am currently a 4th year Economics and Politics student. I joined Prosper last year and completed the analyst and senior analyst training program; which sparked my interest in ESG investing. This year as head of Social Impact I look forward to strengthening our relationship with invisible cities, whilst expanding Prosper’s community in Edinburgh and abroad to ensure maximum positive impact!”</p>
+<h3 class="team-member-name">Aryan Chibber</h3>
+<h5 class="team-member-position">Head of Strategy</h5>
+<p>"Hi! I’m Aryan and I study International Relations I joined Prosper in the first semester of my first year as a Junior Analyst, and in my second semester, I was a Senior Analyst. I wanted to further contribute to Prosper’s positive social impact and the best route to achieveing that for me was through the Management Board, which I joined this year as Head of Strategy. I’m excited and looking forward to working with the Management Team this year to grow Prosper and immerse myself in sustainable investing.”</p>
 
 </div>
 </div>
@@ -72,39 +72,39 @@ include_footer: true
 <div class="team-member">
 <div class="team-image-container">
 <img class="team-image" src="/images/team/charly.jpg">
-<a href="https://www.linkedin.com/in/charly-campbell-903995230/">
+<a href="https://www.linkedin.com/in/matthill1970/">
 <div class="linkedin-holder">
 <i class="linkedin-icon fa fa-linkedin"></i>
 </div>
 </a>
 </div>
 <div class="team-info-container">
-<h3 class="team-member-name">Charly Campbell</h3>
-<h5 class="team-member-position">Head of Operations</h5>
-<p>“My name is Charly Campbell, and I am currently in my fourth and final year studying Economics and Politics. Having worked as a junior and senior analyst, I am excited to take on the role of Director of Operations. My time at Prosper has proven invaluable to both my professional and personal development, having equipped me with a range of soft and technical skills essential for pursuing a future career in finance. I look forward to continuing my involvement this year and hope to encourage other students, regardless of degree background, to join and help further our goal of delivering positive social change in Edinburgh.”</p>
+<h3 class="team-member-name">Matthew Hill</h3>
+<h5 class="team-member-position">Head of Training </h5>
+<p>“Hi! I’m Matt and I am studying towards a Master in Chemical Engineering. I am really pleased to be the Head of Training at Prosper, having joined as a Junior Analyst last semester and gaining a lot of financial acumen. Coming from a non-finance degree background, it was really encouraging to see that this did not disadvantage me in any way and enabled me to complete an internship in Venture Capital. I hope to encourage more STEM students to join! The organisation has been a massive help in breaking into finance and extremely rewarding with the ESG initiatives.”</p>
 </div>
 </div>
 
 <div class="team-member">
 <div class="team-image-container">
 <img class="team-image" src="/images/team/Ewan.jpg">
-<a href="https://www.linkedin.com/in/ewan-cook/?fbclid=IwAR2dLNm2c_qhyWcu6Fo3GDukhxI2t1BaEeTn1s1pkLIj_J2XIpMMYUrE0GU">
+<a href="https://www.linkedin.com/in/grace-westrup-a89b43183/">
 <div class="linkedin-holder">
 <i class="linkedin-icon fa fa-linkedin"></i>
 </div>
 </a>
 </div>
 <div class="team-info-container">
-<h3 class="team-member-name">Ewan Cook</h3>
-<h5 class="team-member-position">Head of Strategy</h5>
-<p>“My name is Ewan Cook and I am a 4th year Chemical Engineering student. I joined Prosper in my second year of university and through the analyst and senior analyst programs, I’ve been able to gain an understanding of the importance of ESG, and of integrating socially responsible investment into finance. I am very excited to be taking on the role of Head of Strategy and can’t wait to continue working with a fantastic group of people to help Prosper to grow, and produce positive social impact throughout Edinburgh and further afield.”</p>
+<h3 class="team-member-name">Grace Westrup </h3>
+<h5 class="team-member-position">Head of Investment Tracking</h5>
+<p>“Hi everyone! My name is Grace and I’m the Director of Investment Tracking this year. I’m in my Fourth year studying Economics and Politics, and I joined Prosper when I was in my second year. I have really enjoyed my journey of learning all about socially responsible investment while contributing to the Edinburgh community through our social impact work! I can’t wait for this year!”</p>
 </div>
 </div>
 
 <div class="team-member">
 <div class="team-image-container">
 <img class="team-image" src="/images/team/Luke.jpg">
-<a href="https://www.linkedin.com/in/luke-j-6a77391b3/">
+<a href="https://www.linkedin.com/in/alecjohnson-profile/">
 
 <div class="linkedin-holder">
 <i class="linkedin-icon fa fa-linkedin"></i>
@@ -112,9 +112,9 @@ include_footer: true
 </a>
 </div>
 <div class="team-info-container">
-<h3 class="team-member-name">Luke Jenkins</h3>
-<h5 class="team-member-position">Head of Training</h5>
-<p>“My name is Luke Jenkins and I am in my final year studying Economics. I joined Prosper as a Junior Analyst in my second year and continued in third year as a Senior Analyst, helping to lay the groundwork for our burgeoning Socially Responsible Investing (SRI) Network. Having recently completed an ESG Investment internship motivated by my experience at Prosper, I am excited to introduce the next group of analysts to the world of sustainable investment."</p>
+<h3 class="team-member-name">Alec Johnson</h3>
+<h5 class="team-member-position">Head of Investment Strategy </h5>
+<p>I’m Alec, Head of Investment this year. I joined Prosper in January this year and have enjoyed every minute so far. Prosper has been a superb opportunity to meet incredible new people and develop employable skills beyond the scope of my course. As a Geography and Economics student, Prosper’s ethos and approach captures the best of both worlds for me, and with the breadth of our work and opportunities, Prosper will always offer something for everyone. You just have to be brave enough to get involved."</p>
 </div>
 </div>
 
@@ -130,23 +130,23 @@ include_footer: true
 <div class="team-info-container">
 <h3 class="team-member-name">Chelcie Mohammed</h3>
 <h5 class="team-member-position">Head of Training</h5>
-<p>“I’m a second year student studying Business with Decision Analytics. After completing both the Junior and Senior Analyst programs in first year, I knew I had to continue being a part of prosper which is why I am thrilled to be one of the Heads of Training for this upcoming year. Prosper has helped to not only broaden my financial knowledge but also develop my understanding of ESG and social investment. I hope to do the same for the incoming junior analysts alongside the rest of the management team while we continue on our mission to create positive social change!”</p>
+<p>“I’m a Third Year student studying Business with Decision Analytics. Having been part of Prosper for my entire university life, I am extremely keen to return as Head of Training this year and continue improving the Analyst Training Programme. I definitely encourage students from all academic backgrounds to join Prosper as it is a fantastic opportunity to challenge your perception of finance and make meaningful social impact! Personally, Prosper has helped to not only broaden my financial knowledge but also to develop my understanding of ESG and social investment. I hope to do the same for the incoming junior analysts alongside the rest of the management team while we continue on our mission to create positive social change!”</p>
 </div>
 </div>
 
 <div class="team-member">
 <div class="team-image-container">
 <img class="team-image" src="/images/team/Callum.jpg">
-<a href="https://www.linkedin.com/in/callum-docherty-ba2b64225/?fbclid=IwAR2Je1EATLDKTkOQ4bZCxj-_vOdzNSehC8CRuA15k5gV1hlbrILxjoV7zao">
+<a href="https://www.linkedin.com/in/eve-graham-0b60b6272/">
 <div class="linkedin-holder">
 <i class="linkedin-icon fa fa-linkedin"></i>
 </div>
 </a>
 </div>
 <div class="team-info-container">
-<h3 class="team-member-name">Callum Docherty</h3>
-<h5 class="team-member-position">Head of Corporate Relations</h5>
-<p>“I am currently in my fourth and final year studying Economics with Management Science. I joined Prosper in my third year and instantly bought into the organization. Starting with the analyst training programme and moving through the senior analyst programme, my understanding of the ESG investment industry has grown significantly. Alongside this, I've been able to acquire many transferable skills and have had the opportunity to work with like-minded individuals. I am very excited to undertake the role of Head of Strategic Relations and can't wait to add further value to the organisation as well as boost our impact in the local community.”</p>
+<h3 class="team-member-name">Eve Graham </h3>
+<h5 class="team-member-position">Head of Social Impact </h5>
+<p>“I’m currently a Fourth Year Spanish and Business student. I completed the Junior Analyst Programme in my second year, which sparked my interest in socially-responsible investing. I’m looking forward to returning to Edinburgh after my Year Abroad as Head of Social Impact. My main enthusiasms are around creating social impact and the ways in which ESG is driving transformation in business. In my role, I aim to deliver increased positive social impact to the local community, by maintaining our relations with Invisible Cities and working on a fundraising project with my Senior Analysts. Prosper is a future-focused investment fund which plays a pivotal role in fostering change by factoring ESG metrics into investment decisions and I am proud to be directly contributing to this.”</p>
 </div>
 </div>
 
@@ -160,40 +160,24 @@ include_footer: true
 </a>
 </div>
 <div class="team-info-container">
-<h3 class="team-member-name">Aidan Brennan</h3>
-<h5 class="team-member-position">Head of Investment Strategy</h5>
-<p>“Hi I’m Aidan, Prospers new Head of Investment Strategy. I joined prosper in January last year and enjoyed every second of it. Prosper has hugely improved my career prospects and led to me meeting some incredible people. I look forward to my new role and all that comes with it, I highly advise you to join if you have an interest in finance, the environment or sustainability - it will be one of the best decisions you will make."</p>
+<h3 class="team-member-name">Chaitanya </h3>
+<h5 class="team-member-position">Head of Corporate Relations</h5>
+<p>“I am currently in my Fourth Year of studying Finance and Business. Since joining Prosper last year through the Analyst Training Programme, I have enhanced my understanding of ESG investing and recognised its importance in modern finance. As the new Head of Corporate Relations, I am looking forward to expanding and strengthening Prosper’s network, and delivering an excellent year ahead for analysts."</p>
 </div>
 </div>
 
 <div class="team-member">
 <div class="team-image-container">
 <img class="team-image" src="/images/team/ethan.png">
-<a href="<https://www.linkedin.com/in/ethan-cohn-167599223>">
+<a href="https://www.linkedin.com/in/lucy-langtry-73400a197/">
 <div class="linkedin-holder">
 <i class="linkedin-icon fa fa-linkedin"></i>
 </div>
 </a>
 </div>
 <div class="team-info-container">
-<h3 class="team-member-name">Ethan Cohn</h3>
-<h5 class="team-member-position">Head of Strategic Relations</h5>
-<p>“Hi I’m Ethan, Head of Strategic Relations at Prosper Social Finance. I’m a History and Economics student in my 3rd year of Prosper and so excited for the year ahead! I have a strong interest in sustainability and keeping up to date on developments in the fast evolving ESG sphere. Prosper has helped me develop a vast array of skills- from basic financial analysis to teamwork, presentation and socially conscious investing practices.”</p>
-</div>
-</div>
-
-<div class="team-member">
-<div class="team-image-container">
-<img class="team-image" src="/images/team/paula.jpg">
-<a href="https://www.linkedin.com/in/paula-quevedo-76b536250/">
-<div class="linkedin-holder">
-<i class="linkedin-icon fa fa-linkedin"></i>
-</div>
-</a>
-</div>
-<div class="team-info-container">
-<h3 class="team-member-name">Paula Quevedo</h3>
-<h5 class="team-member-position">Head of Marketing</h5>
-<p>“My name is Paula Quevedo, and I am in my second year studying Mathematics and Statistics. Joining Prosper during my first year was definitely one of the best decisions I made. The ATP provided me with great insights into the world of ESG investing, along with invaluable hands-on experience that will undoubtedly benefit my career. As I step into the role of Head of Marketing, I look forward to developing my skills, embracing new opportunities for growth, and collaborating with like-minded people towards creating positive social change!”</p>
+<h3 class="team-member-name">Lucy Langtry</h3>
+<h5 class="team-member-position">Head of Strategic Marketing</h5>
+<p>“Hi! I am currently in my Fourth Year studying Arabic and Spanish, and I joined Prosper in my second year, when I completed the Junior and Senior Analyst programmes. Prosper has greatly impacted my time at University, and has equipped me with critical technical and financial skills, allowing me to give back to my local community and future student cohorts. I would really encourage anyone with an interest in sustainability or finance to get involved with Prosper as it is a wonderful opportunity to learn how investment can leave a positive social impact on the local community and on a wider global scale.”</p>
 </div>
 </div>
