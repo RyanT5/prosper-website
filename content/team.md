@@ -22,7 +22,7 @@ include_footer: true
 
 <div class="team-member">
 <div class="team-image-container">
-<img class="team-image" src="/images/Craig.JPG">
+<img class="team-image" src="static/images/Craig.JPG">
 <a href="https://www.linkedin.com/in/craig-paton12/">
 <div class="linkedin-holder">
 <i class="linkedin-icon fa fa-linkedin"></i>
