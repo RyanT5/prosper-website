@@ -153,7 +153,7 @@ include_footer: true
 <div class="team-member">
 <div class="team-image-container">
 <img class="team-image" src="static/images/Chai.jpeg">
-<a href="https://www.linkedin.com/in/aidanbrennanprofile/">
+<a href="https://www.linkedin.com/in/chaitanya-gupta7/">
 <div class="linkedin-holder">
 <i class="linkedin-icon fa fa-linkedin"></i>
 </div>
