@@ -81,7 +81,7 @@ include_footer: true
 <div class="team-info-container">
 <h3 class="team-member-name">Matthew Hill</h3>
 <h5 class="team-member-position">Head of Training </h5>
-<p>“Hi! I’m Matt and I am studying towards a Master in Chemical Engineering. I am really pleased to be the Head of Training at Prosper, having joined as a Junior Analyst last semester and gaining a lot of financial acumen. Coming from a non-finance degree background, it was really encouraging to see that this did not disadvantage me in any way and enabled me to complete an internship in Venture Capital. I hope to encourage more STEM students to join! The organisation has been a massive help in breaking into finance and extremely rewarding with the ESG initiatives.”</p>
+<p>“Hi! I’m Matt and I am studying towards a Master in Chemical Engineering. I am really pleased to be the Head of Training at Prosper, having joined as a Junior Analyst last semester and gaining a lot of financial acumen. Coming from a non-finance degree background, it was really encouraging to see that this did not disadvantage me in any way and enabled me to complete an internship in Venture Capital. I hope to encourage more STEM students to join! The organisation has been a massive help in breaking into finance and extremely rewarding with the ESG initiatives”</p>
 </div>
 </div>
 
