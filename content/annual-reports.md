@@ -9,7 +9,7 @@ Select an annual report to download:
 
 <!-- Add a new one at the top here -->
 <div class="report-card">
-    <a href="/Prosper-Annual-Report-2024.pdf">
+    <a href="/Annual.Report.2024.pdf">
         <i class="report-icon fa fa-file-text fa-2x"></i>
         <p class="report-title">Prosper Annual Report 2024</p>
     </a>
