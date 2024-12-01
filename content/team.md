@@ -64,24 +64,8 @@ include_footer: true
 <div class="team-info-container">
 <h3 class="team-member-name">Aryan Chibber</h3>
 <h5 class="team-member-position">Head of Strategy</h5>
-<p>"Hi! I’m Aryan and I study International Relations I joined Prosper in the first semester of my first year as a Junior Analyst, and in my second semester, I was a Senior Analyst. I wanted to further contribute to Prosper’s positive social impact and the best route to achieveing that for me was through the Management Board, which I joined this year as Head of Strategy. I’m excited and looking forward to working with the Management Team this year to grow Prosper and immerse myself in sustainable investing.”</p>
+<p>"Hi! I’m Aryan and I study International Relations. I joined Prosper in the first semester of my first year as a Junior Analyst, and in my second semester, I was a Senior Analyst. I wanted to further contribute to Prosper’s positive social impact and the best route to achieveing that for me was through the Management Board, which I joined this year as Head of Strategy. I’m excited and looking forward to working with the Management Team this year to grow Prosper and immerse myself in sustainable investing.”</p>
 
-</div>
-</div>
-
-<div class="team-member">
-<div class="team-image-container">
-<img class="team-image" src="/static/images/Matt.JPG">
-<a href="https://www.linkedin.com/in/matthill1970/">
-<div class="linkedin-holder">
-<i class="linkedin-icon fa fa-linkedin"></i>
-</div>
-</a>
-</div>
-<div class="team-info-container">
-<h3 class="team-member-name">Matthew Hill</h3>
-<h5 class="team-member-position">Head of Training </h5>
-<p>“Hi! I’m Matt and I am studying towards a Master in Chemical Engineering. I am really pleased to be the Head of Training at Prosper, having joined as a Junior Analyst last semester and gaining a lot of financial acumen. Coming from a non-finance degree background, it was really encouraging to see that this did not disadvantage me in any way and enabled me to complete an internship in Venture Capital. I hope to encourage more STEM students to join! The organisation has been a massive help in breaking into finance and extremely rewarding with the ESG initiatives”</p>
 </div>
 </div>
 
@@ -160,7 +144,7 @@ include_footer: true
 </a>
 </div>
 <div class="team-info-container">
-<h3 class="team-member-name">Chaitanya </h3>
+<h3 class="team-member-name">Chaitanya Gupta </h3>
 <h5 class="team-member-position">Head of Corporate Relations</h5>
 <p>“I am currently in my Fourth Year of studying Finance and Business. Since joining Prosper last year through the Analyst Training Programme, I have enhanced my understanding of ESG investing and recognised its importance in modern finance. As the new Head of Corporate Relations, I am looking forward to expanding and strengthening Prosper’s network, and delivering an excellent year ahead for analysts."</p>
 </div>
