@@ -16,13 +16,13 @@ include_footer: true
 <div class="team-info-container">
 <h3 class="team-member-name">Ethan Cohn</h3>
 <h5 class="team-member-position">Executive Director</h5>
-<p>"Hi all! I’m Ethan the new Executive Director of Prosper and a 4th Year studying Economic History. Prosper has been a major part of my university journey, starting out as a junior and senior analyst in my first year. Since then, I’ve been lucky enough to watch Prosper grow, as we challenge the traditional perceptions of the finance industry through both student autonomy and a strong socially responsible philosophy. As Executive Director, I can’t wait to work with new analysts looking to join Prosper and the Management Team! Please reach out to me or the Team if you have any queestions about Prosper or the application process.”</p>
+<p>"Hi all! I’m Ethan, the new Executive Director of Prosper and a 4th Year studying Economic History. Prosper has been a major part of my university journey, starting out as a junior and senior analyst in my first year. Since then, I’ve been lucky enough to watch Prosper grow, as we challenge the traditional perceptions of the finance industry through both student autonomy and a strong socially responsible philosophy. As Executive Director, I can’t wait to work with new analysts looking to join Prosper and the Management Team! Please reach out to me or the Team if you have any queestions about Prosper or the application process.”</p>
 </div>
 </div>
 
 <div class="team-member">
 <div class="team-image-container">
-<img class="team-image" src="/static/images/Craig.JPG">
+<img class="team-image" src="/images/team/Craig.JPG">
 <a href="https://www.linkedin.com/in/craig-paton12/">
 <div class="linkedin-holder">
 <i class="linkedin-icon fa fa-linkedin"></i>
