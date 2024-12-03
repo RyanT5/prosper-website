@@ -98,7 +98,7 @@ include_footer: true
 <div class="team-info-container">
 <h3 class="team-member-name">Alec Johnson</h3>
 <h5 class="team-member-position">Head of Investment Strategy </h5>
-<p>I’m Alec, Head of Investment this year. I joined Prosper in January this year and have enjoyed every minute so far. Prosper has been a superb opportunity to meet incredible new people and develop employable skills beyond the scope of my course. As a Geography and Economics student, Prosper’s ethos and approach captures the best of both worlds for me, and with the breadth of our work and opportunities, Prosper will always offer something for everyone. You just have to be brave enough to get involved."</p>
+<p>"I’m Alec, Head of Investment this year. I joined Prosper in January this year and have enjoyed every minute so far. Prosper has been a superb opportunity to meet incredible new people and develop employable skills beyond the scope of my course. As a Geography and Economics student, Prosper’s ethos and approach captures the best of both worlds for me, and with the breadth of our work and opportunities, Prosper will always offer something for everyone. You just have to be brave enough to get involved."</p>
 </div>
 </div>
 
