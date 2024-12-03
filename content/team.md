@@ -120,6 +120,22 @@ include_footer: true
 
 <div class="team-member">
 <div class="team-image-container">
+<img class="team-image" src="/images/team/Jamie.jpeg">
+<a href="https://www.linkedin.com/in/jamie-barbour-742409259/">
+<div class="linkedin-holder">
+<i class="linkedin-icon fa fa-linkedin"></i>
+</div>
+</a>
+</div>
+<div class="team-info-container">
+<h3 class="team-member-name">Jamie Barbour</h3>
+<h5 class="team-member-position">Head of Training</h5>
+<p>“Hi everyone! I’m Jamie, a Second Year Economics student, and I’m excited to be joining the Management Team as Head of Training this semester. I’ve gained so much from Prosper since joining last semester, from developing my knowledge of impact investing to meeting like-minded people passionate about creating a positive social impact here in Edinburgh. In this role, I’m eager to continue developing the Analyst Training Programme and support the new cohort of Junior Analysts throughout their 8-week journey to crafting impactful pitches. I’m looking forward to working with the team and helping new members develop the skills and knowledge needed to succeed in socially responsible investing.”</p>
+</div>
+</div>
+
+<div class="team-member">
+<div class="team-image-container">
 <img class="team-image" src="/static/images/Eve.jpeg">
 <a href="https://www.linkedin.com/in/eve-graham-0b60b6272/">
 <div class="linkedin-holder">
