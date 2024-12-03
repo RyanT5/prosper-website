@@ -64,7 +64,7 @@ include_footer: true
 <div class="team-info-container">
 <h3 class="team-member-name">Aryan Chibber</h3>
 <h5 class="team-member-position">Head of Strategy</h5>
-<p>"Hi! I’m Aryan and I study International Relations. I joined Prosper in the first semester of my first year as a Junior Analyst, and in my second semester, I was a Senior Analyst. I wanted to further contribute to Prosper’s positive social impact and the best route to achieveing that for me was through the Management Board, which I joined this year as Head of Strategy. I’m excited and looking forward to working with the Management Team this year to grow Prosper and immerse myself in sustainable investing.”</p>
+<p>"Hi! I’m Aryan and I am a second-year studying International Relations. I joined Prosper in the first semester of my first year as a Junior Analyst, and in my second semester, I was a Senior Analyst. I wanted to further contribute to Prosper’s positive social impact and the best route to achieveing that for me was through the Management Board, which I joined this year as Head of Strategy. I’m excited and looking forward to working with the Management Team this year to grow Prosper and immerse myself in sustainable investing.”</p>
 
 </div>
 </div>
