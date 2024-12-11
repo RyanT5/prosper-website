@@ -4,6 +4,7 @@ subtitle: ""
 draft: false
 include_footer: true
 ---
+
 <div class="team-member">
 <div class="team-image-container">
 <img class="team-image" src="/images/team/ethan.png">
@@ -38,7 +39,7 @@ include_footer: true
 
 <div class="team-member">
 <div class="team-image-container">
-<img class="team-image" src="/static/images/Cormack.jpg">
+<img class="team-image" src="/images/team/Cormack.jpg">
 <a href="https://www.linkedin.com/in/cormack-ross/">
 <div class="linkedin-holder">
 <i class="linkedin-icon fa fa-linkedin"></i>
@@ -54,7 +55,7 @@ include_footer: true
 
 <div class="team-member">
 <div class="team-image-container">
-<img class="team-image" src="/static/images/Aryan.jpg"
+<img class="team-image" src="/images/team/Aryan.jpg"
 <a href="https://www.linkedin.com/in/aryanchibber/">
 <div class="linkedin-holder">
 <i class="linkedin-icon fa fa-linkedin"></i>
@@ -71,7 +72,7 @@ include_footer: true
 
 <div class="team-member">
 <div class="team-image-container">
-<img class="team-image" src="/static/images/Grace.jpeg">
+<img class="team-image" src="/images/team/Grace.jpeg">
 <a href="https://www.linkedin.com/in/grace-westrup-a89b43183/">
 <div class="linkedin-holder">
 <i class="linkedin-icon fa fa-linkedin"></i>
@@ -87,7 +88,7 @@ include_footer: true
 
 <div class="team-member">
 <div class="team-image-container">
-<img class="team-image" src="/static/images/Alec.jpeg">
+<img class="team-image" src="/images/team/Alec.jpeg">
 <a href="https://www.linkedin.com/in/alecjohnson-profile/">
 
 <div class="linkedin-holder">
@@ -136,7 +137,7 @@ include_footer: true
 
 <div class="team-member">
 <div class="team-image-container">
-<img class="team-image" src="/static/images/Eve.jpeg">
+<img class="team-image" src="/images/team/Eve.jpeg">
 <a href="https://www.linkedin.com/in/eve-graham-0b60b6272/">
 <div class="linkedin-holder">
 <i class="linkedin-icon fa fa-linkedin"></i>
@@ -152,7 +153,7 @@ include_footer: true
 
 <div class="team-member">
 <div class="team-image-container">
-<img class="team-image" src="/static/images/Chai.jpeg">
+<img class="team-image" src="/images/team/Chai.jpeg">
 <a href="https://www.linkedin.com/in/chaitanya-gupta7/">
 <div class="linkedin-holder">
 <i class="linkedin-icon fa fa-linkedin"></i>
@@ -168,7 +169,7 @@ include_footer: true
 
 <div class="team-member">
 <div class="team-image-container">
-<img class="team-image" src="/static/images/Lucy.jpg">
+<img class="team-image" src="/images/team/Lucy.jpg">
 <a href="https://www.linkedin.com/in/lucy-langtry-73400a197/">
 <div class="linkedin-holder">
 <i class="linkedin-icon fa fa-linkedin"></i>
