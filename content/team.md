@@ -4,7 +4,6 @@ subtitle: ""
 draft: false
 include_footer: true
 ---
-
 <div class="team-member">
 <div class="team-image-container">
 <img class="team-image" src="/images/team/ethan.png">
@@ -180,5 +179,21 @@ include_footer: true
 <h3 class="team-member-name">Lucy Langtry</h3>
 <h5 class="team-member-position">Head of Strategic Marketing</h5>
 <p>“Hi! I am currently in my Fourth Year studying Arabic and Spanish, and I joined Prosper in my second year, when I completed the Junior and Senior Analyst programmes. Prosper has greatly impacted my time at University, and has equipped me with critical technical and financial skills, allowing me to give back to my local community and future student cohorts. I would really encourage anyone with an interest in sustainability or finance to get involved with Prosper as it is a wonderful opportunity to learn how investment can leave a positive social impact on the local community and on a wider global scale.”</p>
+</div>
+</div>
+
+<div class="team-member">
+<div class="team-image-container">
+<img class="team-image" src="/images/team/Ian.jpeg">
+<a href="https://www.linkedin.com/in/ian-yu-067b05159/?originalSubdomain=hk">
+<div class="linkedin-holder">
+<i class="linkedin-icon fa fa-linkedin"></i>
+</div>
+</a>
+</div>
+<div class="team-info-container">
+<h3 class="team-member-name">Ian Yu</h3>
+<h5 class="team-member-position">Head of Strategic Relations</h5>
+<p>“Hi everyone, my name is Ian and I’m in my 3rd year studying Economics with Finance. I have been involved with Prosper since last year and I believe it truly stands out to other similar societies in the university. The opportunity to combine investing with driving positive social impact is incredibly rare, even in other universities across the country. I encourage any student passionate about the environment, investing or working in a team to consider joining us!”</p>
 </div>
 </div>
