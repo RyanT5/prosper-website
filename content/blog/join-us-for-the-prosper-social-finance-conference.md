@@ -9,7 +9,7 @@ include_footer: "true"
 Date & Time: **Thursday**, **January 30, 2025**, at **6:00 PM**\
 Location: **Paterson’s Land**, **University of Edinburgh**, **Room G1**
 
-Hear from industry leaders at Social Investment Scotland, Stewart Investors, Invisible Cities, and the University of Edinburgh’s Sustainability Department.
+Hear from industry leaders at Social Investment Scotland, Stewart Investors, Invisible Cities, and the University of Edinburgh’s Sustainability Department!
 
 **All ticket proceeds go to Invisible Cities**.
 
