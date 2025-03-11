@@ -1,5 +1,5 @@
 ---
-title: The Environmental Impact of Cryptocurrency
+title: "PSF Insights: The Environmental Impact of Cryptocurrency"
 subtitle: By Maren Wagner, Senior Analyst
 date: 2025-03-02T19:19:40.846Z
 image: /images/psf-insights.png
