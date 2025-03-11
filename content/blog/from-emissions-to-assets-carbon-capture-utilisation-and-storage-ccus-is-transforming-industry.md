@@ -1,6 +1,6 @@
 ---
-title: "From Emissions to Assets: Carbon Capture Utilisation and Storage (CCUS)
-  is Transforming Industry"
+title: "PSF Insights: From Emissions to Assets: Carbon Capture Utilisation and
+  Storage (CCUS) is Transforming Industry"
 subtitle: By Henry Bury, Senior Analyst
 date: 2025-03-02T19:25:37.352Z
 image: /images/psf-insights.png
