@@ -1,5 +1,5 @@
 ---
-title: Renewable Energy's Hidden Carbon Cost
+title: "PSF Insights: Renewable Energy's Hidden Carbon Cost"
 subtitle: By Bea Brockman, Senior Analyst
 date: 2025-03-23T11:35:59.001Z
 image: /images/psf-insights.png
