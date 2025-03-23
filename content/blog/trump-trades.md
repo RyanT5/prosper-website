@@ -1,5 +1,5 @@
 ---
-title: Trump Trades
+title: "PSF Insights: Trump Trades"
 subtitle: By Gergely Márton, Senior Analyst
 date: 2025-03-23T11:47:00.572Z
 image: /images/psf-insights.png
