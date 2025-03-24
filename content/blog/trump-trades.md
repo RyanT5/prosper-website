@@ -2,10 +2,11 @@
 title: "PSF Insights: Trump Trades"
 subtitle: By Gergely Márton, Senior Analyst
 date: 2025-03-23T11:47:00.572Z
-image: /images/psf-insights.png
+image: psf-insights.png
 draft: "false"
 include_footer: "true"
 ---
+
 **Introduction**
 
 Over the past six months, the topic of Trump tariffs has dominated headlines. This report explores where we stand now, what might happen in the future, and, most importantly, the implications of these tariffs. This paper aims to remain objective, avoiding any political stance or subjective judgment, even
@@ -22,7 +23,7 @@ supplier. Together, China, Mexico, and Canada represent over 40% of all U.S. imp
 
 **Latest US Tariffs**
 
-As we might have heard, Trump announced steep new tariffs on the United States’ largest trading partners, namely Canada, Mexico, and China, on the 1st of February, 2025. These tariffs include a 10% increase on already existing trade tariffs for China and a 25% additional trade tariff on all imports from both Canada and Mexico. However, while the additional tariffs for Canada and Mexico have not been completely disregarded, they were paused for 30 days just two days after being imposed. 
+As we might have heard, Trump announced steep new tariffs on the United States’ largest trading partners, namely Canada, Mexico, and China, on the 1st of February, 2025. These tariffs include a 10% increase on already existing trade tariffs for China and a 25% additional trade tariff on all imports from both Canada and Mexico. However, while the additional tariffs for Canada and Mexico have not been completely disregarded, they were paused for 30 days just two days after being imposed.
 
 **Responses to the Trump Trade Tariffs**
 

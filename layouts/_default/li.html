@@ -1,7 +1,7 @@
 <li class="blog_entry">
     <div class='blog_thumb' style='background-color: #3d3d3d;'>
         <a href="{{ .Params.ExternalLink | default .RelPermalink }}">
-            {{ if .Params.image }}
+            {{ if and .Params.image (fileExists (print "static/images/blog/" .Params.image)) }}
             <img class="blog_image" src="/images/blog/{{ .Params.image }}">
             {{ else }}
             <img class="blog_image" src="/images/logos/background-icon.png">

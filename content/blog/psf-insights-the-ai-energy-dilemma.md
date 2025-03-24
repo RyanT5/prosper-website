@@ -2,10 +2,11 @@
 title: "PSF Insights: The AI Energy Dilemma"
 subtitle: By Tess Galloway, Senior Analyst
 date: 2025-03-12T19:39:10.291Z
-image: /images/psf-insights.png
+image: psf-insights.png
 draft: "false"
 include_footer: "true"
 ---
+
 **Introduction**
 
 When an old computer is on for too long, it heats up and whirs loudly - we can feel and hear the energy it consumes. With AI, everything feels instant. There's nothing tangible to contextualise the physical toll of our endless questions and searches.

@@ -3,10 +3,11 @@ title: "PSF Insights: From Emissions to Assets: Carbon Capture Utilisation and
   Storage (CCUS) is Transforming Industry"
 subtitle: By Henry Bury, Senior Analyst
 date: 2025-03-02T19:25:37.352Z
-image: /images/psf-insights.png
+image: psf-insights.png
 draft: "false"
 include_footer: "true"
 ---
+
 **Introduction**
 
 Global carbon emissions have reached an all-time high in 2024, totalling 37.4 billion tonnes of CO2, a 0.8% increase from 2023 (Global Carbon Budget). This escalating figure threatens to push the world toward catastrophic climate change, with emissions projected to rise another 16% by 2030 without significant intervention (IPCC). The International Energy Agency (IEA) warns that to meet the Paris Agreement’s 2050 target, emissions must be cut by 43% by the decade’s end. Achieving this ambitious target requires a global effort and the widespread adoption of sustainable technologies.
