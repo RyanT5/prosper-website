@@ -6,20 +6,15 @@ image: psf-insights.png
 draft: "false"
 include_footer: "true"
 ---
-
 **Introduction**
 
-Over the past six months, the topic of Trump tariffs has dominated headlines. This report explores where we stand now, what might happen in the future, and, most importantly, the implications of these tariffs. This paper aims to remain objective, avoiding any political stance or subjective judgment, even
-
-though the subject itself is inherently complex and nuanced.
+Over the past six months, the topic of Trump tariffs has dominated headlines. This report explores where we stand now, what might happen in the future, and, most importantly, the implications of these tariffs. This paper aims to remain objective, avoiding any political stance or subjective judgment, even though the subject itself is inherently complex and nuanced.
 
 **Where are we now?**
 
 **Trades**
 
-Since 2008, China, Mexico, and Canada have been the United States&#39; top three suppliers of goods, with China maintaining the lead until 2023. China consistently accounted for over 15% of all imported goods annually until dropping below this level in 2023, when Mexico became the largest
-
-supplier. Together, China, Mexico, and Canada represent over 40% of all U.S. imports. In terms of exports, in 2024, the U.S. exported 17% of its goods to Canada, 16% to Mexico, and 7% to China. Interestingly, the U.S. faces its largest trade deficits with China, amounting to $295 billion, and the EU, amounting to $235 billion. These figures illustrate that the value of imports from these regions far exceeds the value of exports (2024, U.S. Census Bureau).
+Since 2008, China, Mexico, and Canada have been the United States&#39; top three suppliers of goods, with China maintaining the lead until 2023. China consistently accounted for over 15% of all imported goods annually until dropping below this level in 2023, when Mexico became the largest supplier. Together, China, Mexico, and Canada represent over 40% of all U.S. imports. In terms of exports, in 2024, the U.S. exported 17% of its goods to Canada, 16% to Mexico, and 7% to China. Interestingly, the U.S. faces its largest trade deficits with China, amounting to $295 billion, and the EU, amounting to $235 billion. These figures illustrate that the value of imports from these regions far exceeds the value of exports (2024, U.S. Census Bureau).
 
 **Latest US Tariffs**
 
