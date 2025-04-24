@@ -2,7 +2,7 @@
 title: "PSF Deep Dives: The Rise of The Far Right"
 subtitle: By Rio Giuliana-Fitzgerald
 date: 2025-04-23T23:52:39.110Z
-image: file:///Users/lucylangtry/Downloads/PSF%20insights%20and%20PSF%20deep%20dives.png
+image: /images/psf-insights-and-psf-deep-dives.png
 draft: "false"
 include_footer: "true"
 ---
@@ -11,6 +11,8 @@ include_footer: "true"
 Throughout the 2019-2024 Parliament period, the development of sustainability reporting rules has been full steam ahead - particularly in the EU where the Corporate Sustainability Reporting Directive (CSRD) continues to represent the high-water mark of sustainability reporting in terms of scope and ambition. Until now, reporting has been a Wild West of differing standards, allowing companies to effectively cherry-pick what to report, how to report it, and what to quietly ignore. 2025 marks the calendar for large EU-based firms to report on ESG standards the way the EU dictates, following double materiality, where companies mugging up new sets of acronyms will be trending!
 
 The following must be taken with a pinch of salt, according to the rise of the far right, particularly amid the German election tilting towards the centre-right (CDU/CSU) with 29%, followed by the far-right (AfD) with 21%, placing before centre-left (SPD) with only 16%. This occurrence is the first of its kind since the foundation of the Bundestag in 1949, suffering their worst ever defeat (The Economist, 2025). Seven EU Member States - Croatia, the Czech Republic, Finland, Hungary, Italy, the Netherlands, and Slovakia - currently have far-right parties within government, alongside Marie Le-Pen’s National Rally, winning by a clear margin across the opening round, however; finishing in third (International Bar Assosciation, 2024).
+
+![](/images/screenshot-2025-04-24-at-00.56.11.png)
 
 The European Parliament adopted a political spectrum towards the right and extreme right, with majority of MEPs now sitting on the right side of the hemicycle. The 2019 EU parliament elections were hailed as a “green wave”, with Greens making significant gains and paving the way for the European Green Deal. In contrast, this time round, the Greens have missed out on champions league, dropping points from fourth to sixth place. This reversal of fortune reflects a growing disenchantment among voters with the perceived costs and inconvenience associated with the green transition. The rise of populist and nationalist parties, now among the top contenders, has brough renewed scepticism towards the EU’s ambitious climate agenda. The political pressure to water down or delay measures is expected to intensify, as these parties push to appease their constituencies and address their concerns about the economic impact of environmental regulations. This political shift embodies movement from climate change and towards issues like immigration, economic woes, and struggling industries addressing industrial and economic competitiveness aspects of “sustainability”. With 28.22% of Prospers’ equity allocated within European markets, this political transformation raises concerns over expected volatility and regulatory changes amongst a fragmented ESG landscape. The fund must carefully navigate the shifting landscape and identify companies that remain committed to sustainable growth despite political headwinds.
 
