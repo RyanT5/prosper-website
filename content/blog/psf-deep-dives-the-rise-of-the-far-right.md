@@ -2,7 +2,7 @@
 title: "PSF Deep Dives: The Rise of The Far Right"
 subtitle: By Rio Giuliana-Fitzgerald
 date: 2025-04-23T23:52:39.110Z
-image: /images/psf-insights-and-psf-deep-dives.png
+image: /images/psf-insights-and-psf-deep-dives-1-1-.png
 draft: "false"
 include_footer: "true"
 ---
