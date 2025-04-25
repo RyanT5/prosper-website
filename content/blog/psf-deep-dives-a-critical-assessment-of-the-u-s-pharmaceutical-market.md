@@ -2,7 +2,7 @@
 title: "PSF Deep Dives: A Critical Assessment of the U.S. Pharmaceutical Market"
 subtitle: By Shivansh Prasad, Senior Analyst
 date: 2025-04-24T00:20:51.633Z
-image: /images/psf-insights-and-psf-deep-dives.png
+image: /images/psf-insights-and-psf-deep-dives-1-.png
 draft: "false"
 include_footer: "true"
 ---
