@@ -2,7 +2,7 @@
 title: "PSF Deep Dives: Central Africa's Conflict Minerals"
 subtitle: By Helena Hansen, Senior Analyst
 date: 2025-04-24T00:12:00.773Z
-image: /images/psf-insights-and-psf-deep-dives.png
+image: /images/psf-insights-and-psf-deep-dives-1-1-.png
 draft: "false"
 include_footer: "true"
 ---
