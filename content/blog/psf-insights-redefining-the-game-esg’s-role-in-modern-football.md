@@ -62,19 +62,13 @@ Available at: [www.fgr.co.uk/another-way/](http://www.fgr.co.uk/another-way/).
 
 Available at:[www.arsenal.com/news/arsenal-launch-new-adidas-202425-away-kit](http://www.arsenal.com/news/arsenal-launch-new-adidas-202425-away-kit).
 
-
-
 “Audi Helps FC Bayern Go Electric.” FC Bayern, FC Bayern München AG, 19 Sept. 2020,
 
 Available at: [fcbayern.com/en/news/2020/09/audi-help-fc-bayern-go-electric](http://fcbayern.com/en/news/2020/09/audi-help-fc-bayern-go-electric).
 
-
-
 Forbes, Don Nico. “Soccer Tackles Its Carbon Problem.” The Wall Street Journal, 24 Jan. 2025, 
 
 Available at:[www.wsj.com/articles/soccer-tackles-its-carbon-problem-efff5bcb](http://www.wsj.com/articles/soccer-tackles-its-carbon-problem-efff5bcb).
-
-
 
 Frith, Wilf. “Hollywood’s Sound of Gol Foundation Launch Watford Women Partnership.” SheKicks - Women’s Football Magazine, 15 Oct. 2024, 
 
@@ -88,13 +82,9 @@ Available at:
 
 <https://www.productsofchange.com/liverpool-fc-reaches-major-milestones-in-new-the-red-way-impact-report/>
 
-
-
 “Sustainability at Tottenham Hotspur Stadium.” City AM, 26 Nov. 2024, 
 
 Available at:<https://www.cityam.com/sustainability-at-tottenham-hotspur-stadium-2/>
-
-
 
 Tales. “Which English Clubs Had a Points Deduction in 2023/24?” Tales from the Top Flight, 15 May 2024, 
 
