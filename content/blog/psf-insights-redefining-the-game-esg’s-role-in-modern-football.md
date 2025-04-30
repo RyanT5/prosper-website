@@ -1,11 +1,13 @@
 ---
-title: "PSF Insights: Redefining the Game: ESG’s Role in Modern Football"
+title: "PSF Insights: ESG’s Role in Modern Football"
 subtitle: By Karim Mashal, Senior Analyst
 date: 2025-04-25T16:04:10.962Z
 image: /images/psf-insights.png
 draft: "false"
 include_footer: "true"
 ---
+**R﻿edefining The Game: ESG's Role in Modern Football**
+
 **Introduction**
 
 Football is more than just a game. The influence it has off the pitch is equally as significant as the trophies, fans, wins, and losses. Behind the union of the fans, the roar of the crowd, and the glamour of trophies lies an industry facing serious challenges that go beyond the pitch. The sport has evolved into a focal point for larger discussion on sustainability, inclusivity and ethical governance, covering topics such as the carbon footprint of games and social responsibilities of clubs towards their local communities.
