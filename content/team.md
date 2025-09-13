@@ -38,7 +38,7 @@ include_footer: true
 
 <div class="team-member">
 <div class="team-image-container">
-<img class="team-image" src="/images/paula.png">
+<img class="team-image" src=" /images/paula.png">
 <a href="https://www.linkedin.com/in/paula-quevedo-76b536250/">
 <div class="linkedin-holder">
 <i class="linkedin-icon fa fa-linkedin"></i>
@@ -167,6 +167,7 @@ I first joined Prosper in second year and have been involved ever since. It’s 
 \
 \
 "</p>
+
 </div>
 </div>
 
