@@ -7,7 +7,7 @@ include_footer: true
 <div class="team-member">
 <div class="team-image-container">
 <img class="team-image" src="/images/chelcie.png">
-<a href="https://www.linkedin.com/in/ethan-cohn-167599223/">
+<a href="https://www.linkedin.com/in/chelcie-mohammed-27398b257/">
 <div class="linkedin-holder">
 <i class="linkedin-icon fa fa-linkedin"></i>
 </div>
@@ -22,33 +22,33 @@ include_footer: true
 
 <div class="team-member">
 <div class="team-image-container">
-<img class="team-image" src="/images/team/Craig.JPG">
-<a href="https://www.linkedin.com/in/craig-paton12/">
+<img class="team-image" src="/images/ian.png">
+<a href="https://www.linkedin.com/in/ian-yu-067b05159/">
 <div class="linkedin-holder">
 <i class="linkedin-icon fa fa-linkedin"></i>
 </div>
 </a>
 </div>
 <div class="team-info-container">
-<h3 class="team-member-name">Craig Paton</h3>
+<h3 class="team-member-name">Ian Yu</h3>
 <h5 class="team-member-position">Director of Operations</h5>
-<p>“Hi I’m Craig. I’m in my third year studying Mathematics and Business (BSc) and I joined Prosper at the start of 2024. I am most excited about Prosper’s collaboration with the Stewart Investor’s Group this year and how it will allow us to maximise our social good. My single favourite aspect of Prosper is the sense of collaboration, from the Junior Analyst Programme, to the Management Team, Prosper is a place where everyone is welcome and can make an impact.”</p>
+<p>“Hi everyone, my name is Ian and I’m in my 4th year studying Economics with Finance. I have been involved with Prosper since last year and I believe it truly stands out to other similar societies in the university. The opportunity to combine investing with driving positive social impact is incredibly rare, even in other universities across the country. I encourage any student passionate about the environment, investing or working in a team to consider joining us!”</p>
 </div>
 </div>
 
 <div class="team-member">
 <div class="team-image-container">
-<img class="team-image" src="/images/team/Cormack.jpg">
-<a href="https://www.linkedin.com/in/cormack-ross/">
+<img class="team-image" src="/images/paula.png">
+<a href="https://www.linkedin.com/in/paula-quevedo-76b536250/">
 <div class="linkedin-holder">
 <i class="linkedin-icon fa fa-linkedin"></i>
 </div>
 </a>
 </div>
 <div class="team-info-container">
-<h3 class="team-member-name">Cormack Ross</h3>
-<h5 class="team-member-position">Director of Investment Research</h5>
-<p>“Hi everyone, my name is Cormack and I’m a Fourth year studying Philosophy and Economics. I joined Prosper in second year and have been involved ever since. Prosper to me is an opportunity to get away from studies and meet with people who have a passion for social impact and want to learn about investing. I have learnt a huge amount from Prosper and hope that others can benefit in the same way as me. Looking forward to meeting everyone!”</p>
+<h3 class="team-member-name">Paula Quevedo Herrera</h3>
+<h5 class="team-member-position">Director of Investment Strategy</h5>
+<p>“Hi everyone! My name is Paula Quevedo, and I’m currently in my fourth year studying Mathematics and Statistics. I completed the ATP during the second semester of my first year and joined the Management Team in my second year as Head of Marketing. After spending a year abroad, I’m excited to return to Edinburgh and step into the role of Head of Investment Strategy at Prosper. Prosper has played a key role in shaping both my university experience and professional development. It’s allowed me to connect with incredible people and develop a wide range of skills—from analytical thinking to leadership and communication. I’m thrilled to see how Prosper continues to grow in the year ahead as we push forward in our mission to drive meaningful social change.”</p>
 </div>
 </div>
 
