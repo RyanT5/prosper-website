@@ -54,17 +54,17 @@ include_footer: true
 
 <div class="team-member">
 <div class="team-image-container">
-<img class="team-image" src="/images/team/Aryan.jpg"
-<a href="https://www.linkedin.com/in/aryanchibber/">
+<img class="team-image" src="/images/katerina.jpeg"
+<a href="https://www.linkedin.com/in/katerina-taylor-mojsovski-07503a263/">
 <div class="linkedin-holder">
 <i class="linkedin-icon fa fa-linkedin"></i>
 </div>
 </a>
 </div>
 <div class="team-info-container">
-<h3 class="team-member-name">Aryan Chibber</h3>
-<h5 class="team-member-position">Head of Strategy</h5>
-<p>"Hi! I’m Aryan and I am a second-year studying International Relations. I joined Prosper in the first semester of my first year as a Junior Analyst, and in my second semester, I was a Senior Analyst. I wanted to further contribute to Prosper’s positive social impact and the best route to achieveing that for me was through the Management Board, which I joined this year as Head of Strategy. I’m excited and looking forward to working with the Management Team this year to grow Prosper and immerse myself in sustainable investing.”</p>
+<h3 class="team-member-name">Katerina Taylor Mojsovski</h3>
+<h5 class="team-member-position">Director of Investment Tracking</h5>
+<p>"Hi! My name is Katerina, and I’m a Third Year Economics student. I’m really excited to be joining the management team as Director of Investment Tracking this year. I joined Prosper at the start of my second year, and was drawn by Prosper’s mission to creating investment strategies that don’t just generate returns but genuinely contribute to positive change. It’s such a unique space where ideas, collaboration, and purpose all come together.”</p>
 
 </div>
 </div>
