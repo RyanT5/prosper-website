@@ -106,6 +106,8 @@ include_footer: true
 <div class="team-image-container">
 <img class="team-image" src="/images/james.png">
 <a href="https://www.linkedin.com/in/jamespriestley/">
+
+<div class="linkedin-holder">
 <i class="linkedin-icon fa fa-linkedin"></i>
 </div>
 </a>
