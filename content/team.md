@@ -31,7 +31,7 @@ include_footer: true
 </div>
 <div class="team-info-container">
 <h3 class="team-member-name">Ian Yu</h3>
-<h5 class="team-member-position">Director of Operations</h5>
+<h5 class="team-member-position">Director of Portfolio Management</h5>
 <p>“Hi everyone, my name is Ian and I’m in my 4th year studying Economics with Finance. I have been involved with Prosper since last year and I believe it truly stands out to other similar societies in the university. The opportunity to combine investing with driving positive social impact is incredibly rare, even in other universities across the country. I encourage any student passionate about the environment, investing or working in a team to consider joining us!”</p>
 </div>
 </div>
@@ -47,7 +47,7 @@ include_footer: true
 </div>
 <div class="team-info-container">
 <h3 class="team-member-name">Paula Quevedo Herrera</h3>
-<h5 class="team-member-position">Director of Investment Strategy</h5>
+<h5 class="team-member-position">Head of Investment Strategy</h5>
 <p>“Hi everyone! My name is Paula Quevedo, and I’m currently in my fourth year studying Mathematics and Statistics. I completed the ATP during the second semester of my first year and joined the Management Team in my second year as Head of Marketing. After spending a year abroad, I’m excited to return to Edinburgh and step into the role of Head of Investment Strategy at Prosper. Prosper has played a key role in shaping both my university experience and professional development. It’s allowed me to connect with incredible people and develop a wide range of skills—from analytical thinking to leadership and communication. I’m thrilled to see how Prosper continues to grow in the year ahead as we push forward in our mission to drive meaningful social change.”</p>
 </div>
 </div>
@@ -130,7 +130,7 @@ include_footer: true
 </div>
 <div class="team-info-container">
 <h3 class="team-member-name">Craig Paton</h3>
-<h5 class="team-member-position">Director of Corporate Relations</h5>
+<h5 class="team-member-position">Head of Corporate Relations</h5>
 <p>“Hi I’m Craig and I’m really excited to be working in management again with Prosper. Really excited to help Prosper build a strong brand reputation and build on key existing relationships. Previous experience: Lazard, Susquehanna, Phoenix, Fidelity.”</p>
 </div>
 </div>
