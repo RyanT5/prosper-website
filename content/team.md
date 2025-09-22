@@ -164,7 +164,7 @@ I first joined Prosper in second year and have been involved ever since. It’s 
 <div class="team-info-container">
 <h3 class="team-member-name">Mae Campbell </h3>
 <h5 class="team-member-position">Head of Marketing and Outreach</h5>
-<p>“Hi there, my name is Mae Campbell and I’m this year's Head of Marketing. Coming from a History background, Prosper has equipped me with the technical skills needed to compete in tomorrow’s workforce, as well as giving me financial literacy that will serve me throughout my life. It has also provided me with a fantastic community within Edinburgh that motivates me each and every day. "</p>
+<p>“Hi there, my name is Mae Campbell and I’m this year's Head of Marketing. Coming from a History background, Prosper has equipped me with the technical skills needed to compete in tomorrow’s workforce, as well as giving me financial literacy that will serve me throughout my life. It has also provided me with a fantastic community within Edinburgh that motivates me every day."</p>
 
 </div>
 </div>
