@@ -15,7 +15,7 @@ include_footer: true
 </div>
 <div class="team-info-container">
 <h3 class="team-member-name">Chelcie Mohammed</h3>
-<h5 class="team-member-position">Executive Director</h5>
+<h5 class="team-member-position">President</h5>
 <p>"Having been a part of Prosper for my entire university career, I've gained invaluable technical and soft skills as  well as met industry leaders from diverse fields. Most importantly, I've been able to witness first hand the social impact that Prosper has had through our work with Invisible Cities, and I am excited to build on this. I would encourage anyone with an interest in ESG from any year group or degree background to join us!”</p>
 </div>
 </div>
@@ -31,7 +31,7 @@ include_footer: true
 </div>
 <div class="team-info-container">
 <h3 class="team-member-name">Ian Yu</h3>
-<h5 class="team-member-position">Director of Portfolio Management</h5>
+<h5 class="team-member-position">Director of Portfolio Management and Managing Director</h5>
 <p>“Hi everyone, my name is Ian and I’m in my 4th year studying Economics with Finance. I have been involved with Prosper since last year and I believe it truly stands out to other similar societies in the university. The opportunity to combine investing with driving positive social impact is incredibly rare, even in other universities across the country. I encourage any student passionate about the environment, investing or working in a team to consider joining us!”</p>
 </div>
 </div>
@@ -80,7 +80,7 @@ include_footer: true
 </div>
 <div class="team-info-container">
 <h3 class="team-member-name">Jacob Nesling </h3>
-<h5 class="team-member-position">Head of Social Impact</h5>
+<h5 class="team-member-position">Director of Social Impact</h5>
 <p>“Prosper has been a foundational experience in the evolution of my personal and professional skills.  The ATP has been extremely helpful in evidencing my technical skills, as well as softer skills, such as those formed when I interviewed the Head of Investor Relations of a FTSE 100 company for my team’s report.  Most importantly, there is a wonderful sense of community and driving purpose that centres everybody around the change that we can make through the ethos of impact investing.”</p>
 </div>
 </div>
@@ -116,22 +116,6 @@ include_footer: true
 <h3 class="team-member-name">James Priestley</h3>
 <h5 class="team-member-position">Head of Training</h5>
 <p>“I’m a third-year Geography student who joined Prosper in early 2025 through the Analyst Training Programme. Coming from a non-finance background, I appreciated how inclusive and accessible the ATP was. Prosper has been a great space to connect with other students who share a passion for sustainable investing. I’m excited to be stepping into the management team as Head of Training and continuing to support new members on their journey.”</p>
-</div>
-</div>
-
-<div class="team-member">
-<div class="team-image-container">
-<img class="team-image" src="/images/craig.png">
-<a href="https://www.linkedin.com/in/craig-paton12/">
-<div class="linkedin-holder">
-<i class="linkedin-icon fa fa-linkedin"></i>
-</div>
-</a>
-</div>
-<div class="team-info-container">
-<h3 class="team-member-name">Craig Paton</h3>
-<h5 class="team-member-position">Head of Corporate Relations</h5>
-<p>“Hi I’m Craig and I’m really excited to be working in management again with Prosper. Really excited to help Prosper build a strong brand reputation and build on key existing relationships. Previous experience: Lazard, Susquehanna, Phoenix, Fidelity.”</p>
 </div>
 </div>
 
