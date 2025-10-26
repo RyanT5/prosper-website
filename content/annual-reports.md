@@ -1,6 +1,6 @@
 ---
 title: Annual Reports
-subtitle: ""
+subtitle: static/images/draft-annual-report-2025.pdf
 image: ""
 draft: false
 include_footer: true
@@ -8,6 +8,14 @@ include_footer: true
 Select an annual report to download:
 
 <!-- Add a new one at the top here -->
+
+<div class="report-card">
+    <a href="/images/draft-annual-report-2025.pdf">
+        <i class="report-icon fa fa-file-text fa-2x"></i>
+        <p class="report-title">Prosper Annual Report 2025</p>
+    </a>
+</div>
+
 <div class="report-card">
     <a href="/Annual.Report.2024.pdf">
         <i class="report-icon fa fa-file-text fa-2x"></i>
