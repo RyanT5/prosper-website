@@ -9,115 +9,63 @@ include_footer: "true"
 ---
 **Introduction**
 
-
-
 As the awareness of climate-related risks has increased worldwide, many central banks and regulators have developed frameworks to mitigate the risks. The Network for Greening the Financial System (NGFS) has played a critical role in facilitating international cooperation in climate risk assessment. However, the recent withdrawals from the initiative by the United States financial regulators, the Federal Reserve (Fed) and the Federal Deposit Insurance Corporation (FDIC) have raised questions about the future of risk assessment and sustainable finance initiatives. This insight piece explores climate-related risks, the reasons behind the withdrawals, and the potential national and global implications.
-
-
 
 **The Financial Risks from Climate Change**
 
-
-
 Climate change poses critical financial risks that can be categorised into physical risks, transition risks and liability risks. 
-
-
 
 Physical risks result from the direct impact of climate-related events, such as extreme weather. This can damage assets, infrastructure and property, and incur substantial monetary losses. As shown in Figure 1, physical climate-related risks in the US have been projected by the NGFS to increase significantly from 2020 to 2070 under the current policies.
 
-
-
 Transition risks arise from the processes of shifting to a low-carbon economy, including climate policy changes, technological advancements and variations in market confidence. 
-
-
 
 Liability risks involve potential legal actions against organisations seen as responsible for environmental damage. For example, Pacific Gas & Electric filed for bankruptcy after it was held liable for wildfires in California that were connected to its infrastructure.
 
-
-
 With the current policies, NGFS projects global GDP losses due to climate change to reach 15% by 2050. Therefore, financial institutions are increasingly recognising the urgency to assess and respond to these risks.
 
-
+![]()
 
 Figure 1: NGFS projected percentage change in physical climate-related risks with current policies, 2020-2070 in United States
 
 Source: NGFS Climate Impact Explorer – cyclones and heatwaves (2021)
 
-
-
 **Background to NGFS**
-
-
 
 The NGFS was established as a voluntary coalition at the Paris “One Planet Summit” in December 2017 by eight central banks and supervisors committed to integrating climate-related risks in the financial sector. Since then, it has expanded to include 160 members from over 90 countries. The NGFS has facilitated knowledge-sharing, climate risk management and mobilisation of sustainable finance.
 
-
-
 The Federal Reserve joined the NGFS in 2020 and the FDIC followed in 2022. This marked a significant step toward the alignment of US financial regulations with climate-related goals and commitment to a broader effort for global cooperation.
-
-
 
 **Reasons for their withdrawal** 
 
-
-
 On 17th and 21st January 2025, the Fed and then FDIC withdrew from the NGFS. They both stated that the NGFS’s scope had evolved into environmental policy which goes beyond their primary objective of financial stability. They also emphasized that policy should be determined by elected officials rather than regulatory bodies.
-
-
 
 **National implications**
 
-
-
 The withdrawals coincided with the inauguration of President Donald Trump and reinforced his administration’s deregulatory stance and scepticism towards environmental, social and governance (ESG) initiatives. He removed more than 100 environmental regulations during his first term and since returning to office he has withdrawn from the Paris agreement. While deregulation reduces compliance costs for businesses in the short-term, it also raises long-term risks as the lack of clear climate policies may reduce investor confidence. In 2021 it was reported by CDP that globally 87% of investors consider climate risks when making decisions.
-
-
 
 US climate risk assessment may slow down because regulators will no longer benefit from NGFS research and scenario analysis tools. This will leave financial institutions more vulnerable to disruptions from extreme weather events, volatile energy markets, and regulatory pressures from other countries. The Financial Stability Board has estimated that there could be a loss of $23 trillion in the global economy by 2050 due to climate change. This highlights the vulnerability that the US financial system could face with inadequate climate-risk assessments.
 
-
-
 Some advocates of the move argue that these effects may not be so evident. They suggest that state-level regulators, investors, and market forces could still encourage climate risk assessments, and these may be more effective than a general national strategy. For example, California and New York have implemented strict climate risk disclosure requirements. However, the effectiveness of fragmented approaches instead of a coordinated national strategy remains uncertain.
-
-
 
 **Global Implications**
 
-
-
 As the world’s largest economy, the US has a major role in global financial commitments and cooperation.
-
-
 
 Its withdrawal from the NGFS could disrupt efforts to standardise climate-risk assessments, leading to fragmented and contradicting regulatory approaches. The European Central Bank reported that without unified climate risk standards, banks and investors would encounter inconsistent regulations, leading to financial instability. 
 
-
-
 Figure 2: Extent of Task Force on Climate Related Financial Disclosures corporate climate disclosure by type and region
 
+![](/images/lavinia-second-graph.png)
 
-
-/images/lavinia-second-graph.png
-
-Source: TCFC 2021 Status Report Table B.6
-
-
+*Figure 2: Corporate Climate Disclosure by Type and Region*
 
 Many academics, including those from the European Central Bank, warn that the current climate commitments are insufficient. As shown in Figure 2, less than 50% of firms in most regions have not carried out TCFD climate-related financial disclosures. In addition, six large US banks, including Bank of America and Morgan Stanley left the United Nations-backed Net-Zero Banking Alliance, which the Guardian says was an attempt to avoid “anti-woke” attacks from the new administration. There is fear that the US’s changing position will further weaken global momentum in sustainable finance.
 
-
-
 However, some analysts argue that climate-related commitments are inevitable and view the US actions as a temporary setback. The Intergovernmental Panel on Climate Change (IPCC) has highlighted that awareness of climate-related financial risks is increasing, prompting regulatory and voluntary initiatives. S&P Global has also stated many financial institutions recognise the importance of enhanced climate risk assessments since they found that only one-fifth of financial institutions believe that they will benefit from climate change. 
-
-
 
 **Conclusion** 
 
-
-
 The withdrawals of the Federal Reserve and FDIC from the NGFS signal a significant shift in US financial regulatory policy and an alignment with the US’s broader approach to climate issues. Concerns remain about the future ability of US financial institutions to manage the growing climate risks effectively. Globally, the absence of US participation may weaken coordinated approaches, however, as awareness increases, climate risk assessment is unlikely to stop entirely. The impact in the long-term depends on the balance between political decisions, global cooperation, economic realities and knowledge about the urgency of climate risk mitigation.
-
-
 
 **References** 
 
