@@ -23,11 +23,9 @@ Liability risks involve potential legal actions against organisations seen as re
 
 With the current policies, NGFS projects global GDP losses due to climate change to reach 15% by 2050. Therefore, financial institutions are increasingly recognising the urgency to assess and respond to these risks.
 
-![]()
+![](/images/screenshot-2025-10-29-at-17.34.07.png)
 
-Figure 1: NGFS projected percentage change in physical climate-related risks with current policies, 2020-2070 in United States
-
-Source: NGFS Climate Impact Explorer – cyclones and heatwaves (2021)
+*Figure 1: NGFS Projected Percentage Change in Physical Climate-Related Risks with Current Policies, 2020-2070 in United States*
 
 **Background to NGFS**
 
