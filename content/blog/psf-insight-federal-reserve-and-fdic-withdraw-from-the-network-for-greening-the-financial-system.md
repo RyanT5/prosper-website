@@ -25,7 +25,7 @@ With the current policies, NGFS projects global GDP losses due to climate change
 
 ![](/images/screenshot-2025-10-29-at-17.34.07.png)
 
-*Figure 1: NGFS Projected Percentage Change in Physical Climate-Related Risks with Current Policies, 2020-2070 in United States*
+*Figure 1: NGFS Projected Percentage Change in Physical Climate-Related Risks with Current Policies, 2020-2070 in United States, from NGFS Climate Impact Explorer – cyclones and heatwaves (2021)*
 
 **Background to NGFS**
 
@@ -51,11 +51,11 @@ As the world’s largest economy, the US has a major role in global financial co
 
 Its withdrawal from the NGFS could disrupt efforts to standardise climate-risk assessments, leading to fragmented and contradicting regulatory approaches. The European Central Bank reported that without unified climate risk standards, banks and investors would encounter inconsistent regulations, leading to financial instability. 
 
-Figure 2: Extent of Task Force on Climate Related Financial Disclosures corporate climate disclosure by type and region
-
 ![](/images/lavinia-second-graph.png)
 
-*Figure 2: Corporate Climate Disclosure by Type and Region*
+*Figure 2: Corporate Climate Disclosure by Type and Region, from TCFC 2021 Status Report Table B.6*
+
+
 
 Many academics, including those from the European Central Bank, warn that the current climate commitments are insufficient. As shown in Figure 2, less than 50% of firms in most regions have not carried out TCFD climate-related financial disclosures. In addition, six large US banks, including Bank of America and Morgan Stanley left the United Nations-backed Net-Zero Banking Alliance, which the Guardian says was an attempt to avoid “anti-woke” attacks from the new administration. There is fear that the US’s changing position will further weaken global momentum in sustainable finance.
 
