@@ -8,9 +8,9 @@ Are you looking for an exciting challenge, meet new people, and most importantly
 
 We welcome and encourage all students from the University of Edinburgh - regardless of year and degree - to apply. 
 
-Applications for our Senior Analyst Programme are open until September 18th at 11:59 PM BST! Apply here: https://docs.google.com/forms/d/1t_2cOCXMrs4XpAwOBWCNGggXjy07X89qekE7wutgzdY/edit
+Applications for our Senior Analyst Programme are open until January 15th at 11:59 PM GMT! Apply here: https://docs.google.com/forms/d/1FFze9eJi_4HG4thr0-5cwhylaUU93_RctDzTIcokxZ4/edit#responses
 
-Applications for our Junior Analyst Programme are open until 11:59 PM BST! Apply here: https://docs.google.com/forms/u/2/d/e/1FAIpQLSdO0fHZ_3DDZaoguNHXcB4oQIdaXI5JQ2zEfgDCyHxljPB77Q/viewform?usp=dialog
+Applications for our Junior Analyst Programme are open until January 15th at 11:59 PM GMT! Apply here: https://docs.google.com/forms/d/1yZ2bIXQrXnnhz7ThR8dmqNmQxQ-hw7fvsgweLh5Yr4U/edit
 
 <a href="http://eepurl.com/dEBYnX">
 <span class="button signup-button rounded secondary-btn raised" style="width: 250px; margin: auto; margin-top: 40px; display: flex;">
