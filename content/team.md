@@ -184,3 +184,19 @@ I first joined Prosper in second year and have been involved ever since. It’s 
 <p>“Hey! I’m Satvik, a second-year Economics with Finance student and Prosper’s Head of Strategic Relations for this year. I joined as a Junior Analyst last year, got stuck into ESG analysis, pitched ASML, and quickly realised this was the place to be. Now I’m leading strategy and partnerships — working with societies like 180DC and FreshSight, supporting our analyst team, and helping grow Prosper’s presence across campus.What I love most about Prosper is how it brings purpose into finance — and I’m excited to keep building that with the team this year.”</p>
 </div>
 </div>
+
+<div class="team-member">
+<div class="team-image-container">
+<img class="team-image" src="/images/oscar.jpg">
+<a href="https://www.linkedin.com/in/oscar-petterson-fuentes-229877320//">
+<div class="linkedin-holder">
+<i class="linkedin-icon fa fa-linkedin"></i>
+</div>
+</a>
+</div>
+<div class="team-info-container">
+<h3 class="team-member-name">Oscar Petterson-Fuentes</h3>
+<h5 class="team-member-position">Head of Corporate Relations</h5>
+<p>“Hi, I’m Oscar, a third-year Sustainable Development student and this year’s Head of Corporate Relations at Prosper. I joined through the Analyst Training Programme and was drawn to Prosper’s ability to connect students from all backgrounds with real-world impact investing. This year, I’m looking forward to strengthening our external partnerships and contributing to the supportive, inclusive community that defines Prosper.”</p>
+</div>
+</div>
