@@ -195,7 +195,7 @@ I first joined Prosper in second year and have been involved ever since. It’s 
 </a>
 </div>
 <div class="team-info-container">
-<h3 class="team-member-name">Oscar Petterson-Fuentes</h3>
+<h3 class="team-member-name">Oscar Petterson Fuentes</h3>
 <h5 class="team-member-position">Head of Corporate Relations</h5>
 <p>“Hi, I’m Oscar, a third-year Sustainable Development student and this year’s Head of Corporate Relations at Prosper. I joined through the Analyst Training Programme and was drawn to Prosper’s ability to connect students from all backgrounds with real-world impact investing. This year, I’m looking forward to strengthening our external partnerships and contributing to the supportive, inclusive community that defines Prosper.”</p>
 </div>
