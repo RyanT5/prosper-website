@@ -2,18 +2,17 @@
 title: Join Us for The Prosper Social Finance Conference!
 subtitle: January 30, 2025 @ Paterson’s Land, Room G1
 date: 2025-01-24T20:21:21.585Z
-image: ""
+image: /images/prospersf-_300125_andrewperry_40.jpg
 draft: "false"
 include_footer: "true"
 ---
+Date & Time: **Thursday**, **January 29, 2026**, at **6:15 PM**\
+Location: **Business School, University of Edinburgh, Ground Floor Auditorium**
 
-Date & Time: **Thursday**, **January 30, 2025**, at **6:00 PM**\
-Location: **Paterson’s Land**, **University of Edinburgh**, **Room G1**
-
-Hear from industry leaders at Social Investment Scotland, Stewart Investors, Invisible Cities, and the University of Edinburgh’s Sustainability Department!
+Hear from industry leaders at LGT Wealth Management, GEFI, Invisible Cities, and the University of Edinburgh!
 
 **All ticket proceeds go to Invisible Cities**.
 
 Follow the link below to buy your ticket:
 
-_[https://www.eventbrite.co.uk/​e/1145475621419?aff=​oddtdtcreator](https://www.eventbrite.co.uk/e/1145475621419?aff=oddtdtcreator)_
+https://www.eventbrite.co.uk/e/prosper-social-finance-conference-tickets-1968074266109?aff=oddtdtcreator
