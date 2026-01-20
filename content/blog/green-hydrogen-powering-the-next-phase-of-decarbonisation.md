@@ -1,5 +1,5 @@
 ---
-title: "Green Hydrogen: Powering the Next Phase of Decarbonisation"
+title: "PSF Insights: Green Hydrogen: Powering the Next Phase of Decarbonisation"
 subtitle: "By: Satvik Singla"
 date: 2026-01-20T17:21:32.302Z
 image: /images/psf-insights.png
