@@ -1,6 +1,6 @@
 ---
 title: Join Us for The Prosper Social Finance Conference!
-subtitle: January 30, 2025 @ Paterson’s Land, Room G1
+subtitle: January 29, 2026 @ Edi Uni Business School, GF Auditorium
 date: 2025-01-24T20:21:21.585Z
 image: /images/prospersf-_300125_andrewperry_40.jpg
 draft: "false"
