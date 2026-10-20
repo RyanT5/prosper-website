@@ -9,12 +9,12 @@ include_footer: true
 <img class="team-image" src="/images/team/Irem.jpg">
 <a href="https://www.linkedin.com/in/iremsara/">
 <div class="linkedin-holder">
-<i class="linkedin-icon fa fa-linkedin"></i>t
+<i class="linkedin-icon fa fa-linkedin"></i>
 </div>
 </a>
 </div>
 <div class="team-info-container">
-<h3 class="team-member-name">Irem Sara</h3>
+<h3 class="team-member-name">Aryan Chibber</h3>
 <h5 class="team-member-position">Executive Director</h5>
 <p>"I am a fourth year Economics and Mathematics student. I have first-hand experienced the mixture of economic development and instability in emerging markets which led me to wonder if finance can be used to achieve long-term sustainable growth. Being a part of Prosper since my first year at the university, I am proud to witness and contribute to the growth of the fund, as well as our expanding impact on the local communities. I look forward to widening Prosper’s engagement with students and social enterprises, and continuing to deliver positive social change through our responsible, student-led investments.”</p>
 </div>
