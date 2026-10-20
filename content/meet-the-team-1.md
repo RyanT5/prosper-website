@@ -9,7 +9,7 @@ include_footer: true
 <img class="team-image" src="/images/team/Irem.jpg">
 <a href="https://www.linkedin.com/in/iremsara/">
 <div class="linkedin-holder">
-<i class="linkedin-icon fa fa-linkedin"></i>
+<i class="linkedin-icon fa fa-linkedin"></i>t
 </div>
 </a>
 </div>
@@ -60,6 +60,7 @@ include_footer: true
 
 ">
 <a href="https://www.linkedin.com/in/graham-roeger-1193a81a0">
+
 <div class="linkedin-holder">
 <i class="linkedin-icon fa fa-linkedin"></i>
 </div>
