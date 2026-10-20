@@ -79,9 +79,9 @@ include_footer: true
 </a>
 </div>
 <div class="team-info-container">
-<h3 class="team-member-name">Jacob Nesling </h3>
-<h5 class="team-member-position">Director of Social Impact</h5>
-<p>“Prosper has been a foundational experience in the evolution of my personal and professional skills.  The ATP has been extremely helpful in evidencing my technical skills, as well as softer skills, such as those formed when I interviewed the Head of Investor Relations of a FTSE 100 company for my team’s report.  Most importantly, there is a wonderful sense of community and driving purpose that centres everybody around the change that we can make through the ethos of impact investing.”</p>
+<h3 class="team-member-name">Zoë Fraser Turner </h3>
+<h5 class="team-member-position">Head of Social Impact</h5>
+<p>“I joined Prosper in second year knowing very little about social finance and ESG investment. I left feeling inspired, motivated and grateful for the opportunity to work in teams of motivated students towards tangible good. I am passionate about removing barriers to entry and continuing to learn about sustainable finance and ESG, as well as delivering social impact around Edinburgh. I encourage anyone who wants to learn something new, work on difficult problems, and meet interesting people to join Prosper!”</p>
 </div>
 </div>
 
@@ -96,9 +96,9 @@ include_footer: true
 </a>
 </div>
 <div class="team-info-container">
-<h3 class="team-member-name">Aryan Chibber</h3>
-<h5 class="team-member-position">Head of Training</h5>
-<p>"I joined Prosper Social Finance in Semester 1 of my first year and it quickly became one of the most fulfilling parts of my university life. The core values have shaped how I think and act and the social impact we create is what makes Prosper truly special. As Head of Training, I am excited to give students an experience as rewarding as mine has been."</p>
+<h3 class="team-member-name">Devansh Kheria</h3>
+<h5 class="team-member-position">Head of Training and Development </h5>
+<p>"Coming from a Finance background, Prosper’s newly introduced financial modeling in the ATP has given me the tools to bridge theory with practical experience. Prosper’s mission to create positive change through investments is one of a kind. From its tie-ups with Invisible Cities and its ATP, I truly believe Prosper is the right place to be if you wish to learn how responsible investments can drive change."</p>
 </div>
 </div>
 
@@ -113,15 +113,15 @@ include_footer: true
 </a>
 </div>
 <div class="team-info-container">
-<h3 class="team-member-name">James Priestley</h3>
-<h5 class="team-member-position">Head of Training</h5>
-<p>“I’m a third-year Geography student who joined Prosper in early 2025 through the Analyst Training Programme. Coming from a non-finance background, I appreciated how inclusive and accessible the ATP was. Prosper has been a great space to connect with other students who share a passion for sustainable investing. I’m excited to be stepping into the management team as Head of Training and continuing to support new members on their journey.”</p>
+<h3 class="team-member-name">Jacob Antons</h3>
+<h5 class="team-member-position">Head of Training and Welfare</h5>
+<p>“Hi everyone! I am Jacob and I will be joining the management team as Head of Training. I initially joined Prosper at the start of my second year when I was seeking a place to learn more about investing and sustainability in a structured setting. I’ve loved the sense of community and teamwork in both the Junior and Senior Analyst Programmes. I’m very much looking forward to returning to help others get the same experience.”</p>
 </div>
 </div>
 
 <div class="team-member">
 <div class="team-image-container">
-<img class="team-image" src="/images/will.jpg">
+<img class="team-image" src="/images/bipasha.jpg">
 <a href="https://www.linkedin.com/in/benedettabosco/">
 <div class="linkedin-holder">
 <i class="linkedin-icon fa fa-linkedin"></i>
@@ -129,16 +129,15 @@ include_footer: true
 </a>
 </div>
 <div class="team-info-container">
-<h3 class="team-member-name">Benedetta Bosco </h3>
+<h3 class="team-member-name">Bipasha Grover </h3>
 <h5 class="team-member-position">Head of Operations </h5>
-<p>“Hi! I'm Benedetta, this year’s Head of Operations.
-I first joined Prosper in second year and have been involved ever since. It’s been such a rewarding experience that’s taught me a lot about the inner workings of socially responsible investing. I especially encourage students from non-finance backgrounds to join as it’s super accessible and a great opportunity to broaden your knowledge and perspectives beyond your degree.”</p>
+<p>“Hi, I’m Bipasha, a 2nd Year Finance and Business student and this year’s Head of Operations at Prosper. I joined Prosper in my first year, drawn to its focus on the intersection between financial performance and environmental stewardship. Prosper offers a great opportunity to look beyond a company’s financial statements and develop a broader understanding of socially responsible investing.”</p>
 </div>
 </div>
 
 <div class="team-member">
 <div class="team-image-container">
-<img class="team-image" src="/images/tess.jpg">
+<img class="team-image" src="/images/jing.jpg">
 <a href="www.linkedin.com/in/mae-campbell-481a42276">
 <div class="linkedin-holder">
 <i class="linkedin-icon fa fa-linkedin"></i>
@@ -146,16 +145,16 @@ I first joined Prosper in second year and have been involved ever since. It’s 
 </a>
 </div>
 <div class="team-info-container">
-<h3 class="team-member-name">Mae Campbell </h3>
-<h5 class="team-member-position">Head of Marketing and Outreach</h5>
-<p>“Hi there, my name is Mae Campbell and I’m this year's Head of Marketing. Coming from a History background, Prosper has equipped me with the technical skills needed to compete in tomorrow’s workforce, as well as giving me financial literacy that will serve me throughout my life. It has also provided me with a fantastic community within Edinburgh that motivates me every day."</p>
+<h3 class="team-member-name"> Jing Chi</h3>
+<h5 class="team-member-position">Head of Marketing</h5>
+<p>“I joined Prosper’s ATP in the first semester of my second year and found it to be a really valuable learning experience. I enjoyed working alongside like-minded students while developing new skills and learning from the team throughout the programme. The following semester, I joined the SAP, while gave me the opportunity to further develop these skills and put them into practice. I’m looking forward to taking on the role of Head of Marketing this year!"</p>
 
 </div>
 </div>
 
 <div class="team-member">
 <div class="team-image-container">
-<img class="team-image" src="/images/katy.jpg">
+<img class="team-image" src="/images/will.jpg">
 <a href="https://www.linkedin.com/in/henry-bury/">
 <div class="linkedin-holder">
 <i class="linkedin-icon fa fa-linkedin"></i>
@@ -163,15 +162,15 @@ I first joined Prosper in second year and have been involved ever since. It’s 
 </a>
 </div>
 <div class="team-info-container">
-<h3 class="team-member-name">Henry Bury</h3>
+<h3 class="team-member-name">William Franklin</h3>
 <h5 class="team-member-position">Head of Strategy</h5>
-<p>“Hi, I’m Henry, a fourth-year Environmental Science student and Prosper’s Head of Strategy. I first joined in my second year as a Junior Analyst, and it’s been an incredible journey of learning, teamwork, and growth ever since. Prosper has given me opportunities and skills I’d never have picked up through my degree alone, and I’m genuinely excited to see how we can push the organisation forward this year.”</p>
+<p>“Participating in Prosper’s ATP has been one of the highlights of my time at Edinburgh. I found the 8-week training programme and equity analysis both intellectually stimulating and highly enjoyable. I was particularly struck by the collaborative and reciprocal nature of its operations. Prosper is one of the few societies that enables students to gain valuable practical experience while also tangibly contributing to the issues that matter most in their immediate environment. I’m excited to take on my role as Head of Strategy and look forward to seeing where we can take the mission this year.”</p>
 </div>
 </div>
 
 <div class="team-member">
 <div class="team-image-container">
-<img class="team-image" src="/images/zoe.png">
+<img class="team-image" src="/images/tess.jpg">
 <a href="https://www.linkedin.com/in/satvik-s-119071199/">
 <div class="linkedin-holder">
 <i class="linkedin-icon fa fa-linkedin"></i>
@@ -179,9 +178,9 @@ I first joined Prosper in second year and have been involved ever since. It’s 
 </a>
 </div>
 <div class="team-info-container">
-<h3 class="team-member-name">Satvik Singla</h3>
+<h3 class="team-member-name">Tess Galloway</h3>
 <h5 class="team-member-position">Head of Strategic Relations</h5>
-<p>“Hey! I’m Satvik, a second-year Economics with Finance student and Prosper’s Head of Strategic Relations for this year. I joined as a Junior Analyst last year, got stuck into ESG analysis, pitched ASML, and quickly realised this was the place to be. Now I’m leading strategy and partnerships — working with societies like 180DC and FreshSight, supporting our analyst team, and helping grow Prosper’s presence across campus.What I love most about Prosper is how it brings purpose into finance — and I’m excited to keep building that with the team this year.”</p>
+<p>“Prosper has been one of the most formative aspects of my university experience. I joined to learn more about investment and to gain real experience pitching and presenting but I have also valued the mentorship from and collaboration with others across a wide range of degree backgrounds. Prosper has shown me how multidisciplinary finance can be.”</p>
 </div>
 </div>
 
@@ -195,8 +194,8 @@ I first joined Prosper in second year and have been involved ever since. It’s 
 </a>
 </div>
 <div class="team-info-container">
-<h3 class="team-member-name">Oscar Petterson Fuentes</h3>
+<h3 class="team-member-name"> Katherine Graves</h3>
 <h5 class="team-member-position">Head of Corporate Relations</h5>
-<p>“Hi, I’m Oscar, a third-year Sustainable Development student and this year’s Head of Corporate Relations at Prosper. I joined through the Analyst Training Programme and was drawn to Prosper’s ability to connect students from all backgrounds with real-world impact investing. This year, I’m looking forward to strengthening our external partnerships and contributing to the supportive, inclusive community that defines Prosper.”</p>
+<p>“Since joining Prosper in my third year, I've been able to develop both technical and soft skills that have helped me grow both professionally and as a person. I'm thrilled to be stepping into the role of Head of Corporate Relations this year, and am looking forward to contributing to Prosper's positive social impact. I highly encourage students interested in sustainability to join, as it's a wonderful way to develop your professional skills and join an inclusive and collaborative community.”</p>
 </div>
 </div>
