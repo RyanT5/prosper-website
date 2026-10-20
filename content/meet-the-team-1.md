@@ -54,7 +54,7 @@ include_footer: true
 
 <div class="team-member">
 <div class="team-image-container">
-<img class="team-image" src="images/Satvik.jpg">
+<img class="team-image" src="/images/Satvik.jpg">
 <a href="https://www.linkedin.com/in/graham-roeger-1193a81a0">
 
 <div class="linkedin-holder">
@@ -119,7 +119,7 @@ include_footer: true
 
 <div class="team-member">
 <div class="team-image-container">
-<img class="team-image" src="/images/team/Albert.jpg">
+<img class="team-image" src="/images/Bipasha.jpg">
 <a href="https://www.linkedin.com/in/albertdoyle/">
 <div class="linkedin-holder">
 <i class="linkedin-icon fa fa-linkedin"></i>
@@ -135,7 +135,7 @@ include_footer: true
 
 <div class="team-member">
 <div class="team-image-container">
-<img class="team-image" src="/images/team/Sara.png">
+<img class="team-image" src="/images/Jing.jpg">
 <a href="https://www.linkedin.com/in/sara-galy-433914160/">
 <div class="linkedin-holder">
 <i class="linkedin-icon fa fa-linkedin"></i>
@@ -151,7 +151,7 @@ include_footer: true
 
 <div class="team-member">
 <div class="team-image-container">
-<img class="team-image" src="/images/team/Zoe.jpg">
+<img class="team-image" src="/images/Tess.jpg">
 <a href="https://www.linkedin.com/in/zoe-fredrickson-098101209/">
 <div class="linkedin-holder">
 <i class="linkedin-icon fa fa-linkedin"></i>
@@ -167,7 +167,7 @@ include_footer: true
 
 <div class="team-member">
 <div class="team-image-container">
-<img class="team-image" src="/images/team/Zoe.jpg">
+<img class="team-image" src="/images/Will.jpg">
 <a href="https://www.linkedin.com/in/zoe-fredrickson-098101209/">
 <div class="linkedin-holder">
 <i class="linkedin-icon fa fa-linkedin"></i>
@@ -183,7 +183,7 @@ include_footer: true
 
 <div class="team-member">
 <div class="team-image-container">
-<img class="team-image" src="/images/team/Zoe.jpg">
+<img class="team-image" src="/images/Katy.jpg">
 <a href="https://www.linkedin.com/in/zoe-fredrickson-098101209/">
 <div class="linkedin-holder">
 <i class="linkedin-icon fa fa-linkedin"></i>
