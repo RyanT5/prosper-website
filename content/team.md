@@ -6,39 +6,39 @@ include_footer: true
 ---
 <div class="team-member">
 <div class="team-image-container">
-<img class="team-image" src="/images/chelcie.png">
-<a href="https://www.linkedin.com/in/chelcie-mohammed-27398b257/">
+<img class="team-image" src="/images/aryan.png">
+<a href="https://www.linkedin.com/in/aryanchibber/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B7a9aAfD8QXmKpVYNv1PsHg%3D%3D">
 <div class="linkedin-holder">
 <i class="linkedin-icon fa fa-linkedin"></i>
 </div>
 </a>
 </div>
 <div class="team-info-container">
-<h3 class="team-member-name">Chelcie Mohammed</h3>
+<h3 class="team-member-name">Aryan Chibber</h3>
 <h5 class="team-member-position">President</h5>
-<p>"Having been a part of Prosper for my entire university career, I've gained invaluable technical and soft skills as  well as met industry leaders from diverse fields. Most importantly, I've been able to witness first hand the social impact that Prosper has had through our work with Invisible Cities, and I am excited to build on this. I would encourage anyone with an interest in ESG from any year group or degree background to join us!”</p>
+<p>"Having been part of Prosper since my first semester at university, it has been an incredibly rewarding and enjoyable part of my time in Edinburgh. I would highly recommend it to anyone looking to learn more about socially responsible investing, gain practical experience, and meet some great people. I’m really grateful to now be helping lead Prosper alongside a fantastic management team.”</p>
 </div>
 </div>
 
 <div class="team-member">
 <div class="team-image-container">
-<img class="team-image" src="/images/ian.png">
-<a href="https://www.linkedin.com/in/ian-yu-067b05159/">
+<img class="team-image" src="/images/oscar.jpg">
+<a href="[linkedin.com/in/oscar-petterson-fuentes-229877320](https://www.linkedin.com/in/oscar-petterson-fuentes-229877320/)/">
 <div class="linkedin-holder">
 <i class="linkedin-icon fa fa-linkedin"></i>
 </div>
 </a>
 </div>
 <div class="team-info-container">
-<h3 class="team-member-name">Ian Yu</h3>
-<h5 class="team-member-position">Director of Portfolio Management and Managing Director</h5>
-<p>“Hi everyone, my name is Ian and I’m in my 4th year studying Economics with Finance. I have been involved with Prosper since last year and I believe it truly stands out to other similar societies in the university. The opportunity to combine investing with driving positive social impact is incredibly rare, even in other universities across the country. I encourage any student passionate about the environment, investing or working in a team to consider joining us!”</p>
+<h3 class="team-member-name">Oscar Petterson Fuentes</h3>
+<h5 class="team-member-position">Managing Director</h5>
+<p>“i everyone, I'm Oscar, a fourth-year Sustainable Development student. I joined Prosper through the Analyst Training Programme and was immediately drawn to how it connects students from all backgrounds with real-world impact investing. This year, I'm excited to develop Prosper's investment strategy and help lead the fund forward, while continuing to build the supportive, inclusive community that makes Prosper what it is. I'd encourage anyone curious about ESG or impact investing, whatever your degree, to get involved.”</p>
 </div>
 </div>
 
 <div class="team-member">
 <div class="team-image-container">
-<img class="team-image" src=" /images/paula.png">
+<img class="team-image" src=" /images/katerina.jpeg">
 <a href="https://www.linkedin.com/in/paula-quevedo-76b536250/">
 <div class="linkedin-holder">
 <i class="linkedin-icon fa fa-linkedin"></i>
@@ -46,15 +46,15 @@ include_footer: true
 </a>
 </div>
 <div class="team-info-container">
-<h3 class="team-member-name">Paula Quevedo Herrera</h3>
-<h5 class="team-member-position">Head of Investment Strategy</h5>
-<p>“Hi everyone! My name is Paula Quevedo, and I’m currently in my fourth year studying Mathematics and Statistics. I completed the ATP during the second semester of my first year and joined the Management Team in my second year as Head of Marketing. After spending a year abroad, I’m excited to return to Edinburgh and step into the role of Head of Investment Strategy at Prosper. Prosper has played a key role in shaping both my university experience and professional development. It’s allowed me to connect with incredible people and develop a wide range of skills—from analytical thinking to leadership and communication. I’m thrilled to see how Prosper continues to grow in the year ahead as we push forward in our mission to drive meaningful social change.”</p>
+<h3 class="team-member-name">Katerina Taylor Mojsovski</h3>
+<h5 class="team-member-position">Director of Portfolio Research</h5>
+<p>“Hi! My name is Katerina, and I’m a 4th Year Economics student. I’m really excited to be returning to management to lead our portfolio as Prosper’s Director of Portfolio Research. Alongside the mission of creating investment strategies that contribute to positive change, Prosper is such a unique space where ideas, collaboration, and purpose all come together. Excited for the year!”</p>
 </div>
 </div>
 
 <div class="team-member">
 <div class="team-image-container">
-<img class="team-image" src="/images/katerina.jpeg"
+<img class="team-image" src=" /images/satvik.jpg">
 <a href="https://www.linkedin.com/in/katerina-taylor-mojsovski-07503a263/">
 <div class="linkedin-holder">
 <i class="linkedin-icon fa fa-linkedin"></i>
@@ -62,16 +62,16 @@ include_footer: true
 </a>
 </div>
 <div class="team-info-container">
-<h3 class="team-member-name">Katerina Taylor Mojsovski</h3>
-<h5 class="team-member-position">Director of Investment Tracking</h5>
-<p>"Hi! My name is Katerina, and I’m a Third Year Economics student. I’m really excited to be joining the management team as Director of Investment Tracking this year. I joined Prosper at the start of my second year, and was drawn by Prosper’s mission to creating investment strategies that don’t just generate returns but genuinely contribute to positive change. It’s such a unique space where ideas, collaboration, and purpose all come together.”</p>
+<h3 class="team-member-name">Satvik Singla</h3>
+<h5 class="team-member-position">Head of Investment Tracking</h5>
+<p>"Hey! I'm Satvik, a third-year Economics with Finance student and Prosper's Head of Investment Tracking this year. I joined as a Junior Analyst, moved into Strategic Relations last year, and now I manage our ESG portfolio, making sure every investment holds up against what we actually stand for. Doing this has pulled me toward renewable energy and how it gets financed, which is where I want to take my career next. Prosper keeps proving that finance and purpose aren't separate things, and I'm glad to keep building that this year..”</p>
 
 </div>
 </div>
 
 <div class="team-member">
 <div class="team-image-container">
-<img class="team-image" src="/images/jacob.png">
+<img class="team-image" src="/images/bipasha.jpg">
 <a href="https://www.linkedin.com/in/jacobrcnesling/">
 <div class="linkedin-holder">
 <i class="linkedin-icon fa fa-linkedin"></i>
@@ -87,7 +87,7 @@ include_footer: true
 
 <div class="team-member">
 <div class="team-image-container">
-<img class="team-image" src="/images/aryan.png">
+<img class="team-image" src="/images/devansh.jpg">
 <a href="https://www.linkedin.com/in/aryanchibber/">
 
 <div class="linkedin-holder">
@@ -104,7 +104,7 @@ include_footer: true
 
 <div class="team-member">
 <div class="team-image-container">
-<img class="team-image" src="/images/james.png">
+<img class="team-image" src="/images/jacob.jpg">
 <a href="https://www.linkedin.com/in/jamespriestley/">
 
 <div class="linkedin-holder">
@@ -121,7 +121,7 @@ include_footer: true
 
 <div class="team-member">
 <div class="team-image-container">
-<img class="team-image" src="/images/benedetta.png">
+<img class="team-image" src="/images/will.jpg">
 <a href="https://www.linkedin.com/in/benedettabosco/">
 <div class="linkedin-holder">
 <i class="linkedin-icon fa fa-linkedin"></i>
@@ -138,7 +138,7 @@ I first joined Prosper in second year and have been involved ever since. It’s 
 
 <div class="team-member">
 <div class="team-image-container">
-<img class="team-image" src="/images/mae-campbell.jpg">
+<img class="team-image" src="/images/tess.jpg">
 <a href="www.linkedin.com/in/mae-campbell-481a42276">
 <div class="linkedin-holder">
 <i class="linkedin-icon fa fa-linkedin"></i>
@@ -155,7 +155,7 @@ I first joined Prosper in second year and have been involved ever since. It’s 
 
 <div class="team-member">
 <div class="team-image-container">
-<img class="team-image" src="/images/henry.jpeg">
+<img class="team-image" src="/images/katy.jpg">
 <a href="https://www.linkedin.com/in/henry-bury/">
 <div class="linkedin-holder">
 <i class="linkedin-icon fa fa-linkedin"></i>
@@ -171,7 +171,7 @@ I first joined Prosper in second year and have been involved ever since. It’s 
 
 <div class="team-member">
 <div class="team-image-container">
-<img class="team-image" src="/images/satvik.png">
+<img class="team-image" src="/images/zoe.png">
 <a href="https://www.linkedin.com/in/satvik-s-119071199/">
 <div class="linkedin-holder">
 <i class="linkedin-icon fa fa-linkedin"></i>
@@ -187,7 +187,7 @@ I first joined Prosper in second year and have been involved ever since. It’s 
 
 <div class="team-member">
 <div class="team-image-container">
-<img class="team-image" src="/images/oscar.jpg">
+<img class="team-image" src="/images/katy.jpg">
 <a href="https://www.linkedin.com/in/oscar-petterson-fuentes-229877320//">
 <div class="linkedin-holder">
 <i class="linkedin-icon fa fa-linkedin"></i>
