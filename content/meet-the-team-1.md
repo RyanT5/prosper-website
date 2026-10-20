@@ -7,7 +7,7 @@ include_footer: true
 <div class="team-member">
 <div class="team-image-container">
 <img class="team-image" src="/images/aryan.png">
-<a href="https://www.linkedin.com/in/iremsara/">
+<a href="https://www.linkedin.com/in/aryanchibber/">
 <div class="linkedin-holder">
 <i class="linkedin-icon fa fa-linkedin"></i>
 </div>
@@ -22,8 +22,8 @@ include_footer: true
 
 <div class="team-member">
 <div class="team-image-container">
-<img class="team-image" src="/images/oscar.jpg">
-<a href="https://www.linkedin.com/in/matthew-hales-2719b6214/">
+<img class="team-image" src="/images/Oscar.jpg">
+<a href="https://www.linkedin.com/in/oscar-petterson-fuentes-229877320/">
 <div class="linkedin-holder">
 <i class="linkedin-icon fa fa-linkedin"></i>
 </div>
@@ -39,7 +39,7 @@ include_footer: true
 <div class="team-member">
 <div class="team-image-container">
 <img class="team-image" src="/images/katerina.jpeg">
-<a href="https://www.linkedin.com/in/charlie-denton-3b1172200/">
+<a href="https://www.linkedin.com/in/katerina-taylor-mojsovski/">
 <div class="linkedin-holder">
 <i class="linkedin-icon fa fa-linkedin"></i>
 </div>
@@ -55,7 +55,7 @@ include_footer: true
 <div class="team-member">
 <div class="team-image-container">
 <img class="team-image" src="/images/Satvik.jpg">
-<a href="https://www.linkedin.com/in/graham-roeger-1193a81a0">
+<a href="https://www.linkedin.com/in/satviksingla/">
 
 <div class="linkedin-holder">
 <i class="linkedin-icon fa fa-linkedin"></i>
@@ -72,7 +72,7 @@ include_footer: true
 <div class="team-member">
 <div class="team-image-container">
 <img class="team-image" src="/images/Zoe.png">
-<a href="https://www.linkedin.com/in/nikita-nandanwad-9013a3178/">
+<a href="https://www.linkedin.com/in/zoe-fraser-turner/">
 <div class="linkedin-holder">
 <i class="linkedin-icon fa fa-linkedin"></i>
 </div>
@@ -88,7 +88,7 @@ include_footer: true
 <div class="team-member">
 <div class="team-image-container">
 <img class="team-image" src="/images/Devansh.jpg">
-<a href="https://www.linkedin.com/in/cosmasmwamwembe/">
+<a href="https://www.linkedin.com/in/devansh-kheria/">
 <div class="linkedin-holder">
 <i class="linkedin-icon fa fa-linkedin"></i>
 </div>
@@ -104,7 +104,7 @@ include_footer: true
 <div class="team-member">
 <div class="team-image-container">
 <img class="team-image" src="/images/Jacob.jpg">
-<a href="https://www.linkedin.com/in/camilla-carere">
+<a href="https://www.linkedin.com/in/jacobantons/">
 <div class="linkedin-holder">
 <i class="linkedin-icon fa fa-linkedin"></i>
 </div>
@@ -120,7 +120,7 @@ include_footer: true
 <div class="team-member">
 <div class="team-image-container">
 <img class="team-image" src="/images/Bipasha.jpg">
-<a href="https://www.linkedin.com/in/albertdoyle/">
+<a href="https://www.linkedin.com/in/bipasha-grover-107ab33a8/">
 <div class="linkedin-holder">
 <i class="linkedin-icon fa fa-linkedin"></i>
 </div>
@@ -136,7 +136,7 @@ include_footer: true
 <div class="team-member">
 <div class="team-image-container">
 <img class="team-image" src="/images/Jing.jpg">
-<a href="https://www.linkedin.com/in/sara-galy-433914160/">
+<a href="https://www.linkedin.com/in/jing-chi217/">
 <div class="linkedin-holder">
 <i class="linkedin-icon fa fa-linkedin"></i>
 </div>
@@ -152,7 +152,7 @@ include_footer: true
 <div class="team-member">
 <div class="team-image-container">
 <img class="team-image" src="/images/Tess.jpg">
-<a href="https://www.linkedin.com/in/zoe-fredrickson-098101209/">
+<a href="https://www.linkedin.com/in/tess-galloway-4506302a3/">
 <div class="linkedin-holder">
 <i class="linkedin-icon fa fa-linkedin"></i>
 </div>
@@ -168,7 +168,7 @@ include_footer: true
 <div class="team-member">
 <div class="team-image-container">
 <img class="team-image" src="/images/Will.jpg">
-<a href="https://www.linkedin.com/in/zoe-fredrickson-098101209/">
+<a href="https://www.linkedin.com/in/william-franklin-8b9615255/">
 <div class="linkedin-holder">
 <i class="linkedin-icon fa fa-linkedin"></i>
 </div>
@@ -184,7 +184,7 @@ include_footer: true
 <div class="team-member">
 <div class="team-image-container">
 <img class="team-image" src="/images/Katy.jpg">
-<a href="https://www.linkedin.com/in/zoe-fredrickson-098101209/">
+<a href="https://www.linkedin.com/in/katherinegraves1/">
 <div class="linkedin-holder">
 <i class="linkedin-icon fa fa-linkedin"></i>
 </div>
