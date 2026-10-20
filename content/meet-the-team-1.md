@@ -54,7 +54,7 @@ include_footer: true
 
 <div class="team-member">
 <div class="team-image-container">
-<img class="team-image" src="/images/satvik.jpg">
+<img class="team-image" src="images/Satvik.jpg">
 <a href="https://www.linkedin.com/in/graham-roeger-1193a81a0">
 
 <div class="linkedin-holder">
@@ -71,7 +71,7 @@ include_footer: true
 
 <div class="team-member">
 <div class="team-image-container">
-<img class="team-image" src="/images/zoe.png">
+<img class="team-image" src="/images/Zoe.png">
 <a href="https://www.linkedin.com/in/nikita-nandanwad-9013a3178/">
 <div class="linkedin-holder">
 <i class="linkedin-icon fa fa-linkedin"></i>
@@ -87,7 +87,7 @@ include_footer: true
 
 <div class="team-member">
 <div class="team-image-container">
-<img class="team-image" src="/images/team/Cosmo.jpg">
+<img class="team-image" src="/images/Devansh.jpg">
 <a href="https://www.linkedin.com/in/cosmasmwamwembe/">
 <div class="linkedin-holder">
 <i class="linkedin-icon fa fa-linkedin"></i>
@@ -103,7 +103,7 @@ include_footer: true
 
 <div class="team-member">
 <div class="team-image-container">
-<img class="team-image" src="/images/team/Camilla Prosper.png">
+<img class="team-image" src="/images/Jacob.jpg">
 <a href="https://www.linkedin.com/in/camilla-carere">
 <div class="linkedin-holder">
 <i class="linkedin-icon fa fa-linkedin"></i>
