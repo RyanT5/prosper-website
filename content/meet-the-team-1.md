@@ -22,7 +22,7 @@ include_footer: true
 
 <div class="team-member">
 <div class="team-image-container">
-<img class="team-image" src="/images/team/Prosper Matt.png">
+<img class="team-image" src="/images/oscar.jpg">
 <a href="https://www.linkedin.com/in/matthew-hales-2719b6214/">
 <div class="linkedin-holder">
 <i class="linkedin-icon fa fa-linkedin"></i>
@@ -38,7 +38,7 @@ include_footer: true
 
 <div class="team-member">
 <div class="team-image-container">
-<img class="team-image" src="/images/team/Charlie.jpg">
+<img class="team-image" src="/images/katerina.jpeg">
 <a href="https://www.linkedin.com/in/charlie-denton-3b1172200/">
 <div class="linkedin-holder">
 <i class="linkedin-icon fa fa-linkedin"></i>
@@ -54,11 +54,7 @@ include_footer: true
 
 <div class="team-member">
 <div class="team-image-container">
-<img class="team-image" src="
-
-![/images/team/Graham Roeger.jpg](/images/graham.jpeg "/images/team/Graham Roeger.jpg")
-
-">
+<img class="team-image" src="/images/satvik.jpg">
 <a href="https://www.linkedin.com/in/graham-roeger-1193a81a0">
 
 <div class="linkedin-holder">
@@ -75,7 +71,7 @@ include_footer: true
 
 <div class="team-member">
 <div class="team-image-container">
-<img class="team-image" src="/images/team/Nikita.jpg">
+<img class="team-image" src="/images/zoe.png">
 <a href="https://www.linkedin.com/in/nikita-nandanwad-9013a3178/">
 <div class="linkedin-holder">
 <i class="linkedin-icon fa fa-linkedin"></i>
