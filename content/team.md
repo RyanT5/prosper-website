@@ -81,7 +81,7 @@ include_footer: true
 <div class="team-info-container">
 <h3 class="team-member-name">Zoë Fraser Turner</h3>
 <h5 class="team-member-position">Head of Social Impact</h5>
-<p>“I joined Prosper in second year knowing very little about social finance and ESG investment. I left feeling inspired, motivated and grateful for the opportunity to work in teams of motivated students towards tangible good. I am passionate about removing barriers to entry and continuing to learn about sustainable finance and ESG, as well as delivering social impact around Edinburgh. I encourage anyone who wants to learn something new, work on difficult problems, and meet interesting people to join Prosper!"</p>
+<p>“I joined Prosper in second year knowing very little about social finance and ESG investment. I left feeling inspired, motivated and grateful for the opportunity to work in teams of motivated students towards tangible good. I am passionate about removing barriers to entry and continuing to learn about sustainable finance and ESG, as well as delivering social impact around Edinburgh."</p>
 </div>
 </div>
 
