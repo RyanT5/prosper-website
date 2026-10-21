@@ -22,7 +22,7 @@ include_footer: true
 
 <div class="team-member">
 <div class="team-image-container">
-<img class="team-image" src="/images/Oscar.jpg">
+<img class="team-image" src="/images/oscar.jpg">
 <a href="https://www.linkedin.com/in/oscar-petterson-fuentes-229877320/">
 <div class="linkedin-holder">
 <i class="linkedin-icon fa fa-linkedin"></i>
