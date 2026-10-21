@@ -32,7 +32,7 @@ include_footer: true
 <div class="team-info-container">
 <h3 class="team-member-name">Oscar Petterson Fuentes</h3>
 <h5 class="team-member-position">Managing Director</h5>
-<p>"Hi everyone, I'm Oscar, a fourth-year Sustainable Development student. I joined Prosper through the Analyst Training Programme and was immediately drawn to how it connects students from all backgrounds with real-world impact investing. This year, I'm excited to develop Prosper's investment strategy and help lead the fund forward, while continuing to build the supportive, inclusive community that makes Prosper what it is. I'd encourage anyone curious about ESG or impact investing, whatever your degree, to get involved.”</p>
+<p>"Hi everyone, I'm Oscar, a fourth-year Sustainable Development student. I joined Prosper through the Analyst Training Programme and was immediately drawn to how it connects students from all backgrounds with real-world impact investing. This year, I'm excited to develop Prosper's investment strategy and help lead the fund forward, while continuing to build the supportive, inclusive community that makes Prosper what it is.”</p>
 </div>
 </div>
 
@@ -48,7 +48,7 @@ include_footer: true
 <div class="team-info-container">
 <h3 class="team-member-name">Katerina Taylor Mojsovski</h3>
 <h5 class="team-member-position">Director of Portfolio Research</h5>
-<p>“Hi! My name is Katerina, and I’m a 4th Year Economics student. I’m really excited to be returning to management to lead our portfolio as Prosper’s Director of Portfolio Research. Alongside the mission of creating investment strategies that contribute to positive change, Prosper is such a unique space where ideas, collaboration, and purpose all come together. Excited for the year!.”</p>
+<p>“Hi! My name is Katerina, and I’m a 4th Year Economics student. I’m really excited to be returning to management to lead our portfolio as Prosper’s Director of Portfolio Research. Alongside the mission of creating investment strategies that contribute to positive change, Prosper is such a unique space where ideas, collaboration, and purpose all come together. Excited for the year!”</p>
 </div>
 </div>
 
@@ -145,7 +145,7 @@ include_footer: true
 <div class="team-info-container">
 <h3 class="team-member-name">Jing Chi</h3>
 <h5 class="team-member-position">Head of Marketing</h5>
-<p>“I joined Prosper’s ATP in the first semester of my second year and found it to be a really valuable learning experience. I enjoyed working alongside like-minded students while developing new skills and learning from the team throughout the programme. The following semester, I joined the SAP, while gave me the opportunity to further develop these skills and put them into practice. I’m looking forward to taking on the role of Head of Marketing this year!”</p>
+<p>“I joined Prosper’s ATP in the first semester of my second year and found it to be a really valuable learning experience. I enjoyed working alongside like-minded students while developing new skills and learning from the team throughout the programme. The following semester, I joined the SAP, which gave me the opportunity to further develop these skills and put them into practice. I’m looking forward to taking on the role of Head of Marketing this year!”</p>
 </div>
 </div>
 
@@ -159,7 +159,7 @@ include_footer: true
 </a>
 </div>
 <div class="team-info-container">
-<h3 class="team-member-name">Tess Gallloway</h3>
+<h3 class="team-member-name">Tess Galloway</h3>
 <h5 class="team-member-position">Head of Strategic Relations</h5>
 <p>“Prosper has been one of the most formative aspects of my university experience. I joined to learn more about investment and to gain real experience pitching and presenting but I have also valued the mentorship from and collaboration with others across a wide range of degree backgrounds. Prosper has shown me how multidisciplinary finance can be.”</p>
 </div>
