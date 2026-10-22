@@ -1,11 +1,11 @@
-{{- $inServerMode := .Site.IsServer }}
+{{- $inServerMode := hugo.IsServer }}
 {{- $sass         := "style.sass" }}
 {{- $cssTarget    := "css/style.css" }}
 {{- $cssOpts      := cond ($inServerMode) (dict "targetPath" $cssTarget "enableSourceMap" true) (dict "targetPath" $cssTarget "outputStyle" "compressed") }}
 {{- $fontName     := .Site.Params.font.name | default "Open Sans" }}
 {{- $fontFace     := replace $fontName " " "+" }}
-{{- $fontSizes    := delimit (.Site.Params.font.sizes | default (slice 300 400 600 700)) "," }}
-{{- $fontUrl      := printf "https://fonts.googleapis.com/css?family=%s:%s" $fontFace $fontSizes }}
+{{- $fontSizes    := delimit (.Site.Params.font.sizes | default (slice 300 400 600 700)) ";" }}
+{{- $fontUrl      := printf "https://googleapis.com" $fontFace $fontSizes }}
 <link href="https://fonts.googleapis.com/css2?family=Spartan:wght@500&display=swap" rel="stylesheet">
 <link rel="icon" type="image/png" href="{{ "images/favicon.png" | relURL }}" />
 <link href="{{ $fontUrl }}" rel="stylesheet">
