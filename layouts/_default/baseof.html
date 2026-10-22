@@ -9,9 +9,11 @@
 
 <body>
   <!-- Preloader -->
+  {{- if not hugo.IsServer }}
   <div id="preloader">
     <div id="status"></div>
   </div>
+  {{- end }}
 
   {{ block "main" . }}
   {{ end }}
