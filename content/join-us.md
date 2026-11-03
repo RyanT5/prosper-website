@@ -8,9 +8,9 @@ Are you looking for an exciting challenge, meet new people, and most importantly
 
 We welcome and encourage all students from the University of Edinburgh - regardless of year and degree - to apply. 
 
-Applications for our Senior Analyst Programme are open until January 15th at 11:59 PM GMT! Apply here: https://docs.google.com/forms/d/1FFze9eJi_4HG4thr0-5cwhylaUU93_RctDzTIcokxZ4/edit#responses
+Applications are now closed.
 
-Applications for our Junior Analyst Programme are open until January 15th at 11:59 PM GMT! Apply here: https://docs.google.com/forms/d/1yZ2bIXQrXnnhz7ThR8dmqNmQxQ-hw7fvsgweLh5Yr4U/edit
+Our cohort for this semester has been selected. Stay tuned for next semester's intake and your next opportunity to join Prosper. 
 
 <a href="http://eepurl.com/dEBYnX">
 <span class="button signup-button rounded secondary-btn raised" style="width: 250px; margin: auto; margin-top: 40px; display: flex;">
